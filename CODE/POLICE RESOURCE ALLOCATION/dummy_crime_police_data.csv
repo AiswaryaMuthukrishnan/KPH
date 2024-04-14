@@ -1,0 +1,3001 @@
+crime_type,location_type,time_of_day,severity,police_station,patrol_cars,officers
+Vandalism,Rural,Afternoon,Medium,Station A,11,9
+Vandalism,Rural,Afternoon,Medium,Station B,10,24
+Vandalism,Rural,Afternoon,Medium,Station C,5,33
+Robbery,Suburban,Evening,Medium,Station A,9,8
+Robbery,Suburban,Evening,Medium,Station B,10,25
+Robbery,Suburban,Evening,Medium,Station C,8,33
+Vandalism,Suburban,Evening,Medium,Station A,11,5
+Vandalism,Suburban,Evening,Medium,Station B,7,26
+Vandalism,Suburban,Evening,Medium,Station C,6,32
+Fraud,Urban,Night,Low,Station A,10,3
+Fraud,Urban,Night,Low,Station B,9,29
+Fraud,Urban,Night,Low,Station C,5,32
+Robbery,Suburban,Night,Medium,Station A,9,5
+Robbery,Suburban,Night,Medium,Station B,6,27
+Robbery,Suburban,Night,Medium,Station C,9,30
+Vandalism,Rural,Evening,Low,Station A,11,8
+Vandalism,Rural,Evening,Low,Station B,8,30
+Vandalism,Rural,Evening,Low,Station C,8,36
+Assault,Suburban,Evening,Low,Station A,10,4
+Assault,Suburban,Evening,Low,Station B,9,30
+Assault,Suburban,Evening,Low,Station C,7,33
+Assault,Suburban,Afternoon,High,Station A,9,4
+Assault,Suburban,Afternoon,High,Station B,8,30
+Assault,Suburban,Afternoon,High,Station C,9,32
+Vandalism,Rural,Morning,Medium,Station A,11,4
+Vandalism,Rural,Morning,Medium,Station B,8,29
+Vandalism,Rural,Morning,Medium,Station C,7,30
+Burglary,Suburban,Afternoon,Medium,Station A,9,6
+Burglary,Suburban,Afternoon,Medium,Station B,8,30
+Burglary,Suburban,Afternoon,Medium,Station C,5,34
+Assault,Urban,Evening,Medium,Station A,8,3
+Assault,Urban,Evening,Medium,Station B,8,24
+Assault,Urban,Evening,Medium,Station C,5,32
+Assault,Suburban,Evening,Low,Station A,10,8
+Assault,Suburban,Evening,Low,Station B,9,24
+Assault,Suburban,Evening,Low,Station C,6,31
+Vandalism,Suburban,Afternoon,High,Station A,8,3
+Vandalism,Suburban,Afternoon,High,Station B,10,24
+Vandalism,Suburban,Afternoon,High,Station C,9,30
+Vandalism,Urban,Night,Low,Station A,11,4
+Vandalism,Urban,Night,Low,Station B,10,30
+Vandalism,Urban,Night,Low,Station C,5,33
+Drug Offense,Suburban,Afternoon,Medium,Station A,10,4
+Drug Offense,Suburban,Afternoon,Medium,Station B,6,25
+Drug Offense,Suburban,Afternoon,Medium,Station C,7,34
+Burglary,Rural,Afternoon,Low,Station A,12,9
+Burglary,Rural,Afternoon,Low,Station B,9,28
+Burglary,Rural,Afternoon,Low,Station C,7,32
+Drug Offense,Suburban,Morning,Medium,Station A,10,9
+Drug Offense,Suburban,Morning,Medium,Station B,9,25
+Drug Offense,Suburban,Morning,Medium,Station C,8,30
+Vandalism,Rural,Evening,Medium,Station A,10,6
+Vandalism,Rural,Evening,Medium,Station B,9,26
+Vandalism,Rural,Evening,Medium,Station C,9,31
+Vandalism,Urban,Night,Medium,Station A,9,9
+Vandalism,Urban,Night,Medium,Station B,8,28
+Vandalism,Urban,Night,Medium,Station C,6,34
+Vandalism,Rural,Evening,Low,Station A,9,7
+Vandalism,Rural,Evening,Low,Station B,7,29
+Vandalism,Rural,Evening,Low,Station C,8,36
+Burglary,Urban,Night,Medium,Station A,8,9
+Burglary,Urban,Night,Medium,Station B,8,29
+Burglary,Urban,Night,Medium,Station C,6,36
+Theft,Rural,Morning,Medium,Station A,8,3
+Theft,Rural,Morning,Medium,Station B,8,26
+Theft,Rural,Morning,Medium,Station C,8,34
+Burglary,Suburban,Evening,High,Station A,12,5
+Burglary,Suburban,Evening,High,Station B,10,25
+Burglary,Suburban,Evening,High,Station C,6,33
+Burglary,Suburban,Evening,Medium,Station A,10,4
+Burglary,Suburban,Evening,Medium,Station B,6,27
+Burglary,Suburban,Evening,Medium,Station C,5,30
+Robbery,Urban,Morning,Medium,Station A,12,7
+Robbery,Urban,Morning,Medium,Station B,7,30
+Robbery,Urban,Morning,Medium,Station C,7,31
+Vandalism,Rural,Evening,Medium,Station A,9,9
+Vandalism,Rural,Evening,Medium,Station B,10,26
+Vandalism,Rural,Evening,Medium,Station C,6,35
+Assault,Urban,Night,Low,Station A,10,6
+Assault,Urban,Night,Low,Station B,8,26
+Assault,Urban,Night,Low,Station C,5,35
+Theft,Rural,Evening,High,Station A,9,7
+Theft,Rural,Evening,High,Station B,10,24
+Theft,Rural,Evening,High,Station C,7,36
+Theft,Rural,Morning,High,Station A,12,8
+Theft,Rural,Morning,High,Station B,6,27
+Theft,Rural,Morning,High,Station C,5,34
+Assault,Urban,Afternoon,Low,Station A,12,8
+Assault,Urban,Afternoon,Low,Station B,8,30
+Assault,Urban,Afternoon,Low,Station C,8,30
+Drug Offense,Rural,Evening,High,Station A,12,4
+Drug Offense,Rural,Evening,High,Station B,6,25
+Drug Offense,Rural,Evening,High,Station C,8,32
+Burglary,Urban,Morning,Medium,Station A,11,4
+Burglary,Urban,Morning,Medium,Station B,10,24
+Burglary,Urban,Morning,Medium,Station C,5,33
+Robbery,Rural,Morning,Low,Station A,9,5
+Robbery,Rural,Morning,Low,Station B,10,26
+Robbery,Rural,Morning,Low,Station C,7,36
+Robbery,Rural,Night,Medium,Station A,8,4
+Robbery,Rural,Night,Medium,Station B,8,25
+Robbery,Rural,Night,Medium,Station C,8,31
+Fraud,Rural,Evening,Medium,Station A,11,9
+Fraud,Rural,Evening,Medium,Station B,9,24
+Fraud,Rural,Evening,Medium,Station C,7,32
+Fraud,Suburban,Morning,High,Station A,11,4
+Fraud,Suburban,Morning,High,Station B,8,30
+Fraud,Suburban,Morning,High,Station C,6,36
+Fraud,Suburban,Morning,Low,Station A,10,9
+Fraud,Suburban,Morning,Low,Station B,7,27
+Fraud,Suburban,Morning,Low,Station C,6,34
+Assault,Rural,Morning,High,Station A,11,6
+Assault,Rural,Morning,High,Station B,7,27
+Assault,Rural,Morning,High,Station C,5,31
+Drug Offense,Urban,Night,Medium,Station A,8,5
+Drug Offense,Urban,Night,Medium,Station B,10,25
+Drug Offense,Urban,Night,Medium,Station C,9,30
+Burglary,Urban,Night,Low,Station A,8,3
+Burglary,Urban,Night,Low,Station B,6,29
+Burglary,Urban,Night,Low,Station C,5,36
+Drug Offense,Suburban,Night,Low,Station A,10,9
+Drug Offense,Suburban,Night,Low,Station B,7,29
+Drug Offense,Suburban,Night,Low,Station C,6,34
+Drug Offense,Urban,Night,High,Station A,12,3
+Drug Offense,Urban,Night,High,Station B,10,28
+Drug Offense,Urban,Night,High,Station C,5,30
+Fraud,Urban,Night,Low,Station A,12,4
+Fraud,Urban,Night,Low,Station B,7,29
+Fraud,Urban,Night,Low,Station C,7,34
+Theft,Suburban,Afternoon,Low,Station A,8,4
+Theft,Suburban,Afternoon,Low,Station B,9,30
+Theft,Suburban,Afternoon,Low,Station C,5,35
+Assault,Rural,Night,Low,Station A,11,7
+Assault,Rural,Night,Low,Station B,10,28
+Assault,Rural,Night,Low,Station C,7,36
+Burglary,Rural,Evening,Low,Station A,9,8
+Burglary,Rural,Evening,Low,Station B,9,26
+Burglary,Rural,Evening,Low,Station C,8,31
+Drug Offense,Suburban,Morning,Low,Station A,10,6
+Drug Offense,Suburban,Morning,Low,Station B,9,27
+Drug Offense,Suburban,Morning,Low,Station C,8,32
+Burglary,Suburban,Night,High,Station A,10,3
+Burglary,Suburban,Night,High,Station B,8,26
+Burglary,Suburban,Night,High,Station C,8,35
+Assault,Rural,Morning,Low,Station A,9,8
+Assault,Rural,Morning,Low,Station B,8,27
+Assault,Rural,Morning,Low,Station C,9,31
+Burglary,Rural,Night,High,Station A,8,3
+Burglary,Rural,Night,High,Station B,6,25
+Burglary,Rural,Night,High,Station C,7,35
+Theft,Suburban,Night,Low,Station A,8,5
+Theft,Suburban,Night,Low,Station B,8,26
+Theft,Suburban,Night,Low,Station C,6,33
+Assault,Suburban,Night,High,Station A,9,7
+Assault,Suburban,Night,High,Station B,7,24
+Assault,Suburban,Night,High,Station C,6,33
+Fraud,Suburban,Afternoon,High,Station A,9,8
+Fraud,Suburban,Afternoon,High,Station B,6,29
+Fraud,Suburban,Afternoon,High,Station C,7,31
+Drug Offense,Rural,Afternoon,Medium,Station A,11,7
+Drug Offense,Rural,Afternoon,Medium,Station B,9,29
+Drug Offense,Rural,Afternoon,Medium,Station C,8,33
+Vandalism,Urban,Morning,High,Station A,9,4
+Vandalism,Urban,Morning,High,Station B,6,29
+Vandalism,Urban,Morning,High,Station C,5,35
+Burglary,Suburban,Evening,High,Station A,12,5
+Burglary,Suburban,Evening,High,Station B,7,30
+Burglary,Suburban,Evening,High,Station C,9,35
+Burglary,Urban,Evening,Medium,Station A,10,8
+Burglary,Urban,Evening,Medium,Station B,8,25
+Burglary,Urban,Evening,Medium,Station C,9,30
+Vandalism,Suburban,Morning,Medium,Station A,11,8
+Vandalism,Suburban,Morning,Medium,Station B,8,30
+Vandalism,Suburban,Morning,Medium,Station C,5,36
+Drug Offense,Suburban,Afternoon,Low,Station A,8,9
+Drug Offense,Suburban,Afternoon,Low,Station B,8,28
+Drug Offense,Suburban,Afternoon,Low,Station C,5,31
+Fraud,Suburban,Afternoon,Medium,Station A,10,6
+Fraud,Suburban,Afternoon,Medium,Station B,6,27
+Fraud,Suburban,Afternoon,Medium,Station C,6,34
+Vandalism,Rural,Night,Medium,Station A,11,3
+Vandalism,Rural,Night,Medium,Station B,9,25
+Vandalism,Rural,Night,Medium,Station C,9,34
+Robbery,Urban,Morning,Medium,Station A,11,9
+Robbery,Urban,Morning,Medium,Station B,8,27
+Robbery,Urban,Morning,Medium,Station C,9,33
+Assault,Rural,Night,Low,Station A,11,5
+Assault,Rural,Night,Low,Station B,7,29
+Assault,Rural,Night,Low,Station C,9,34
+Drug Offense,Rural,Night,Medium,Station A,8,4
+Drug Offense,Rural,Night,Medium,Station B,6,29
+Drug Offense,Rural,Night,Medium,Station C,9,36
+Vandalism,Suburban,Night,Medium,Station A,9,4
+Vandalism,Suburban,Night,Medium,Station B,6,28
+Vandalism,Suburban,Night,Medium,Station C,7,36
+Theft,Suburban,Evening,Medium,Station A,12,9
+Theft,Suburban,Evening,Medium,Station B,9,28
+Theft,Suburban,Evening,Medium,Station C,8,36
+Assault,Urban,Morning,High,Station A,11,9
+Assault,Urban,Morning,High,Station B,7,25
+Assault,Urban,Morning,High,Station C,7,33
+Vandalism,Urban,Night,Low,Station A,11,7
+Vandalism,Urban,Night,Low,Station B,9,24
+Vandalism,Urban,Night,Low,Station C,9,36
+Assault,Suburban,Afternoon,Low,Station A,9,5
+Assault,Suburban,Afternoon,Low,Station B,7,30
+Assault,Suburban,Afternoon,Low,Station C,5,34
+Theft,Rural,Afternoon,Medium,Station A,9,7
+Theft,Rural,Afternoon,Medium,Station B,10,28
+Theft,Rural,Afternoon,Medium,Station C,6,30
+Fraud,Rural,Morning,Low,Station A,12,8
+Fraud,Rural,Morning,Low,Station B,8,28
+Fraud,Rural,Morning,Low,Station C,5,34
+Drug Offense,Suburban,Night,Low,Station A,10,6
+Drug Offense,Suburban,Night,Low,Station B,8,28
+Drug Offense,Suburban,Night,Low,Station C,5,34
+Burglary,Rural,Night,Medium,Station A,11,5
+Burglary,Rural,Night,Medium,Station B,6,27
+Burglary,Rural,Night,Medium,Station C,6,35
+Vandalism,Rural,Night,Medium,Station A,8,5
+Vandalism,Rural,Night,Medium,Station B,6,29
+Vandalism,Rural,Night,Medium,Station C,5,36
+Assault,Urban,Night,Medium,Station A,12,7
+Assault,Urban,Night,Medium,Station B,8,28
+Assault,Urban,Night,Medium,Station C,8,30
+Theft,Suburban,Night,Low,Station A,8,5
+Theft,Suburban,Night,Low,Station B,9,25
+Theft,Suburban,Night,Low,Station C,5,31
+Robbery,Suburban,Afternoon,Medium,Station A,8,9
+Robbery,Suburban,Afternoon,Medium,Station B,8,27
+Robbery,Suburban,Afternoon,Medium,Station C,7,32
+Vandalism,Urban,Afternoon,Low,Station A,12,8
+Vandalism,Urban,Afternoon,Low,Station B,9,25
+Vandalism,Urban,Afternoon,Low,Station C,6,33
+Fraud,Urban,Afternoon,High,Station A,9,9
+Fraud,Urban,Afternoon,High,Station B,6,28
+Fraud,Urban,Afternoon,High,Station C,7,35
+Robbery,Rural,Afternoon,High,Station A,9,5
+Robbery,Rural,Afternoon,High,Station B,10,27
+Robbery,Rural,Afternoon,High,Station C,8,33
+Theft,Urban,Afternoon,High,Station A,11,3
+Theft,Urban,Afternoon,High,Station B,7,27
+Theft,Urban,Afternoon,High,Station C,9,36
+Drug Offense,Rural,Evening,High,Station A,9,5
+Drug Offense,Rural,Evening,High,Station B,8,27
+Drug Offense,Rural,Evening,High,Station C,5,32
+Drug Offense,Suburban,Evening,High,Station A,12,8
+Drug Offense,Suburban,Evening,High,Station B,8,24
+Drug Offense,Suburban,Evening,High,Station C,9,31
+Theft,Urban,Morning,Medium,Station A,10,3
+Theft,Urban,Morning,Medium,Station B,10,29
+Theft,Urban,Morning,Medium,Station C,7,32
+Drug Offense,Suburban,Afternoon,High,Station A,8,7
+Drug Offense,Suburban,Afternoon,High,Station B,9,28
+Drug Offense,Suburban,Afternoon,High,Station C,9,30
+Robbery,Suburban,Night,High,Station A,8,9
+Robbery,Suburban,Night,High,Station B,10,27
+Robbery,Suburban,Night,High,Station C,6,32
+Assault,Urban,Night,Medium,Station A,12,4
+Assault,Urban,Night,Medium,Station B,10,26
+Assault,Urban,Night,Medium,Station C,9,33
+Assault,Urban,Night,Medium,Station A,8,7
+Assault,Urban,Night,Medium,Station B,6,27
+Assault,Urban,Night,Medium,Station C,9,34
+Drug Offense,Rural,Afternoon,Medium,Station A,11,8
+Drug Offense,Rural,Afternoon,Medium,Station B,8,25
+Drug Offense,Rural,Afternoon,Medium,Station C,6,32
+Theft,Rural,Night,High,Station A,11,4
+Theft,Rural,Night,High,Station B,6,28
+Theft,Rural,Night,High,Station C,6,35
+Theft,Rural,Morning,Low,Station A,10,7
+Theft,Rural,Morning,Low,Station B,6,27
+Theft,Rural,Morning,Low,Station C,8,35
+Burglary,Rural,Afternoon,Low,Station A,8,4
+Burglary,Rural,Afternoon,Low,Station B,9,30
+Burglary,Rural,Afternoon,Low,Station C,8,36
+Robbery,Rural,Night,High,Station A,9,4
+Robbery,Rural,Night,High,Station B,6,25
+Robbery,Rural,Night,High,Station C,5,34
+Burglary,Suburban,Evening,Low,Station A,11,7
+Burglary,Suburban,Evening,Low,Station B,8,28
+Burglary,Suburban,Evening,Low,Station C,9,32
+Drug Offense,Urban,Evening,Low,Station A,12,4
+Drug Offense,Urban,Evening,Low,Station B,9,29
+Drug Offense,Urban,Evening,Low,Station C,8,30
+Theft,Suburban,Afternoon,Low,Station A,11,4
+Theft,Suburban,Afternoon,Low,Station B,6,30
+Theft,Suburban,Afternoon,Low,Station C,8,34
+Theft,Rural,Morning,Medium,Station A,11,5
+Theft,Rural,Morning,Medium,Station B,9,28
+Theft,Rural,Morning,Medium,Station C,9,34
+Vandalism,Rural,Night,Low,Station A,12,4
+Vandalism,Rural,Night,Low,Station B,7,30
+Vandalism,Rural,Night,Low,Station C,9,34
+Vandalism,Urban,Evening,High,Station A,12,3
+Vandalism,Urban,Evening,High,Station B,10,24
+Vandalism,Urban,Evening,High,Station C,8,31
+Robbery,Suburban,Morning,High,Station A,8,6
+Robbery,Suburban,Morning,High,Station B,10,30
+Robbery,Suburban,Morning,High,Station C,6,33
+Burglary,Rural,Night,High,Station A,11,5
+Burglary,Rural,Night,High,Station B,6,27
+Burglary,Rural,Night,High,Station C,6,31
+Drug Offense,Suburban,Morning,Medium,Station A,9,5
+Drug Offense,Suburban,Morning,Medium,Station B,10,28
+Drug Offense,Suburban,Morning,Medium,Station C,7,34
+Burglary,Suburban,Afternoon,Medium,Station A,12,4
+Burglary,Suburban,Afternoon,Medium,Station B,7,30
+Burglary,Suburban,Afternoon,Medium,Station C,8,35
+Drug Offense,Suburban,Night,High,Station A,8,5
+Drug Offense,Suburban,Night,High,Station B,6,25
+Drug Offense,Suburban,Night,High,Station C,6,30
+Theft,Urban,Night,Medium,Station A,8,6
+Theft,Urban,Night,Medium,Station B,7,26
+Theft,Urban,Night,Medium,Station C,7,33
+Vandalism,Rural,Afternoon,Medium,Station A,8,4
+Vandalism,Rural,Afternoon,Medium,Station B,10,29
+Vandalism,Rural,Afternoon,Medium,Station C,7,35
+Robbery,Urban,Night,Low,Station A,10,9
+Robbery,Urban,Night,Low,Station B,6,25
+Robbery,Urban,Night,Low,Station C,9,31
+Assault,Suburban,Afternoon,Medium,Station A,12,6
+Assault,Suburban,Afternoon,Medium,Station B,7,28
+Assault,Suburban,Afternoon,Medium,Station C,8,31
+Robbery,Suburban,Afternoon,Medium,Station A,9,5
+Robbery,Suburban,Afternoon,Medium,Station B,8,28
+Robbery,Suburban,Afternoon,Medium,Station C,6,31
+Theft,Urban,Night,Low,Station A,12,5
+Theft,Urban,Night,Low,Station B,6,26
+Theft,Urban,Night,Low,Station C,8,35
+Vandalism,Rural,Afternoon,Low,Station A,11,9
+Vandalism,Rural,Afternoon,Low,Station B,6,24
+Vandalism,Rural,Afternoon,Low,Station C,6,36
+Drug Offense,Rural,Afternoon,Low,Station A,11,4
+Drug Offense,Rural,Afternoon,Low,Station B,6,27
+Drug Offense,Rural,Afternoon,Low,Station C,6,34
+Burglary,Rural,Night,Medium,Station A,10,7
+Burglary,Rural,Night,Medium,Station B,6,29
+Burglary,Rural,Night,Medium,Station C,5,34
+Fraud,Suburban,Night,High,Station A,9,8
+Fraud,Suburban,Night,High,Station B,8,26
+Fraud,Suburban,Night,High,Station C,8,34
+Robbery,Urban,Morning,High,Station A,12,6
+Robbery,Urban,Morning,High,Station B,6,30
+Robbery,Urban,Morning,High,Station C,5,34
+Vandalism,Urban,Afternoon,High,Station A,11,5
+Vandalism,Urban,Afternoon,High,Station B,10,27
+Vandalism,Urban,Afternoon,High,Station C,5,34
+Fraud,Suburban,Afternoon,Low,Station A,12,5
+Fraud,Suburban,Afternoon,Low,Station B,9,29
+Fraud,Suburban,Afternoon,Low,Station C,6,35
+Vandalism,Rural,Afternoon,Medium,Station A,9,3
+Vandalism,Rural,Afternoon,Medium,Station B,10,29
+Vandalism,Rural,Afternoon,Medium,Station C,8,34
+Burglary,Suburban,Night,Low,Station A,9,8
+Burglary,Suburban,Night,Low,Station B,9,24
+Burglary,Suburban,Night,Low,Station C,5,30
+Theft,Urban,Night,Low,Station A,8,6
+Theft,Urban,Night,Low,Station B,7,29
+Theft,Urban,Night,Low,Station C,5,31
+Robbery,Urban,Evening,Low,Station A,10,8
+Robbery,Urban,Evening,Low,Station B,6,24
+Robbery,Urban,Evening,Low,Station C,6,35
+Drug Offense,Rural,Night,Low,Station A,12,8
+Drug Offense,Rural,Night,Low,Station B,7,28
+Drug Offense,Rural,Night,Low,Station C,5,34
+Vandalism,Suburban,Afternoon,Medium,Station A,12,5
+Vandalism,Suburban,Afternoon,Medium,Station B,9,25
+Vandalism,Suburban,Afternoon,Medium,Station C,7,33
+Drug Offense,Urban,Afternoon,Low,Station A,12,6
+Drug Offense,Urban,Afternoon,Low,Station B,9,28
+Drug Offense,Urban,Afternoon,Low,Station C,7,31
+Robbery,Urban,Morning,High,Station A,10,7
+Robbery,Urban,Morning,High,Station B,10,27
+Robbery,Urban,Morning,High,Station C,7,32
+Robbery,Suburban,Morning,Low,Station A,11,4
+Robbery,Suburban,Morning,Low,Station B,8,24
+Robbery,Suburban,Morning,Low,Station C,9,35
+Robbery,Suburban,Night,Medium,Station A,10,3
+Robbery,Suburban,Night,Medium,Station B,10,28
+Robbery,Suburban,Night,Medium,Station C,9,35
+Burglary,Suburban,Afternoon,Medium,Station A,11,7
+Burglary,Suburban,Afternoon,Medium,Station B,9,28
+Burglary,Suburban,Afternoon,Medium,Station C,7,31
+Burglary,Urban,Night,Low,Station A,11,4
+Burglary,Urban,Night,Low,Station B,7,30
+Burglary,Urban,Night,Low,Station C,6,32
+Fraud,Suburban,Morning,Medium,Station A,10,7
+Fraud,Suburban,Morning,Medium,Station B,9,24
+Fraud,Suburban,Morning,Medium,Station C,5,32
+Assault,Urban,Afternoon,Medium,Station A,11,5
+Assault,Urban,Afternoon,Medium,Station B,7,28
+Assault,Urban,Afternoon,Medium,Station C,5,35
+Burglary,Urban,Night,Medium,Station A,9,5
+Burglary,Urban,Night,Medium,Station B,6,25
+Burglary,Urban,Night,Medium,Station C,9,36
+Burglary,Rural,Afternoon,High,Station A,9,6
+Burglary,Rural,Afternoon,High,Station B,9,25
+Burglary,Rural,Afternoon,High,Station C,7,35
+Assault,Urban,Morning,Low,Station A,11,9
+Assault,Urban,Morning,Low,Station B,8,27
+Assault,Urban,Morning,Low,Station C,7,34
+Assault,Urban,Morning,Medium,Station A,10,4
+Assault,Urban,Morning,Medium,Station B,10,25
+Assault,Urban,Morning,Medium,Station C,6,35
+Robbery,Urban,Morning,Medium,Station A,8,8
+Robbery,Urban,Morning,Medium,Station B,8,28
+Robbery,Urban,Morning,Medium,Station C,5,33
+Drug Offense,Suburban,Night,High,Station A,9,6
+Drug Offense,Suburban,Night,High,Station B,8,24
+Drug Offense,Suburban,Night,High,Station C,7,34
+Assault,Suburban,Night,High,Station A,8,7
+Assault,Suburban,Night,High,Station B,9,28
+Assault,Suburban,Night,High,Station C,9,32
+Assault,Urban,Afternoon,Low,Station A,10,6
+Assault,Urban,Afternoon,Low,Station B,9,24
+Assault,Urban,Afternoon,Low,Station C,6,34
+Assault,Rural,Night,Medium,Station A,12,8
+Assault,Rural,Night,Medium,Station B,6,28
+Assault,Rural,Night,Medium,Station C,5,34
+Vandalism,Rural,Afternoon,Low,Station A,11,5
+Vandalism,Rural,Afternoon,Low,Station B,7,29
+Vandalism,Rural,Afternoon,Low,Station C,6,35
+Assault,Rural,Night,High,Station A,11,3
+Assault,Rural,Night,High,Station B,8,28
+Assault,Rural,Night,High,Station C,5,34
+Fraud,Urban,Afternoon,High,Station A,12,3
+Fraud,Urban,Afternoon,High,Station B,6,25
+Fraud,Urban,Afternoon,High,Station C,9,36
+Drug Offense,Urban,Evening,High,Station A,9,7
+Drug Offense,Urban,Evening,High,Station B,10,24
+Drug Offense,Urban,Evening,High,Station C,6,35
+Vandalism,Urban,Morning,Low,Station A,8,7
+Vandalism,Urban,Morning,Low,Station B,6,24
+Vandalism,Urban,Morning,Low,Station C,7,32
+Fraud,Urban,Evening,High,Station A,12,5
+Fraud,Urban,Evening,High,Station B,10,26
+Fraud,Urban,Evening,High,Station C,6,33
+Fraud,Urban,Morning,High,Station A,9,3
+Fraud,Urban,Morning,High,Station B,10,26
+Fraud,Urban,Morning,High,Station C,8,31
+Theft,Suburban,Morning,Low,Station A,10,8
+Theft,Suburban,Morning,Low,Station B,7,28
+Theft,Suburban,Morning,Low,Station C,6,33
+Assault,Rural,Afternoon,High,Station A,10,9
+Assault,Rural,Afternoon,High,Station B,7,25
+Assault,Rural,Afternoon,High,Station C,8,33
+Burglary,Suburban,Night,Medium,Station A,12,6
+Burglary,Suburban,Night,Medium,Station B,9,26
+Burglary,Suburban,Night,Medium,Station C,9,36
+Burglary,Suburban,Morning,Low,Station A,8,8
+Burglary,Suburban,Morning,Low,Station B,7,29
+Burglary,Suburban,Morning,Low,Station C,6,31
+Burglary,Urban,Evening,Medium,Station A,8,8
+Burglary,Urban,Evening,Medium,Station B,8,29
+Burglary,Urban,Evening,Medium,Station C,5,34
+Vandalism,Rural,Morning,High,Station A,10,8
+Vandalism,Rural,Morning,High,Station B,7,25
+Vandalism,Rural,Morning,High,Station C,5,34
+Drug Offense,Rural,Morning,Low,Station A,12,6
+Drug Offense,Rural,Morning,Low,Station B,7,25
+Drug Offense,Rural,Morning,Low,Station C,7,35
+Burglary,Urban,Night,Low,Station A,12,6
+Burglary,Urban,Night,Low,Station B,10,24
+Burglary,Urban,Night,Low,Station C,7,32
+Theft,Suburban,Afternoon,Medium,Station A,12,6
+Theft,Suburban,Afternoon,Medium,Station B,10,26
+Theft,Suburban,Afternoon,Medium,Station C,9,30
+Robbery,Urban,Evening,Medium,Station A,11,7
+Robbery,Urban,Evening,Medium,Station B,7,24
+Robbery,Urban,Evening,Medium,Station C,5,33
+Theft,Rural,Evening,Low,Station A,12,8
+Theft,Rural,Evening,Low,Station B,7,30
+Theft,Rural,Evening,Low,Station C,6,33
+Robbery,Urban,Night,High,Station A,8,9
+Robbery,Urban,Night,High,Station B,9,24
+Robbery,Urban,Night,High,Station C,9,31
+Drug Offense,Rural,Afternoon,Low,Station A,10,7
+Drug Offense,Rural,Afternoon,Low,Station B,6,27
+Drug Offense,Rural,Afternoon,Low,Station C,9,30
+Robbery,Suburban,Evening,Medium,Station A,8,5
+Robbery,Suburban,Evening,Medium,Station B,9,25
+Robbery,Suburban,Evening,Medium,Station C,6,35
+Theft,Rural,Evening,Medium,Station A,10,8
+Theft,Rural,Evening,Medium,Station B,6,26
+Theft,Rural,Evening,Medium,Station C,9,36
+Theft,Rural,Night,High,Station A,8,4
+Theft,Rural,Night,High,Station B,8,25
+Theft,Rural,Night,High,Station C,5,33
+Theft,Urban,Morning,High,Station A,8,8
+Theft,Urban,Morning,High,Station B,10,26
+Theft,Urban,Morning,High,Station C,7,34
+Fraud,Urban,Night,Low,Station A,9,5
+Fraud,Urban,Night,Low,Station B,9,29
+Fraud,Urban,Night,Low,Station C,5,36
+Fraud,Urban,Night,Low,Station A,12,5
+Fraud,Urban,Night,Low,Station B,8,27
+Fraud,Urban,Night,Low,Station C,7,31
+Assault,Urban,Night,Low,Station A,8,7
+Assault,Urban,Night,Low,Station B,7,26
+Assault,Urban,Night,Low,Station C,7,34
+Assault,Suburban,Night,Low,Station A,9,8
+Assault,Suburban,Night,Low,Station B,10,29
+Assault,Suburban,Night,Low,Station C,8,31
+Theft,Rural,Evening,Medium,Station A,11,4
+Theft,Rural,Evening,Medium,Station B,7,30
+Theft,Rural,Evening,Medium,Station C,5,36
+Theft,Suburban,Evening,Medium,Station A,12,4
+Theft,Suburban,Evening,Medium,Station B,9,29
+Theft,Suburban,Evening,Medium,Station C,9,35
+Assault,Suburban,Afternoon,Medium,Station A,9,8
+Assault,Suburban,Afternoon,Medium,Station B,9,25
+Assault,Suburban,Afternoon,Medium,Station C,6,36
+Assault,Suburban,Night,High,Station A,9,6
+Assault,Suburban,Night,High,Station B,8,27
+Assault,Suburban,Night,High,Station C,6,36
+Drug Offense,Rural,Morning,Low,Station A,10,6
+Drug Offense,Rural,Morning,Low,Station B,6,27
+Drug Offense,Rural,Morning,Low,Station C,5,32
+Fraud,Suburban,Afternoon,High,Station A,11,9
+Fraud,Suburban,Afternoon,High,Station B,8,26
+Fraud,Suburban,Afternoon,High,Station C,9,34
+Assault,Suburban,Night,High,Station A,12,5
+Assault,Suburban,Night,High,Station B,9,27
+Assault,Suburban,Night,High,Station C,7,31
+Theft,Urban,Morning,Low,Station A,11,8
+Theft,Urban,Morning,Low,Station B,7,24
+Theft,Urban,Morning,Low,Station C,7,36
+Vandalism,Rural,Evening,Low,Station A,8,5
+Vandalism,Rural,Evening,Low,Station B,10,28
+Vandalism,Rural,Evening,Low,Station C,5,33
+Theft,Suburban,Night,High,Station A,9,7
+Theft,Suburban,Night,High,Station B,8,29
+Theft,Suburban,Night,High,Station C,5,34
+Fraud,Rural,Afternoon,Medium,Station A,12,3
+Fraud,Rural,Afternoon,Medium,Station B,7,25
+Fraud,Rural,Afternoon,Medium,Station C,5,36
+Robbery,Urban,Evening,Low,Station A,10,6
+Robbery,Urban,Evening,Low,Station B,8,27
+Robbery,Urban,Evening,Low,Station C,6,31
+Theft,Urban,Evening,Low,Station A,9,8
+Theft,Urban,Evening,Low,Station B,10,26
+Theft,Urban,Evening,Low,Station C,9,30
+Theft,Rural,Night,High,Station A,10,9
+Theft,Rural,Night,High,Station B,7,29
+Theft,Rural,Night,High,Station C,6,34
+Burglary,Suburban,Afternoon,Low,Station A,10,8
+Burglary,Suburban,Afternoon,Low,Station B,7,26
+Burglary,Suburban,Afternoon,Low,Station C,9,35
+Fraud,Urban,Evening,Low,Station A,11,7
+Fraud,Urban,Evening,Low,Station B,7,29
+Fraud,Urban,Evening,Low,Station C,5,31
+Drug Offense,Urban,Evening,High,Station A,10,5
+Drug Offense,Urban,Evening,High,Station B,8,28
+Drug Offense,Urban,Evening,High,Station C,8,30
+Vandalism,Rural,Morning,Low,Station A,12,9
+Vandalism,Rural,Morning,Low,Station B,9,28
+Vandalism,Rural,Morning,Low,Station C,9,30
+Fraud,Urban,Evening,Medium,Station A,12,8
+Fraud,Urban,Evening,Medium,Station B,6,27
+Fraud,Urban,Evening,Medium,Station C,8,33
+Theft,Suburban,Evening,High,Station A,10,3
+Theft,Suburban,Evening,High,Station B,9,28
+Theft,Suburban,Evening,High,Station C,9,32
+Fraud,Suburban,Morning,High,Station A,12,7
+Fraud,Suburban,Morning,High,Station B,8,28
+Fraud,Suburban,Morning,High,Station C,6,31
+Vandalism,Suburban,Afternoon,Medium,Station A,8,9
+Vandalism,Suburban,Afternoon,Medium,Station B,7,24
+Vandalism,Suburban,Afternoon,Medium,Station C,6,35
+Assault,Rural,Evening,Low,Station A,8,5
+Assault,Rural,Evening,Low,Station B,9,30
+Assault,Rural,Evening,Low,Station C,8,32
+Robbery,Urban,Evening,Low,Station A,10,3
+Robbery,Urban,Evening,Low,Station B,6,28
+Robbery,Urban,Evening,Low,Station C,7,34
+Burglary,Suburban,Evening,Medium,Station A,11,7
+Burglary,Suburban,Evening,Medium,Station B,7,30
+Burglary,Suburban,Evening,Medium,Station C,8,30
+Burglary,Suburban,Night,High,Station A,9,4
+Burglary,Suburban,Night,High,Station B,6,28
+Burglary,Suburban,Night,High,Station C,6,31
+Drug Offense,Rural,Evening,High,Station A,10,6
+Drug Offense,Rural,Evening,High,Station B,6,25
+Drug Offense,Rural,Evening,High,Station C,5,33
+Drug Offense,Urban,Morning,Low,Station A,9,4
+Drug Offense,Urban,Morning,Low,Station B,7,25
+Drug Offense,Urban,Morning,Low,Station C,8,31
+Burglary,Suburban,Evening,High,Station A,10,9
+Burglary,Suburban,Evening,High,Station B,6,25
+Burglary,Suburban,Evening,High,Station C,5,32
+Drug Offense,Urban,Afternoon,High,Station A,12,7
+Drug Offense,Urban,Afternoon,High,Station B,9,28
+Drug Offense,Urban,Afternoon,High,Station C,5,33
+Fraud,Suburban,Evening,Low,Station A,11,6
+Fraud,Suburban,Evening,Low,Station B,8,25
+Fraud,Suburban,Evening,Low,Station C,9,33
+Burglary,Suburban,Morning,Medium,Station A,10,9
+Burglary,Suburban,Morning,Medium,Station B,6,30
+Burglary,Suburban,Morning,Medium,Station C,5,36
+Drug Offense,Rural,Night,High,Station A,9,6
+Drug Offense,Rural,Night,High,Station B,6,29
+Drug Offense,Rural,Night,High,Station C,7,34
+Theft,Suburban,Evening,High,Station A,10,9
+Theft,Suburban,Evening,High,Station B,10,27
+Theft,Suburban,Evening,High,Station C,6,31
+Theft,Urban,Evening,Medium,Station A,9,4
+Theft,Urban,Evening,Medium,Station B,7,25
+Theft,Urban,Evening,Medium,Station C,8,36
+Vandalism,Suburban,Afternoon,Low,Station A,9,3
+Vandalism,Suburban,Afternoon,Low,Station B,7,25
+Vandalism,Suburban,Afternoon,Low,Station C,6,33
+Drug Offense,Urban,Afternoon,Low,Station A,8,3
+Drug Offense,Urban,Afternoon,Low,Station B,7,30
+Drug Offense,Urban,Afternoon,Low,Station C,8,36
+Burglary,Suburban,Night,High,Station A,9,7
+Burglary,Suburban,Night,High,Station B,10,26
+Burglary,Suburban,Night,High,Station C,9,31
+Vandalism,Rural,Night,Medium,Station A,12,5
+Vandalism,Rural,Night,Medium,Station B,8,28
+Vandalism,Rural,Night,Medium,Station C,5,31
+Fraud,Urban,Night,Low,Station A,10,7
+Fraud,Urban,Night,Low,Station B,9,26
+Fraud,Urban,Night,Low,Station C,9,33
+Theft,Urban,Morning,Medium,Station A,8,5
+Theft,Urban,Morning,Medium,Station B,6,27
+Theft,Urban,Morning,Medium,Station C,8,32
+Assault,Urban,Afternoon,Low,Station A,12,3
+Assault,Urban,Afternoon,Low,Station B,8,24
+Assault,Urban,Afternoon,Low,Station C,9,34
+Theft,Rural,Night,Medium,Station A,10,6
+Theft,Rural,Night,Medium,Station B,6,24
+Theft,Rural,Night,Medium,Station C,7,32
+Theft,Rural,Afternoon,Medium,Station A,11,9
+Theft,Rural,Afternoon,Medium,Station B,7,28
+Theft,Rural,Afternoon,Medium,Station C,7,31
+Theft,Urban,Afternoon,High,Station A,10,9
+Theft,Urban,Afternoon,High,Station B,9,26
+Theft,Urban,Afternoon,High,Station C,7,33
+Vandalism,Urban,Evening,Medium,Station A,12,3
+Vandalism,Urban,Evening,Medium,Station B,10,24
+Vandalism,Urban,Evening,Medium,Station C,7,31
+Vandalism,Urban,Afternoon,Medium,Station A,10,8
+Vandalism,Urban,Afternoon,Medium,Station B,10,24
+Vandalism,Urban,Afternoon,Medium,Station C,8,36
+Burglary,Urban,Morning,Medium,Station A,9,3
+Burglary,Urban,Morning,Medium,Station B,10,28
+Burglary,Urban,Morning,Medium,Station C,6,35
+Assault,Rural,Afternoon,High,Station A,8,5
+Assault,Rural,Afternoon,High,Station B,9,24
+Assault,Rural,Afternoon,High,Station C,7,33
+Fraud,Urban,Night,High,Station A,12,5
+Fraud,Urban,Night,High,Station B,10,30
+Fraud,Urban,Night,High,Station C,5,36
+Fraud,Urban,Evening,High,Station A,12,7
+Fraud,Urban,Evening,High,Station B,10,28
+Fraud,Urban,Evening,High,Station C,9,32
+Drug Offense,Urban,Afternoon,High,Station A,8,8
+Drug Offense,Urban,Afternoon,High,Station B,9,27
+Drug Offense,Urban,Afternoon,High,Station C,8,33
+Drug Offense,Rural,Evening,Medium,Station A,10,8
+Drug Offense,Rural,Evening,Medium,Station B,6,24
+Drug Offense,Rural,Evening,Medium,Station C,7,33
+Robbery,Rural,Afternoon,High,Station A,9,3
+Robbery,Rural,Afternoon,High,Station B,6,24
+Robbery,Rural,Afternoon,High,Station C,9,36
+Burglary,Suburban,Evening,Medium,Station A,9,7
+Burglary,Suburban,Evening,Medium,Station B,7,29
+Burglary,Suburban,Evening,Medium,Station C,8,35
+Theft,Urban,Evening,Low,Station A,8,7
+Theft,Urban,Evening,Low,Station B,7,28
+Theft,Urban,Evening,Low,Station C,9,31
+Assault,Urban,Night,Low,Station A,10,9
+Assault,Urban,Night,Low,Station B,7,27
+Assault,Urban,Night,Low,Station C,8,35
+Fraud,Urban,Afternoon,Medium,Station A,11,3
+Fraud,Urban,Afternoon,Medium,Station B,8,26
+Fraud,Urban,Afternoon,Medium,Station C,5,35
+Robbery,Suburban,Morning,Medium,Station A,8,6
+Robbery,Suburban,Morning,Medium,Station B,8,29
+Robbery,Suburban,Morning,Medium,Station C,6,31
+Theft,Urban,Evening,Low,Station A,9,7
+Theft,Urban,Evening,Low,Station B,6,30
+Theft,Urban,Evening,Low,Station C,9,34
+Drug Offense,Suburban,Morning,Low,Station A,12,6
+Drug Offense,Suburban,Morning,Low,Station B,6,30
+Drug Offense,Suburban,Morning,Low,Station C,5,31
+Assault,Suburban,Afternoon,Medium,Station A,10,5
+Assault,Suburban,Afternoon,Medium,Station B,10,26
+Assault,Suburban,Afternoon,Medium,Station C,9,35
+Assault,Urban,Morning,High,Station A,9,5
+Assault,Urban,Morning,High,Station B,7,26
+Assault,Urban,Morning,High,Station C,8,31
+Robbery,Urban,Night,Low,Station A,9,8
+Robbery,Urban,Night,Low,Station B,7,26
+Robbery,Urban,Night,Low,Station C,7,31
+Vandalism,Suburban,Evening,Medium,Station A,12,3
+Vandalism,Suburban,Evening,Medium,Station B,7,26
+Vandalism,Suburban,Evening,Medium,Station C,6,33
+Robbery,Urban,Morning,Medium,Station A,12,6
+Robbery,Urban,Morning,Medium,Station B,10,27
+Robbery,Urban,Morning,Medium,Station C,7,34
+Burglary,Rural,Morning,Medium,Station A,9,6
+Burglary,Rural,Morning,Medium,Station B,7,30
+Burglary,Rural,Morning,Medium,Station C,6,34
+Drug Offense,Suburban,Evening,High,Station A,8,6
+Drug Offense,Suburban,Evening,High,Station B,7,26
+Drug Offense,Suburban,Evening,High,Station C,9,33
+Assault,Rural,Morning,Low,Station A,11,4
+Assault,Rural,Morning,Low,Station B,6,26
+Assault,Rural,Morning,Low,Station C,8,35
+Assault,Rural,Night,High,Station A,8,4
+Assault,Rural,Night,High,Station B,6,30
+Assault,Rural,Night,High,Station C,8,31
+Fraud,Urban,Morning,Medium,Station A,12,4
+Fraud,Urban,Morning,Medium,Station B,6,30
+Fraud,Urban,Morning,Medium,Station C,7,35
+Burglary,Urban,Night,Low,Station A,11,7
+Burglary,Urban,Night,Low,Station B,6,26
+Burglary,Urban,Night,Low,Station C,5,30
+Theft,Suburban,Morning,High,Station A,11,3
+Theft,Suburban,Morning,High,Station B,7,24
+Theft,Suburban,Morning,High,Station C,9,33
+Drug Offense,Suburban,Night,Low,Station A,9,4
+Drug Offense,Suburban,Night,Low,Station B,6,27
+Drug Offense,Suburban,Night,Low,Station C,8,35
+Burglary,Rural,Night,Low,Station A,11,8
+Burglary,Rural,Night,Low,Station B,9,26
+Burglary,Rural,Night,Low,Station C,5,35
+Assault,Urban,Night,Medium,Station A,10,5
+Assault,Urban,Night,Medium,Station B,9,28
+Assault,Urban,Night,Medium,Station C,5,30
+Robbery,Rural,Morning,High,Station A,12,9
+Robbery,Rural,Morning,High,Station B,8,26
+Robbery,Rural,Morning,High,Station C,8,30
+Assault,Suburban,Afternoon,Medium,Station A,9,5
+Assault,Suburban,Afternoon,Medium,Station B,6,24
+Assault,Suburban,Afternoon,Medium,Station C,8,31
+Assault,Urban,Night,High,Station A,9,8
+Assault,Urban,Night,High,Station B,7,26
+Assault,Urban,Night,High,Station C,5,35
+Drug Offense,Urban,Morning,Low,Station A,9,9
+Drug Offense,Urban,Morning,Low,Station B,6,25
+Drug Offense,Urban,Morning,Low,Station C,9,35
+Burglary,Suburban,Evening,High,Station A,9,4
+Burglary,Suburban,Evening,High,Station B,7,30
+Burglary,Suburban,Evening,High,Station C,5,35
+Vandalism,Rural,Evening,High,Station A,12,6
+Vandalism,Rural,Evening,High,Station B,10,26
+Vandalism,Rural,Evening,High,Station C,8,35
+Drug Offense,Suburban,Evening,Low,Station A,9,8
+Drug Offense,Suburban,Evening,Low,Station B,8,26
+Drug Offense,Suburban,Evening,Low,Station C,8,32
+Drug Offense,Rural,Morning,Medium,Station A,11,5
+Drug Offense,Rural,Morning,Medium,Station B,10,29
+Drug Offense,Rural,Morning,Medium,Station C,8,36
+Theft,Urban,Afternoon,High,Station A,10,3
+Theft,Urban,Afternoon,High,Station B,9,28
+Theft,Urban,Afternoon,High,Station C,7,32
+Robbery,Suburban,Night,Low,Station A,10,5
+Robbery,Suburban,Night,Low,Station B,6,24
+Robbery,Suburban,Night,Low,Station C,7,30
+Robbery,Suburban,Night,Low,Station A,10,3
+Robbery,Suburban,Night,Low,Station B,8,25
+Robbery,Suburban,Night,Low,Station C,5,34
+Burglary,Urban,Evening,Medium,Station A,8,6
+Burglary,Urban,Evening,Medium,Station B,6,28
+Burglary,Urban,Evening,Medium,Station C,6,31
+Drug Offense,Rural,Evening,Low,Station A,9,7
+Drug Offense,Rural,Evening,Low,Station B,7,28
+Drug Offense,Rural,Evening,Low,Station C,7,33
+Robbery,Urban,Evening,Medium,Station A,10,8
+Robbery,Urban,Evening,Medium,Station B,9,26
+Robbery,Urban,Evening,Medium,Station C,5,35
+Drug Offense,Urban,Afternoon,High,Station A,12,5
+Drug Offense,Urban,Afternoon,High,Station B,8,27
+Drug Offense,Urban,Afternoon,High,Station C,8,31
+Theft,Rural,Night,Medium,Station A,11,9
+Theft,Rural,Night,Medium,Station B,8,27
+Theft,Rural,Night,Medium,Station C,5,35
+Robbery,Urban,Evening,Low,Station A,9,7
+Robbery,Urban,Evening,Low,Station B,7,27
+Robbery,Urban,Evening,Low,Station C,5,34
+Burglary,Rural,Evening,Medium,Station A,11,5
+Burglary,Rural,Evening,Medium,Station B,9,27
+Burglary,Rural,Evening,Medium,Station C,6,35
+Burglary,Rural,Night,High,Station A,9,7
+Burglary,Rural,Night,High,Station B,9,27
+Burglary,Rural,Night,High,Station C,6,30
+Theft,Rural,Night,High,Station A,8,8
+Theft,Rural,Night,High,Station B,6,30
+Theft,Rural,Night,High,Station C,8,34
+Assault,Suburban,Afternoon,High,Station A,9,5
+Assault,Suburban,Afternoon,High,Station B,6,30
+Assault,Suburban,Afternoon,High,Station C,7,31
+Drug Offense,Rural,Afternoon,High,Station A,8,6
+Drug Offense,Rural,Afternoon,High,Station B,8,25
+Drug Offense,Rural,Afternoon,High,Station C,9,36
+Fraud,Suburban,Evening,Medium,Station A,9,9
+Fraud,Suburban,Evening,Medium,Station B,7,29
+Fraud,Suburban,Evening,Medium,Station C,5,33
+Theft,Rural,Morning,Low,Station A,12,9
+Theft,Rural,Morning,Low,Station B,7,24
+Theft,Rural,Morning,Low,Station C,6,30
+Vandalism,Suburban,Night,High,Station A,11,4
+Vandalism,Suburban,Night,High,Station B,6,30
+Vandalism,Suburban,Night,High,Station C,9,35
+Burglary,Suburban,Afternoon,Medium,Station A,12,9
+Burglary,Suburban,Afternoon,Medium,Station B,10,30
+Burglary,Suburban,Afternoon,Medium,Station C,9,35
+Burglary,Suburban,Morning,High,Station A,10,6
+Burglary,Suburban,Morning,High,Station B,7,30
+Burglary,Suburban,Morning,High,Station C,8,34
+Burglary,Rural,Morning,Medium,Station A,11,3
+Burglary,Rural,Morning,Medium,Station B,8,30
+Burglary,Rural,Morning,Medium,Station C,5,30
+Robbery,Rural,Night,Medium,Station A,12,3
+Robbery,Rural,Night,Medium,Station B,10,27
+Robbery,Rural,Night,Medium,Station C,8,32
+Vandalism,Rural,Evening,Low,Station A,12,9
+Vandalism,Rural,Evening,Low,Station B,10,25
+Vandalism,Rural,Evening,Low,Station C,8,35
+Vandalism,Suburban,Evening,High,Station A,11,5
+Vandalism,Suburban,Evening,High,Station B,10,24
+Vandalism,Suburban,Evening,High,Station C,5,34
+Vandalism,Rural,Night,Low,Station A,8,5
+Vandalism,Rural,Night,Low,Station B,7,27
+Vandalism,Rural,Night,Low,Station C,5,36
+Fraud,Rural,Evening,Medium,Station A,9,3
+Fraud,Rural,Evening,Medium,Station B,7,24
+Fraud,Rural,Evening,Medium,Station C,5,34
+Fraud,Suburban,Night,High,Station A,8,4
+Fraud,Suburban,Night,High,Station B,9,29
+Fraud,Suburban,Night,High,Station C,9,33
+Theft,Rural,Evening,Low,Station A,12,9
+Theft,Rural,Evening,Low,Station B,6,28
+Theft,Rural,Evening,Low,Station C,7,32
+Fraud,Rural,Afternoon,High,Station A,8,3
+Fraud,Rural,Afternoon,High,Station B,6,30
+Fraud,Rural,Afternoon,High,Station C,5,34
+Burglary,Urban,Morning,Medium,Station A,10,5
+Burglary,Urban,Morning,Medium,Station B,6,27
+Burglary,Urban,Morning,Medium,Station C,9,31
+Burglary,Suburban,Afternoon,Medium,Station A,10,8
+Burglary,Suburban,Afternoon,Medium,Station B,8,27
+Burglary,Suburban,Afternoon,Medium,Station C,8,36
+Vandalism,Urban,Afternoon,High,Station A,9,3
+Vandalism,Urban,Afternoon,High,Station B,7,26
+Vandalism,Urban,Afternoon,High,Station C,9,30
+Robbery,Rural,Morning,Low,Station A,10,9
+Robbery,Rural,Morning,Low,Station B,6,30
+Robbery,Rural,Morning,Low,Station C,7,31
+Drug Offense,Suburban,Afternoon,Low,Station A,12,4
+Drug Offense,Suburban,Afternoon,Low,Station B,9,30
+Drug Offense,Suburban,Afternoon,Low,Station C,5,35
+Vandalism,Rural,Morning,High,Station A,8,6
+Vandalism,Rural,Morning,High,Station B,7,30
+Vandalism,Rural,Morning,High,Station C,8,34
+Drug Offense,Rural,Morning,Medium,Station A,10,4
+Drug Offense,Rural,Morning,Medium,Station B,6,28
+Drug Offense,Rural,Morning,Medium,Station C,9,34
+Fraud,Rural,Morning,High,Station A,8,6
+Fraud,Rural,Morning,High,Station B,8,27
+Fraud,Rural,Morning,High,Station C,7,31
+Burglary,Urban,Afternoon,High,Station A,9,5
+Burglary,Urban,Afternoon,High,Station B,10,24
+Burglary,Urban,Afternoon,High,Station C,5,31
+Vandalism,Urban,Afternoon,Low,Station A,11,7
+Vandalism,Urban,Afternoon,Low,Station B,6,30
+Vandalism,Urban,Afternoon,Low,Station C,8,30
+Burglary,Suburban,Morning,High,Station A,10,4
+Burglary,Suburban,Morning,High,Station B,9,26
+Burglary,Suburban,Morning,High,Station C,7,31
+Assault,Rural,Evening,High,Station A,11,3
+Assault,Rural,Evening,High,Station B,7,25
+Assault,Rural,Evening,High,Station C,6,34
+Theft,Rural,Morning,Medium,Station A,9,5
+Theft,Rural,Morning,Medium,Station B,6,28
+Theft,Rural,Morning,Medium,Station C,7,35
+Assault,Suburban,Morning,Low,Station A,8,7
+Assault,Suburban,Morning,Low,Station B,6,26
+Assault,Suburban,Morning,Low,Station C,7,33
+Assault,Rural,Evening,Medium,Station A,11,9
+Assault,Rural,Evening,Medium,Station B,9,24
+Assault,Rural,Evening,Medium,Station C,8,34
+Drug Offense,Urban,Night,Medium,Station A,8,6
+Drug Offense,Urban,Night,Medium,Station B,7,26
+Drug Offense,Urban,Night,Medium,Station C,8,34
+Assault,Urban,Night,Medium,Station A,9,8
+Assault,Urban,Night,Medium,Station B,10,27
+Assault,Urban,Night,Medium,Station C,8,31
+Drug Offense,Suburban,Afternoon,Medium,Station A,9,7
+Drug Offense,Suburban,Afternoon,Medium,Station B,7,24
+Drug Offense,Suburban,Afternoon,Medium,Station C,8,34
+Robbery,Urban,Morning,Medium,Station A,8,5
+Robbery,Urban,Morning,Medium,Station B,8,29
+Robbery,Urban,Morning,Medium,Station C,5,31
+Vandalism,Urban,Evening,Low,Station A,8,6
+Vandalism,Urban,Evening,Low,Station B,10,29
+Vandalism,Urban,Evening,Low,Station C,6,30
+Burglary,Rural,Night,Low,Station A,8,6
+Burglary,Rural,Night,Low,Station B,6,29
+Burglary,Rural,Night,Low,Station C,8,33
+Burglary,Suburban,Afternoon,Medium,Station A,10,3
+Burglary,Suburban,Afternoon,Medium,Station B,10,25
+Burglary,Suburban,Afternoon,Medium,Station C,8,33
+Burglary,Urban,Morning,Low,Station A,12,8
+Burglary,Urban,Morning,Low,Station B,9,25
+Burglary,Urban,Morning,Low,Station C,8,33
+Burglary,Rural,Night,High,Station A,11,9
+Burglary,Rural,Night,High,Station B,8,25
+Burglary,Rural,Night,High,Station C,5,36
+Burglary,Urban,Morning,Low,Station A,12,9
+Burglary,Urban,Morning,Low,Station B,7,27
+Burglary,Urban,Morning,Low,Station C,9,32
+Vandalism,Rural,Evening,Low,Station A,12,6
+Vandalism,Rural,Evening,Low,Station B,9,29
+Vandalism,Rural,Evening,Low,Station C,8,36
+Assault,Rural,Night,High,Station A,9,4
+Assault,Rural,Night,High,Station B,9,27
+Assault,Rural,Night,High,Station C,5,31
+Burglary,Rural,Night,Low,Station A,8,8
+Burglary,Rural,Night,Low,Station B,6,25
+Burglary,Rural,Night,Low,Station C,5,31
+Fraud,Suburban,Morning,High,Station A,9,9
+Fraud,Suburban,Morning,High,Station B,8,27
+Fraud,Suburban,Morning,High,Station C,5,36
+Assault,Rural,Night,High,Station A,12,6
+Assault,Rural,Night,High,Station B,7,26
+Assault,Rural,Night,High,Station C,9,32
+Theft,Urban,Night,Medium,Station A,10,9
+Theft,Urban,Night,Medium,Station B,9,25
+Theft,Urban,Night,Medium,Station C,8,33
+Burglary,Urban,Night,Low,Station A,9,5
+Burglary,Urban,Night,Low,Station B,8,30
+Burglary,Urban,Night,Low,Station C,7,34
+Fraud,Urban,Evening,Medium,Station A,9,7
+Fraud,Urban,Evening,Medium,Station B,7,30
+Fraud,Urban,Evening,Medium,Station C,7,35
+Fraud,Rural,Evening,High,Station A,10,3
+Fraud,Rural,Evening,High,Station B,6,28
+Fraud,Rural,Evening,High,Station C,7,32
+Fraud,Suburban,Afternoon,Medium,Station A,10,4
+Fraud,Suburban,Afternoon,Medium,Station B,9,25
+Fraud,Suburban,Afternoon,Medium,Station C,7,36
+Vandalism,Rural,Night,Low,Station A,9,9
+Vandalism,Rural,Night,Low,Station B,8,28
+Vandalism,Rural,Night,Low,Station C,8,35
+Drug Offense,Urban,Evening,Low,Station A,11,8
+Drug Offense,Urban,Evening,Low,Station B,6,24
+Drug Offense,Urban,Evening,Low,Station C,8,36
+Burglary,Urban,Afternoon,Medium,Station A,8,7
+Burglary,Urban,Afternoon,Medium,Station B,9,24
+Burglary,Urban,Afternoon,Medium,Station C,9,31
+Robbery,Rural,Night,Medium,Station A,8,3
+Robbery,Rural,Night,Medium,Station B,9,25
+Robbery,Rural,Night,Medium,Station C,9,31
+Vandalism,Rural,Evening,Medium,Station A,10,6
+Vandalism,Rural,Evening,Medium,Station B,10,25
+Vandalism,Rural,Evening,Medium,Station C,5,34
+Drug Offense,Suburban,Night,High,Station A,12,4
+Drug Offense,Suburban,Night,High,Station B,8,28
+Drug Offense,Suburban,Night,High,Station C,7,31
+Burglary,Urban,Morning,Medium,Station A,8,5
+Burglary,Urban,Morning,Medium,Station B,8,28
+Burglary,Urban,Morning,Medium,Station C,5,32
+Burglary,Urban,Evening,Medium,Station A,10,5
+Burglary,Urban,Evening,Medium,Station B,10,25
+Burglary,Urban,Evening,Medium,Station C,5,32
+Burglary,Urban,Afternoon,High,Station A,10,3
+Burglary,Urban,Afternoon,High,Station B,7,29
+Burglary,Urban,Afternoon,High,Station C,9,33
+Assault,Rural,Evening,Medium,Station A,11,3
+Assault,Rural,Evening,Medium,Station B,6,26
+Assault,Rural,Evening,Medium,Station C,6,30
+Fraud,Suburban,Evening,Low,Station A,9,9
+Fraud,Suburban,Evening,Low,Station B,9,29
+Fraud,Suburban,Evening,Low,Station C,7,30
+Drug Offense,Suburban,Night,Low,Station A,8,9
+Drug Offense,Suburban,Night,Low,Station B,8,30
+Drug Offense,Suburban,Night,Low,Station C,9,33
+Robbery,Urban,Night,Medium,Station A,8,6
+Robbery,Urban,Night,Medium,Station B,7,25
+Robbery,Urban,Night,Medium,Station C,9,31
+Drug Offense,Urban,Night,High,Station A,12,3
+Drug Offense,Urban,Night,High,Station B,7,27
+Drug Offense,Urban,Night,High,Station C,8,35
+Robbery,Urban,Night,Low,Station A,11,4
+Robbery,Urban,Night,Low,Station B,7,25
+Robbery,Urban,Night,Low,Station C,8,36
+Fraud,Urban,Afternoon,Medium,Station A,9,8
+Fraud,Urban,Afternoon,Medium,Station B,9,27
+Fraud,Urban,Afternoon,Medium,Station C,7,30
+Vandalism,Suburban,Morning,High,Station A,10,5
+Vandalism,Suburban,Morning,High,Station B,8,24
+Vandalism,Suburban,Morning,High,Station C,5,30
+Theft,Urban,Evening,High,Station A,12,4
+Theft,Urban,Evening,High,Station B,8,27
+Theft,Urban,Evening,High,Station C,9,32
+Burglary,Rural,Morning,Medium,Station A,11,8
+Burglary,Rural,Morning,Medium,Station B,6,26
+Burglary,Rural,Morning,Medium,Station C,6,33
+Vandalism,Suburban,Afternoon,High,Station A,12,7
+Vandalism,Suburban,Afternoon,High,Station B,8,27
+Vandalism,Suburban,Afternoon,High,Station C,8,30
+Fraud,Suburban,Afternoon,Low,Station A,8,9
+Fraud,Suburban,Afternoon,Low,Station B,7,24
+Fraud,Suburban,Afternoon,Low,Station C,9,33
+Assault,Rural,Morning,High,Station A,9,7
+Assault,Rural,Morning,High,Station B,10,27
+Assault,Rural,Morning,High,Station C,5,33
+Vandalism,Urban,Afternoon,Low,Station A,11,7
+Vandalism,Urban,Afternoon,Low,Station B,6,25
+Vandalism,Urban,Afternoon,Low,Station C,9,32
+Vandalism,Suburban,Evening,Medium,Station A,12,9
+Vandalism,Suburban,Evening,Medium,Station B,8,30
+Vandalism,Suburban,Evening,Medium,Station C,7,36
+Assault,Suburban,Morning,Medium,Station A,11,4
+Assault,Suburban,Morning,Medium,Station B,7,30
+Assault,Suburban,Morning,Medium,Station C,8,33
+Theft,Urban,Evening,Low,Station A,8,5
+Theft,Urban,Evening,Low,Station B,9,28
+Theft,Urban,Evening,Low,Station C,9,36
+Fraud,Urban,Morning,Medium,Station A,12,3
+Fraud,Urban,Morning,Medium,Station B,9,28
+Fraud,Urban,Morning,Medium,Station C,7,34
+Theft,Rural,Morning,Medium,Station A,8,3
+Theft,Rural,Morning,Medium,Station B,8,30
+Theft,Rural,Morning,Medium,Station C,5,35
+Burglary,Rural,Afternoon,Low,Station A,9,4
+Burglary,Rural,Afternoon,Low,Station B,9,25
+Burglary,Rural,Afternoon,Low,Station C,9,36
+Burglary,Rural,Evening,Medium,Station A,12,5
+Burglary,Rural,Evening,Medium,Station B,7,24
+Burglary,Rural,Evening,Medium,Station C,6,35
+Burglary,Suburban,Afternoon,Low,Station A,10,3
+Burglary,Suburban,Afternoon,Low,Station B,9,28
+Burglary,Suburban,Afternoon,Low,Station C,8,32
+Drug Offense,Urban,Afternoon,Medium,Station A,10,9
+Drug Offense,Urban,Afternoon,Medium,Station B,9,29
+Drug Offense,Urban,Afternoon,Medium,Station C,8,33
+Fraud,Suburban,Morning,High,Station A,11,7
+Fraud,Suburban,Morning,High,Station B,6,29
+Fraud,Suburban,Morning,High,Station C,6,35
+Burglary,Suburban,Afternoon,High,Station A,11,6
+Burglary,Suburban,Afternoon,High,Station B,6,30
+Burglary,Suburban,Afternoon,High,Station C,5,34
+Vandalism,Suburban,Evening,High,Station A,9,9
+Vandalism,Suburban,Evening,High,Station B,10,29
+Vandalism,Suburban,Evening,High,Station C,7,30
+Burglary,Rural,Evening,Medium,Station A,11,5
+Burglary,Rural,Evening,Medium,Station B,10,25
+Burglary,Rural,Evening,Medium,Station C,6,32
+Vandalism,Urban,Afternoon,Medium,Station A,11,8
+Vandalism,Urban,Afternoon,Medium,Station B,6,28
+Vandalism,Urban,Afternoon,Medium,Station C,9,30
+Burglary,Suburban,Morning,High,Station A,11,6
+Burglary,Suburban,Morning,High,Station B,6,25
+Burglary,Suburban,Morning,High,Station C,9,35
+Burglary,Suburban,Night,High,Station A,9,6
+Burglary,Suburban,Night,High,Station B,10,26
+Burglary,Suburban,Night,High,Station C,9,32
+Vandalism,Urban,Afternoon,Low,Station A,11,9
+Vandalism,Urban,Afternoon,Low,Station B,6,25
+Vandalism,Urban,Afternoon,Low,Station C,8,31
+Fraud,Suburban,Afternoon,Low,Station A,8,5
+Fraud,Suburban,Afternoon,Low,Station B,7,27
+Fraud,Suburban,Afternoon,Low,Station C,8,32
+Assault,Urban,Morning,High,Station A,10,8
+Assault,Urban,Morning,High,Station B,10,26
+Assault,Urban,Morning,High,Station C,5,32
+Robbery,Urban,Evening,Low,Station A,10,8
+Robbery,Urban,Evening,Low,Station B,6,26
+Robbery,Urban,Evening,Low,Station C,9,32
+Robbery,Rural,Evening,Medium,Station A,10,9
+Robbery,Rural,Evening,Medium,Station B,10,28
+Robbery,Rural,Evening,Medium,Station C,8,35
+Robbery,Suburban,Night,Medium,Station A,9,6
+Robbery,Suburban,Night,Medium,Station B,10,30
+Robbery,Suburban,Night,Medium,Station C,9,33
+Fraud,Suburban,Night,High,Station A,12,9
+Fraud,Suburban,Night,High,Station B,7,26
+Fraud,Suburban,Night,High,Station C,8,34
+Vandalism,Suburban,Evening,Medium,Station A,10,8
+Vandalism,Suburban,Evening,Medium,Station B,8,30
+Vandalism,Suburban,Evening,Medium,Station C,9,30
+Vandalism,Urban,Evening,High,Station A,8,4
+Vandalism,Urban,Evening,High,Station B,7,24
+Vandalism,Urban,Evening,High,Station C,6,31
+Drug Offense,Suburban,Morning,Medium,Station A,12,7
+Drug Offense,Suburban,Morning,Medium,Station B,7,27
+Drug Offense,Suburban,Morning,Medium,Station C,8,32
+Fraud,Suburban,Afternoon,Medium,Station A,8,7
+Fraud,Suburban,Afternoon,Medium,Station B,9,24
+Fraud,Suburban,Afternoon,Medium,Station C,9,31
+Robbery,Rural,Morning,High,Station A,12,3
+Robbery,Rural,Morning,High,Station B,7,30
+Robbery,Rural,Morning,High,Station C,7,30
+Robbery,Suburban,Afternoon,High,Station A,10,6
+Robbery,Suburban,Afternoon,High,Station B,8,25
+Robbery,Suburban,Afternoon,High,Station C,6,34
+Drug Offense,Urban,Morning,Medium,Station A,12,8
+Drug Offense,Urban,Morning,Medium,Station B,6,24
+Drug Offense,Urban,Morning,Medium,Station C,9,34
+Robbery,Suburban,Afternoon,High,Station A,10,5
+Robbery,Suburban,Afternoon,High,Station B,9,26
+Robbery,Suburban,Afternoon,High,Station C,7,33
+Theft,Suburban,Evening,High,Station A,11,3
+Theft,Suburban,Evening,High,Station B,7,30
+Theft,Suburban,Evening,High,Station C,9,30
+Robbery,Suburban,Morning,High,Station A,8,9
+Robbery,Suburban,Morning,High,Station B,10,28
+Robbery,Suburban,Morning,High,Station C,7,36
+Theft,Rural,Evening,Medium,Station A,12,5
+Theft,Rural,Evening,Medium,Station B,8,27
+Theft,Rural,Evening,Medium,Station C,5,31
+Assault,Suburban,Morning,Low,Station A,9,5
+Assault,Suburban,Morning,Low,Station B,6,29
+Assault,Suburban,Morning,Low,Station C,8,30
+Assault,Suburban,Afternoon,Low,Station A,8,8
+Assault,Suburban,Afternoon,Low,Station B,8,25
+Assault,Suburban,Afternoon,Low,Station C,8,36
+Fraud,Urban,Morning,Medium,Station A,12,4
+Fraud,Urban,Morning,Medium,Station B,10,30
+Fraud,Urban,Morning,Medium,Station C,7,30
+Theft,Suburban,Evening,Medium,Station A,12,4
+Theft,Suburban,Evening,Medium,Station B,9,26
+Theft,Suburban,Evening,Medium,Station C,8,34
+Theft,Urban,Afternoon,Low,Station A,10,7
+Theft,Urban,Afternoon,Low,Station B,10,26
+Theft,Urban,Afternoon,Low,Station C,8,30
+Drug Offense,Rural,Morning,Low,Station A,9,6
+Drug Offense,Rural,Morning,Low,Station B,9,29
+Drug Offense,Rural,Morning,Low,Station C,5,33
+Theft,Rural,Evening,High,Station A,12,7
+Theft,Rural,Evening,High,Station B,8,27
+Theft,Rural,Evening,High,Station C,7,30
+Fraud,Rural,Afternoon,High,Station A,10,4
+Fraud,Rural,Afternoon,High,Station B,9,27
+Fraud,Rural,Afternoon,High,Station C,5,35
+Burglary,Urban,Afternoon,High,Station A,9,3
+Burglary,Urban,Afternoon,High,Station B,8,25
+Burglary,Urban,Afternoon,High,Station C,8,31
+Assault,Suburban,Afternoon,Medium,Station A,9,8
+Assault,Suburban,Afternoon,Medium,Station B,8,25
+Assault,Suburban,Afternoon,Medium,Station C,5,31
+Drug Offense,Suburban,Morning,Low,Station A,9,5
+Drug Offense,Suburban,Morning,Low,Station B,6,29
+Drug Offense,Suburban,Morning,Low,Station C,7,36
+Assault,Urban,Afternoon,Medium,Station A,8,5
+Assault,Urban,Afternoon,Medium,Station B,10,24
+Assault,Urban,Afternoon,Medium,Station C,6,30
+Fraud,Rural,Evening,Medium,Station A,11,9
+Fraud,Rural,Evening,Medium,Station B,10,24
+Fraud,Rural,Evening,Medium,Station C,9,31
+Robbery,Urban,Evening,High,Station A,10,8
+Robbery,Urban,Evening,High,Station B,9,24
+Robbery,Urban,Evening,High,Station C,9,36
+Fraud,Urban,Evening,Low,Station A,12,3
+Fraud,Urban,Evening,Low,Station B,8,29
+Fraud,Urban,Evening,Low,Station C,8,34
+Robbery,Urban,Evening,Low,Station A,9,9
+Robbery,Urban,Evening,Low,Station B,7,26
+Robbery,Urban,Evening,Low,Station C,8,32
+Drug Offense,Urban,Night,High,Station A,8,9
+Drug Offense,Urban,Night,High,Station B,6,25
+Drug Offense,Urban,Night,High,Station C,5,34
+Drug Offense,Urban,Night,Medium,Station A,12,5
+Drug Offense,Urban,Night,Medium,Station B,8,25
+Drug Offense,Urban,Night,Medium,Station C,7,32
+Theft,Rural,Evening,Low,Station A,8,3
+Theft,Rural,Evening,Low,Station B,8,30
+Theft,Rural,Evening,Low,Station C,9,32
+Theft,Rural,Evening,High,Station A,9,6
+Theft,Rural,Evening,High,Station B,6,27
+Theft,Rural,Evening,High,Station C,8,36
+Vandalism,Rural,Morning,Low,Station A,10,5
+Vandalism,Rural,Morning,Low,Station B,10,29
+Vandalism,Rural,Morning,Low,Station C,7,36
+Drug Offense,Rural,Afternoon,Low,Station A,12,4
+Drug Offense,Rural,Afternoon,Low,Station B,6,24
+Drug Offense,Rural,Afternoon,Low,Station C,7,31
+Theft,Suburban,Morning,High,Station A,12,9
+Theft,Suburban,Morning,High,Station B,6,24
+Theft,Suburban,Morning,High,Station C,6,33
+Fraud,Rural,Night,Low,Station A,12,5
+Fraud,Rural,Night,Low,Station B,9,25
+Fraud,Rural,Night,Low,Station C,5,31
+Theft,Urban,Morning,High,Station A,11,6
+Theft,Urban,Morning,High,Station B,6,27
+Theft,Urban,Morning,High,Station C,9,36
+Vandalism,Rural,Night,Medium,Station A,8,7
+Vandalism,Rural,Night,Medium,Station B,6,30
+Vandalism,Rural,Night,Medium,Station C,8,33
+Burglary,Urban,Evening,High,Station A,10,8
+Burglary,Urban,Evening,High,Station B,9,30
+Burglary,Urban,Evening,High,Station C,5,33
+Drug Offense,Urban,Night,High,Station A,10,8
+Drug Offense,Urban,Night,High,Station B,7,24
+Drug Offense,Urban,Night,High,Station C,8,35
+Vandalism,Rural,Evening,High,Station A,9,4
+Vandalism,Rural,Evening,High,Station B,7,24
+Vandalism,Rural,Evening,High,Station C,8,33
+Fraud,Rural,Morning,Medium,Station A,8,8
+Fraud,Rural,Morning,Medium,Station B,6,30
+Fraud,Rural,Morning,Medium,Station C,9,31
+Vandalism,Suburban,Morning,Low,Station A,10,7
+Vandalism,Suburban,Morning,Low,Station B,8,25
+Vandalism,Suburban,Morning,Low,Station C,5,32
+Burglary,Urban,Night,High,Station A,8,4
+Burglary,Urban,Night,High,Station B,9,27
+Burglary,Urban,Night,High,Station C,8,32
+Assault,Urban,Evening,High,Station A,11,7
+Assault,Urban,Evening,High,Station B,8,29
+Assault,Urban,Evening,High,Station C,5,30
+Fraud,Rural,Evening,Medium,Station A,11,3
+Fraud,Rural,Evening,Medium,Station B,6,25
+Fraud,Rural,Evening,Medium,Station C,6,31
+Robbery,Urban,Evening,Low,Station A,11,4
+Robbery,Urban,Evening,Low,Station B,9,24
+Robbery,Urban,Evening,Low,Station C,6,32
+Burglary,Suburban,Evening,Medium,Station A,8,4
+Burglary,Suburban,Evening,Medium,Station B,10,24
+Burglary,Suburban,Evening,Medium,Station C,6,32
+Robbery,Urban,Afternoon,Low,Station A,11,9
+Robbery,Urban,Afternoon,Low,Station B,7,28
+Robbery,Urban,Afternoon,Low,Station C,5,36
+Vandalism,Urban,Morning,High,Station A,11,3
+Vandalism,Urban,Morning,High,Station B,6,26
+Vandalism,Urban,Morning,High,Station C,5,34
+Drug Offense,Urban,Afternoon,Low,Station A,8,7
+Drug Offense,Urban,Afternoon,Low,Station B,10,30
+Drug Offense,Urban,Afternoon,Low,Station C,7,31
+Theft,Urban,Evening,High,Station A,8,4
+Theft,Urban,Evening,High,Station B,9,26
+Theft,Urban,Evening,High,Station C,6,33
+Drug Offense,Rural,Morning,High,Station A,11,6
+Drug Offense,Rural,Morning,High,Station B,10,30
+Drug Offense,Rural,Morning,High,Station C,8,36
+Vandalism,Urban,Evening,Medium,Station A,11,4
+Vandalism,Urban,Evening,Medium,Station B,8,29
+Vandalism,Urban,Evening,Medium,Station C,6,30
+Assault,Suburban,Evening,High,Station A,11,4
+Assault,Suburban,Evening,High,Station B,9,24
+Assault,Suburban,Evening,High,Station C,7,32
+Theft,Urban,Afternoon,Medium,Station A,10,4
+Theft,Urban,Afternoon,Medium,Station B,6,30
+Theft,Urban,Afternoon,Medium,Station C,5,36
+Robbery,Rural,Night,Medium,Station A,11,7
+Robbery,Rural,Night,Medium,Station B,7,29
+Robbery,Rural,Night,Medium,Station C,5,35
+Drug Offense,Suburban,Night,High,Station A,11,4
+Drug Offense,Suburban,Night,High,Station B,7,24
+Drug Offense,Suburban,Night,High,Station C,9,32
+Assault,Urban,Night,Low,Station A,10,8
+Assault,Urban,Night,Low,Station B,9,29
+Assault,Urban,Night,Low,Station C,6,33
+Vandalism,Rural,Evening,Low,Station A,10,6
+Vandalism,Rural,Evening,Low,Station B,10,28
+Vandalism,Rural,Evening,Low,Station C,9,33
+Burglary,Urban,Evening,Low,Station A,12,3
+Burglary,Urban,Evening,Low,Station B,8,29
+Burglary,Urban,Evening,Low,Station C,9,33
+Assault,Urban,Night,High,Station A,8,5
+Assault,Urban,Night,High,Station B,7,24
+Assault,Urban,Night,High,Station C,5,33
+Drug Offense,Urban,Night,High,Station A,12,8
+Drug Offense,Urban,Night,High,Station B,8,28
+Drug Offense,Urban,Night,High,Station C,6,35
+Burglary,Rural,Morning,High,Station A,9,7
+Burglary,Rural,Morning,High,Station B,6,24
+Burglary,Rural,Morning,High,Station C,6,33
+Burglary,Rural,Morning,Low,Station A,11,9
+Burglary,Rural,Morning,Low,Station B,6,30
+Burglary,Rural,Morning,Low,Station C,7,30
+Fraud,Rural,Afternoon,High,Station A,8,6
+Fraud,Rural,Afternoon,High,Station B,7,28
+Fraud,Rural,Afternoon,High,Station C,7,33
+Theft,Rural,Evening,High,Station A,12,3
+Theft,Rural,Evening,High,Station B,9,30
+Theft,Rural,Evening,High,Station C,9,31
+Vandalism,Urban,Afternoon,High,Station A,8,5
+Vandalism,Urban,Afternoon,High,Station B,8,24
+Vandalism,Urban,Afternoon,High,Station C,9,33
+Drug Offense,Suburban,Afternoon,Low,Station A,10,8
+Drug Offense,Suburban,Afternoon,Low,Station B,6,28
+Drug Offense,Suburban,Afternoon,Low,Station C,8,36
+Drug Offense,Urban,Night,High,Station A,8,5
+Drug Offense,Urban,Night,High,Station B,8,26
+Drug Offense,Urban,Night,High,Station C,6,35
+Burglary,Urban,Afternoon,Medium,Station A,12,3
+Burglary,Urban,Afternoon,Medium,Station B,10,30
+Burglary,Urban,Afternoon,Medium,Station C,6,34
+Vandalism,Rural,Afternoon,Medium,Station A,9,4
+Vandalism,Rural,Afternoon,Medium,Station B,10,26
+Vandalism,Rural,Afternoon,Medium,Station C,6,30
+Fraud,Urban,Afternoon,Medium,Station A,12,6
+Fraud,Urban,Afternoon,Medium,Station B,7,28
+Fraud,Urban,Afternoon,Medium,Station C,6,30
+Drug Offense,Urban,Evening,Low,Station A,8,8
+Drug Offense,Urban,Evening,Low,Station B,10,29
+Drug Offense,Urban,Evening,Low,Station C,9,30
+Vandalism,Rural,Afternoon,Medium,Station A,8,5
+Vandalism,Rural,Afternoon,Medium,Station B,9,27
+Vandalism,Rural,Afternoon,Medium,Station C,5,34
+Drug Offense,Urban,Morning,Low,Station A,12,8
+Drug Offense,Urban,Morning,Low,Station B,10,25
+Drug Offense,Urban,Morning,Low,Station C,5,35
+Drug Offense,Urban,Morning,High,Station A,9,8
+Drug Offense,Urban,Morning,High,Station B,8,26
+Drug Offense,Urban,Morning,High,Station C,5,30
+Fraud,Suburban,Morning,Medium,Station A,12,9
+Fraud,Suburban,Morning,Medium,Station B,10,27
+Fraud,Suburban,Morning,Medium,Station C,6,35
+Theft,Rural,Morning,Medium,Station A,8,8
+Theft,Rural,Morning,Medium,Station B,7,25
+Theft,Rural,Morning,Medium,Station C,8,32
+Assault,Rural,Afternoon,Medium,Station A,11,7
+Assault,Rural,Afternoon,Medium,Station B,7,29
+Assault,Rural,Afternoon,Medium,Station C,5,32
+Drug Offense,Urban,Evening,Low,Station A,10,7
+Drug Offense,Urban,Evening,Low,Station B,8,28
+Drug Offense,Urban,Evening,Low,Station C,6,30
+Vandalism,Urban,Evening,High,Station A,12,8
+Vandalism,Urban,Evening,High,Station B,10,24
+Vandalism,Urban,Evening,High,Station C,5,32
+Robbery,Suburban,Morning,Low,Station A,10,6
+Robbery,Suburban,Morning,Low,Station B,7,26
+Robbery,Suburban,Morning,Low,Station C,6,36
+Burglary,Rural,Night,Low,Station A,10,3
+Burglary,Rural,Night,Low,Station B,9,24
+Burglary,Rural,Night,Low,Station C,8,30
+Robbery,Rural,Morning,High,Station A,8,8
+Robbery,Rural,Morning,High,Station B,7,30
+Robbery,Rural,Morning,High,Station C,6,36
+Fraud,Suburban,Afternoon,High,Station A,11,5
+Fraud,Suburban,Afternoon,High,Station B,8,30
+Fraud,Suburban,Afternoon,High,Station C,7,30
+Fraud,Suburban,Afternoon,High,Station A,8,5
+Fraud,Suburban,Afternoon,High,Station B,10,25
+Fraud,Suburban,Afternoon,High,Station C,8,35
+Fraud,Suburban,Morning,High,Station A,12,7
+Fraud,Suburban,Morning,High,Station B,10,29
+Fraud,Suburban,Morning,High,Station C,6,35
+Assault,Suburban,Afternoon,High,Station A,12,5
+Assault,Suburban,Afternoon,High,Station B,9,30
+Assault,Suburban,Afternoon,High,Station C,8,33
+Assault,Rural,Evening,Medium,Station A,8,8
+Assault,Rural,Evening,Medium,Station B,8,26
+Assault,Rural,Evening,Medium,Station C,6,34
+Robbery,Suburban,Morning,High,Station A,10,6
+Robbery,Suburban,Morning,High,Station B,7,27
+Robbery,Suburban,Morning,High,Station C,8,35
+Assault,Rural,Evening,Medium,Station A,11,3
+Assault,Rural,Evening,Medium,Station B,10,25
+Assault,Rural,Evening,Medium,Station C,6,33
+Vandalism,Suburban,Night,High,Station A,11,5
+Vandalism,Suburban,Night,High,Station B,9,29
+Vandalism,Suburban,Night,High,Station C,6,33
+Vandalism,Rural,Evening,Low,Station A,8,6
+Vandalism,Rural,Evening,Low,Station B,7,25
+Vandalism,Rural,Evening,Low,Station C,5,33
+Assault,Rural,Afternoon,High,Station A,8,5
+Assault,Rural,Afternoon,High,Station B,10,25
+Assault,Rural,Afternoon,High,Station C,7,35
+Vandalism,Urban,Evening,High,Station A,11,3
+Vandalism,Urban,Evening,High,Station B,6,27
+Vandalism,Urban,Evening,High,Station C,7,31
+Fraud,Suburban,Evening,Low,Station A,11,6
+Fraud,Suburban,Evening,Low,Station B,9,24
+Fraud,Suburban,Evening,Low,Station C,6,34
+Drug Offense,Rural,Evening,Medium,Station A,10,3
+Drug Offense,Rural,Evening,Medium,Station B,9,26
+Drug Offense,Rural,Evening,Medium,Station C,9,33
+Vandalism,Rural,Afternoon,Low,Station A,11,6
+Vandalism,Rural,Afternoon,Low,Station B,7,28
+Vandalism,Rural,Afternoon,Low,Station C,5,30
+Robbery,Urban,Morning,Medium,Station A,8,3
+Robbery,Urban,Morning,Medium,Station B,8,25
+Robbery,Urban,Morning,Medium,Station C,9,35
+Vandalism,Suburban,Evening,High,Station A,12,5
+Vandalism,Suburban,Evening,High,Station B,6,28
+Vandalism,Suburban,Evening,High,Station C,6,36
+Assault,Urban,Night,High,Station A,8,7
+Assault,Urban,Night,High,Station B,6,24
+Assault,Urban,Night,High,Station C,5,33
+Burglary,Urban,Night,High,Station A,11,5
+Burglary,Urban,Night,High,Station B,9,29
+Burglary,Urban,Night,High,Station C,7,36
+Assault,Rural,Night,High,Station A,11,4
+Assault,Rural,Night,High,Station B,10,27
+Assault,Rural,Night,High,Station C,5,31
+Burglary,Rural,Morning,High,Station A,9,5
+Burglary,Rural,Morning,High,Station B,9,26
+Burglary,Rural,Morning,High,Station C,5,33
+Assault,Suburban,Evening,High,Station A,8,5
+Assault,Suburban,Evening,High,Station B,10,25
+Assault,Suburban,Evening,High,Station C,6,31
+Robbery,Rural,Night,Medium,Station A,10,5
+Robbery,Rural,Night,Medium,Station B,7,27
+Robbery,Rural,Night,Medium,Station C,7,30
+Robbery,Urban,Evening,Medium,Station A,10,9
+Robbery,Urban,Evening,Medium,Station B,6,27
+Robbery,Urban,Evening,Medium,Station C,5,32
+Vandalism,Suburban,Evening,Medium,Station A,10,9
+Vandalism,Suburban,Evening,Medium,Station B,9,26
+Vandalism,Suburban,Evening,Medium,Station C,9,36
+Burglary,Urban,Night,Medium,Station A,12,6
+Burglary,Urban,Night,Medium,Station B,10,27
+Burglary,Urban,Night,Medium,Station C,8,32
+Theft,Rural,Afternoon,Low,Station A,9,5
+Theft,Rural,Afternoon,Low,Station B,8,25
+Theft,Rural,Afternoon,Low,Station C,6,35
+Drug Offense,Suburban,Afternoon,Medium,Station A,9,3
+Drug Offense,Suburban,Afternoon,Medium,Station B,8,25
+Drug Offense,Suburban,Afternoon,Medium,Station C,9,32
+Burglary,Rural,Afternoon,High,Station A,10,4
+Burglary,Rural,Afternoon,High,Station B,9,28
+Burglary,Rural,Afternoon,High,Station C,6,34
+Assault,Urban,Night,Medium,Station A,12,7
+Assault,Urban,Night,Medium,Station B,6,30
+Assault,Urban,Night,Medium,Station C,8,34
+Drug Offense,Urban,Afternoon,High,Station A,8,9
+Drug Offense,Urban,Afternoon,High,Station B,10,29
+Drug Offense,Urban,Afternoon,High,Station C,7,32
+Assault,Urban,Morning,Medium,Station A,9,5
+Assault,Urban,Morning,Medium,Station B,6,25
+Assault,Urban,Morning,Medium,Station C,5,35
+Fraud,Urban,Morning,High,Station A,11,9
+Fraud,Urban,Morning,High,Station B,10,27
+Fraud,Urban,Morning,High,Station C,5,36
+Theft,Suburban,Morning,High,Station A,12,8
+Theft,Suburban,Morning,High,Station B,8,25
+Theft,Suburban,Morning,High,Station C,7,30
+Burglary,Suburban,Morning,High,Station A,11,7
+Burglary,Suburban,Morning,High,Station B,8,30
+Burglary,Suburban,Morning,High,Station C,5,33
+Assault,Urban,Morning,Low,Station A,9,5
+Assault,Urban,Morning,Low,Station B,9,24
+Assault,Urban,Morning,Low,Station C,8,30
+Vandalism,Rural,Night,Low,Station A,12,3
+Vandalism,Rural,Night,Low,Station B,8,30
+Vandalism,Rural,Night,Low,Station C,9,35
+Drug Offense,Urban,Night,High,Station A,8,6
+Drug Offense,Urban,Night,High,Station B,7,30
+Drug Offense,Urban,Night,High,Station C,7,31
+Fraud,Rural,Evening,High,Station A,10,9
+Fraud,Rural,Evening,High,Station B,10,25
+Fraud,Rural,Evening,High,Station C,7,34
+Vandalism,Urban,Morning,Low,Station A,12,4
+Vandalism,Urban,Morning,Low,Station B,8,30
+Vandalism,Urban,Morning,Low,Station C,7,30
+Vandalism,Suburban,Afternoon,Low,Station A,11,7
+Vandalism,Suburban,Afternoon,Low,Station B,10,27
+Vandalism,Suburban,Afternoon,Low,Station C,7,30
+Fraud,Rural,Night,High,Station A,12,7
+Fraud,Rural,Night,High,Station B,8,29
+Fraud,Rural,Night,High,Station C,8,32
+Theft,Suburban,Morning,Low,Station A,9,4
+Theft,Suburban,Morning,Low,Station B,6,29
+Theft,Suburban,Morning,Low,Station C,9,31
+Fraud,Suburban,Afternoon,High,Station A,12,9
+Fraud,Suburban,Afternoon,High,Station B,7,26
+Fraud,Suburban,Afternoon,High,Station C,6,30
+Drug Offense,Rural,Night,High,Station A,10,4
+Drug Offense,Rural,Night,High,Station B,6,29
+Drug Offense,Rural,Night,High,Station C,6,33
+Drug Offense,Suburban,Morning,Low,Station A,11,3
+Drug Offense,Suburban,Morning,Low,Station B,6,26
+Drug Offense,Suburban,Morning,Low,Station C,8,36
+Theft,Suburban,Afternoon,Medium,Station A,12,3
+Theft,Suburban,Afternoon,Medium,Station B,9,28
+Theft,Suburban,Afternoon,Medium,Station C,5,35
+Drug Offense,Suburban,Afternoon,High,Station A,8,5
+Drug Offense,Suburban,Afternoon,High,Station B,9,27
+Drug Offense,Suburban,Afternoon,High,Station C,5,34
+Fraud,Urban,Evening,Medium,Station A,11,8
+Fraud,Urban,Evening,Medium,Station B,10,25
+Fraud,Urban,Evening,Medium,Station C,9,32
+Drug Offense,Urban,Evening,Low,Station A,8,6
+Drug Offense,Urban,Evening,Low,Station B,6,26
+Drug Offense,Urban,Evening,Low,Station C,7,30
+Theft,Suburban,Night,Medium,Station A,8,4
+Theft,Suburban,Night,Medium,Station B,10,24
+Theft,Suburban,Night,Medium,Station C,8,32
+Drug Offense,Urban,Night,High,Station A,11,8
+Drug Offense,Urban,Night,High,Station B,7,27
+Drug Offense,Urban,Night,High,Station C,7,32
+Theft,Urban,Evening,High,Station A,9,7
+Theft,Urban,Evening,High,Station B,8,27
+Theft,Urban,Evening,High,Station C,6,36
+Robbery,Rural,Evening,High,Station A,9,3
+Robbery,Rural,Evening,High,Station B,6,26
+Robbery,Rural,Evening,High,Station C,6,30
+Assault,Suburban,Morning,Low,Station A,12,7
+Assault,Suburban,Morning,Low,Station B,6,28
+Assault,Suburban,Morning,Low,Station C,7,35
+Robbery,Suburban,Morning,Low,Station A,12,3
+Robbery,Suburban,Morning,Low,Station B,7,25
+Robbery,Suburban,Morning,Low,Station C,9,34
+Drug Offense,Urban,Evening,Low,Station A,11,7
+Drug Offense,Urban,Evening,Low,Station B,7,25
+Drug Offense,Urban,Evening,Low,Station C,7,35
+Assault,Suburban,Morning,High,Station A,11,4
+Assault,Suburban,Morning,High,Station B,8,27
+Assault,Suburban,Morning,High,Station C,5,31
+Fraud,Suburban,Evening,Medium,Station A,12,6
+Fraud,Suburban,Evening,Medium,Station B,7,28
+Fraud,Suburban,Evening,Medium,Station C,7,32
+Drug Offense,Suburban,Afternoon,High,Station A,9,3
+Drug Offense,Suburban,Afternoon,High,Station B,7,25
+Drug Offense,Suburban,Afternoon,High,Station C,5,36
+Vandalism,Urban,Morning,Medium,Station A,9,4
+Vandalism,Urban,Morning,Medium,Station B,7,24
+Vandalism,Urban,Morning,Medium,Station C,6,31
+Drug Offense,Urban,Afternoon,Medium,Station A,10,7
+Drug Offense,Urban,Afternoon,Medium,Station B,10,28
+Drug Offense,Urban,Afternoon,Medium,Station C,8,31
+Robbery,Rural,Afternoon,Low,Station A,12,5
+Robbery,Rural,Afternoon,Low,Station B,6,29
+Robbery,Rural,Afternoon,Low,Station C,6,33
+Fraud,Urban,Evening,Low,Station A,12,4
+Fraud,Urban,Evening,Low,Station B,9,28
+Fraud,Urban,Evening,Low,Station C,7,32
+Theft,Urban,Afternoon,Medium,Station A,12,3
+Theft,Urban,Afternoon,Medium,Station B,9,30
+Theft,Urban,Afternoon,Medium,Station C,5,30
+Robbery,Rural,Evening,Medium,Station A,12,3
+Robbery,Rural,Evening,Medium,Station B,6,29
+Robbery,Rural,Evening,Medium,Station C,5,32
+Drug Offense,Rural,Night,High,Station A,11,8
+Drug Offense,Rural,Night,High,Station B,8,26
+Drug Offense,Rural,Night,High,Station C,9,31
+Fraud,Rural,Afternoon,Low,Station A,11,7
+Fraud,Rural,Afternoon,Low,Station B,9,24
+Fraud,Rural,Afternoon,Low,Station C,7,30
+Burglary,Suburban,Morning,Low,Station A,11,8
+Burglary,Suburban,Morning,Low,Station B,7,27
+Burglary,Suburban,Morning,Low,Station C,6,31
+Theft,Suburban,Afternoon,High,Station A,11,7
+Theft,Suburban,Afternoon,High,Station B,9,30
+Theft,Suburban,Afternoon,High,Station C,9,31
+Assault,Urban,Morning,High,Station A,10,9
+Assault,Urban,Morning,High,Station B,8,24
+Assault,Urban,Morning,High,Station C,7,34
+Theft,Urban,Afternoon,High,Station A,10,4
+Theft,Urban,Afternoon,High,Station B,8,24
+Theft,Urban,Afternoon,High,Station C,5,33
+Burglary,Urban,Afternoon,Medium,Station A,10,6
+Burglary,Urban,Afternoon,Medium,Station B,8,24
+Burglary,Urban,Afternoon,Medium,Station C,9,34
+Theft,Rural,Morning,Low,Station A,11,8
+Theft,Rural,Morning,Low,Station B,6,24
+Theft,Rural,Morning,Low,Station C,7,32
+Burglary,Suburban,Night,Low,Station A,10,9
+Burglary,Suburban,Night,Low,Station B,9,28
+Burglary,Suburban,Night,Low,Station C,9,31
+Robbery,Urban,Afternoon,High,Station A,11,3
+Robbery,Urban,Afternoon,High,Station B,9,25
+Robbery,Urban,Afternoon,High,Station C,6,32
+Vandalism,Rural,Evening,Low,Station A,11,4
+Vandalism,Rural,Evening,Low,Station B,10,28
+Vandalism,Rural,Evening,Low,Station C,6,35
+Drug Offense,Urban,Evening,Medium,Station A,12,7
+Drug Offense,Urban,Evening,Medium,Station B,8,25
+Drug Offense,Urban,Evening,Medium,Station C,7,31
+Vandalism,Rural,Afternoon,Low,Station A,11,3
+Vandalism,Rural,Afternoon,Low,Station B,7,27
+Vandalism,Rural,Afternoon,Low,Station C,5,34
+Vandalism,Suburban,Night,High,Station A,8,9
+Vandalism,Suburban,Night,High,Station B,7,24
+Vandalism,Suburban,Night,High,Station C,9,36
+Drug Offense,Urban,Morning,High,Station A,9,6
+Drug Offense,Urban,Morning,High,Station B,7,25
+Drug Offense,Urban,Morning,High,Station C,5,33
+Fraud,Urban,Afternoon,Low,Station A,9,8
+Fraud,Urban,Afternoon,Low,Station B,10,24
+Fraud,Urban,Afternoon,Low,Station C,5,34
+Robbery,Suburban,Morning,High,Station A,10,7
+Robbery,Suburban,Morning,High,Station B,10,25
+Robbery,Suburban,Morning,High,Station C,5,30
+Vandalism,Suburban,Evening,Low,Station A,9,8
+Vandalism,Suburban,Evening,Low,Station B,6,26
+Vandalism,Suburban,Evening,Low,Station C,6,31
+Fraud,Rural,Evening,High,Station A,12,9
+Fraud,Rural,Evening,High,Station B,10,30
+Fraud,Rural,Evening,High,Station C,6,34
+Theft,Rural,Evening,High,Station A,11,5
+Theft,Rural,Evening,High,Station B,7,26
+Theft,Rural,Evening,High,Station C,7,30
+Burglary,Suburban,Afternoon,Low,Station A,9,8
+Burglary,Suburban,Afternoon,Low,Station B,8,27
+Burglary,Suburban,Afternoon,Low,Station C,6,30
+Assault,Suburban,Night,Low,Station A,9,8
+Assault,Suburban,Night,Low,Station B,6,24
+Assault,Suburban,Night,Low,Station C,8,30
+Vandalism,Rural,Night,Medium,Station A,9,5
+Vandalism,Rural,Night,Medium,Station B,9,26
+Vandalism,Rural,Night,Medium,Station C,7,33
+Robbery,Suburban,Afternoon,Medium,Station A,10,7
+Robbery,Suburban,Afternoon,Medium,Station B,10,25
+Robbery,Suburban,Afternoon,Medium,Station C,8,34
+Assault,Rural,Morning,High,Station A,8,9
+Assault,Rural,Morning,High,Station B,9,27
+Assault,Rural,Morning,High,Station C,5,31
+Vandalism,Rural,Evening,Medium,Station A,11,4
+Vandalism,Rural,Evening,Medium,Station B,7,28
+Vandalism,Rural,Evening,Medium,Station C,9,33
+Theft,Suburban,Evening,Medium,Station A,11,8
+Theft,Suburban,Evening,Medium,Station B,6,30
+Theft,Suburban,Evening,Medium,Station C,7,32
+Robbery,Suburban,Night,Medium,Station A,9,6
+Robbery,Suburban,Night,Medium,Station B,8,25
+Robbery,Suburban,Night,Medium,Station C,8,32
+Assault,Urban,Afternoon,Low,Station A,8,6
+Assault,Urban,Afternoon,Low,Station B,6,30
+Assault,Urban,Afternoon,Low,Station C,7,31
+Robbery,Rural,Night,Low,Station A,11,5
+Robbery,Rural,Night,Low,Station B,7,30
+Robbery,Rural,Night,Low,Station C,6,34
+Fraud,Suburban,Afternoon,Medium,Station A,12,4
+Fraud,Suburban,Afternoon,Medium,Station B,6,28
+Fraud,Suburban,Afternoon,Medium,Station C,7,33
+Assault,Suburban,Morning,High,Station A,10,5
+Assault,Suburban,Morning,High,Station B,7,26
+Assault,Suburban,Morning,High,Station C,7,31
+Robbery,Suburban,Evening,Low,Station A,12,6
+Robbery,Suburban,Evening,Low,Station B,9,25
+Robbery,Suburban,Evening,Low,Station C,7,35
+Robbery,Rural,Evening,High,Station A,9,9
+Robbery,Rural,Evening,High,Station B,9,26
+Robbery,Rural,Evening,High,Station C,9,35
+Robbery,Urban,Morning,Low,Station A,9,6
+Robbery,Urban,Morning,Low,Station B,8,25
+Robbery,Urban,Morning,Low,Station C,5,33
+Burglary,Rural,Night,Low,Station A,9,9
+Burglary,Rural,Night,Low,Station B,9,26
+Burglary,Rural,Night,Low,Station C,6,31
+Robbery,Urban,Morning,Low,Station A,11,8
+Robbery,Urban,Morning,Low,Station B,9,29
+Robbery,Urban,Morning,Low,Station C,8,36
+Assault,Suburban,Night,High,Station A,8,7
+Assault,Suburban,Night,High,Station B,7,24
+Assault,Suburban,Night,High,Station C,7,34
+Fraud,Urban,Morning,High,Station A,12,3
+Fraud,Urban,Morning,High,Station B,8,25
+Fraud,Urban,Morning,High,Station C,7,33
+Fraud,Suburban,Afternoon,Low,Station A,10,8
+Fraud,Suburban,Afternoon,Low,Station B,7,27
+Fraud,Suburban,Afternoon,Low,Station C,7,32
+Robbery,Rural,Evening,Low,Station A,9,7
+Robbery,Rural,Evening,Low,Station B,7,24
+Robbery,Rural,Evening,Low,Station C,7,30
+Robbery,Suburban,Morning,High,Station A,8,9
+Robbery,Suburban,Morning,High,Station B,7,28
+Robbery,Suburban,Morning,High,Station C,7,32
+Drug Offense,Urban,Afternoon,Medium,Station A,9,4
+Drug Offense,Urban,Afternoon,Medium,Station B,10,24
+Drug Offense,Urban,Afternoon,Medium,Station C,8,35
+Theft,Rural,Evening,High,Station A,9,6
+Theft,Rural,Evening,High,Station B,6,25
+Theft,Rural,Evening,High,Station C,6,31
+Theft,Suburban,Morning,Medium,Station A,12,8
+Theft,Suburban,Morning,Medium,Station B,6,24
+Theft,Suburban,Morning,Medium,Station C,7,30
+Theft,Suburban,Morning,High,Station A,10,4
+Theft,Suburban,Morning,High,Station B,10,26
+Theft,Suburban,Morning,High,Station C,8,30
+Drug Offense,Rural,Night,Medium,Station A,10,6
+Drug Offense,Rural,Night,Medium,Station B,6,25
+Drug Offense,Rural,Night,Medium,Station C,5,31
+Fraud,Rural,Night,Medium,Station A,11,7
+Fraud,Rural,Night,Medium,Station B,9,30
+Fraud,Rural,Night,Medium,Station C,6,31
+Theft,Urban,Night,Low,Station A,8,7
+Theft,Urban,Night,Low,Station B,9,28
+Theft,Urban,Night,Low,Station C,9,34
+Theft,Rural,Morning,High,Station A,10,3
+Theft,Rural,Morning,High,Station B,8,24
+Theft,Rural,Morning,High,Station C,6,35
+Theft,Suburban,Afternoon,Medium,Station A,12,5
+Theft,Suburban,Afternoon,Medium,Station B,6,28
+Theft,Suburban,Afternoon,Medium,Station C,9,34
+Robbery,Urban,Night,Low,Station A,9,5
+Robbery,Urban,Night,Low,Station B,8,24
+Robbery,Urban,Night,Low,Station C,7,31
+Fraud,Urban,Morning,Medium,Station A,12,8
+Fraud,Urban,Morning,Medium,Station B,10,29
+Fraud,Urban,Morning,Medium,Station C,6,34
+Drug Offense,Urban,Morning,Low,Station A,8,4
+Drug Offense,Urban,Morning,Low,Station B,10,25
+Drug Offense,Urban,Morning,Low,Station C,9,30
+Assault,Urban,Night,High,Station A,8,4
+Assault,Urban,Night,High,Station B,9,24
+Assault,Urban,Night,High,Station C,6,31
+Theft,Rural,Night,High,Station A,10,8
+Theft,Rural,Night,High,Station B,10,29
+Theft,Rural,Night,High,Station C,5,34
+Vandalism,Urban,Afternoon,High,Station A,8,7
+Vandalism,Urban,Afternoon,High,Station B,9,25
+Vandalism,Urban,Afternoon,High,Station C,7,31
+Vandalism,Rural,Afternoon,High,Station A,11,5
+Vandalism,Rural,Afternoon,High,Station B,6,26
+Vandalism,Rural,Afternoon,High,Station C,9,35
+Theft,Urban,Night,Medium,Station A,9,3
+Theft,Urban,Night,Medium,Station B,9,26
+Theft,Urban,Night,Medium,Station C,9,33
+Robbery,Rural,Morning,Medium,Station A,11,4
+Robbery,Rural,Morning,Medium,Station B,8,24
+Robbery,Rural,Morning,Medium,Station C,9,34
+Drug Offense,Suburban,Evening,Medium,Station A,10,5
+Drug Offense,Suburban,Evening,Medium,Station B,8,24
+Drug Offense,Suburban,Evening,Medium,Station C,9,32
+Drug Offense,Urban,Morning,Low,Station A,10,9
+Drug Offense,Urban,Morning,Low,Station B,9,24
+Drug Offense,Urban,Morning,Low,Station C,7,36
+Vandalism,Rural,Night,Low,Station A,10,4
+Vandalism,Rural,Night,Low,Station B,9,25
+Vandalism,Rural,Night,Low,Station C,9,33
+Vandalism,Urban,Night,Medium,Station A,10,7
+Vandalism,Urban,Night,Medium,Station B,10,25
+Vandalism,Urban,Night,Medium,Station C,5,30
+Fraud,Suburban,Afternoon,Low,Station A,12,9
+Fraud,Suburban,Afternoon,Low,Station B,10,25
+Fraud,Suburban,Afternoon,Low,Station C,6,31
+Theft,Urban,Evening,High,Station A,9,7
+Theft,Urban,Evening,High,Station B,9,26
+Theft,Urban,Evening,High,Station C,6,35
+Drug Offense,Urban,Morning,High,Station A,9,3
+Drug Offense,Urban,Morning,High,Station B,9,30
+Drug Offense,Urban,Morning,High,Station C,5,36
+Fraud,Urban,Morning,High,Station A,11,6
+Fraud,Urban,Morning,High,Station B,10,30
+Fraud,Urban,Morning,High,Station C,5,36
+Theft,Urban,Evening,High,Station A,11,4
+Theft,Urban,Evening,High,Station B,9,28
+Theft,Urban,Evening,High,Station C,5,35
+Vandalism,Suburban,Evening,Medium,Station A,9,5
+Vandalism,Suburban,Evening,Medium,Station B,10,26
+Vandalism,Suburban,Evening,Medium,Station C,9,30
+Theft,Urban,Evening,Low,Station A,11,8
+Theft,Urban,Evening,Low,Station B,9,26
+Theft,Urban,Evening,Low,Station C,7,33
+Robbery,Suburban,Morning,Low,Station A,11,4
+Robbery,Suburban,Morning,Low,Station B,7,25
+Robbery,Suburban,Morning,Low,Station C,5,34
+Burglary,Urban,Morning,High,Station A,9,4
+Burglary,Urban,Morning,High,Station B,9,30
+Burglary,Urban,Morning,High,Station C,9,31
+Robbery,Urban,Night,Medium,Station A,10,7
+Robbery,Urban,Night,Medium,Station B,10,27
+Robbery,Urban,Night,Medium,Station C,7,34
+Burglary,Suburban,Night,Medium,Station A,9,3
+Burglary,Suburban,Night,Medium,Station B,10,30
+Burglary,Suburban,Night,Medium,Station C,5,36
+Assault,Urban,Afternoon,Medium,Station A,11,4
+Assault,Urban,Afternoon,Medium,Station B,7,28
+Assault,Urban,Afternoon,Medium,Station C,6,34
+Fraud,Rural,Afternoon,High,Station A,10,4
+Fraud,Rural,Afternoon,High,Station B,6,28
+Fraud,Rural,Afternoon,High,Station C,6,34
+Drug Offense,Suburban,Morning,Medium,Station A,9,9
+Drug Offense,Suburban,Morning,Medium,Station B,9,26
+Drug Offense,Suburban,Morning,Medium,Station C,9,33
+Robbery,Urban,Morning,Low,Station A,11,5
+Robbery,Urban,Morning,Low,Station B,9,26
+Robbery,Urban,Morning,Low,Station C,6,33
+Drug Offense,Suburban,Evening,Medium,Station A,12,7
+Drug Offense,Suburban,Evening,Medium,Station B,10,24
+Drug Offense,Suburban,Evening,Medium,Station C,5,32
+Drug Offense,Rural,Morning,Low,Station A,8,9
+Drug Offense,Rural,Morning,Low,Station B,7,27
+Drug Offense,Rural,Morning,Low,Station C,9,34
+Drug Offense,Urban,Afternoon,High,Station A,8,7
+Drug Offense,Urban,Afternoon,High,Station B,9,24
+Drug Offense,Urban,Afternoon,High,Station C,5,34
+Robbery,Suburban,Night,Medium,Station A,9,9
+Robbery,Suburban,Night,Medium,Station B,6,30
+Robbery,Suburban,Night,Medium,Station C,9,33
+Assault,Urban,Night,High,Station A,10,4
+Assault,Urban,Night,High,Station B,8,25
+Assault,Urban,Night,High,Station C,9,30
+Drug Offense,Suburban,Night,High,Station A,9,8
+Drug Offense,Suburban,Night,High,Station B,8,27
+Drug Offense,Suburban,Night,High,Station C,9,31
+Theft,Urban,Evening,High,Station A,8,3
+Theft,Urban,Evening,High,Station B,7,26
+Theft,Urban,Evening,High,Station C,6,30
+Vandalism,Rural,Evening,High,Station A,8,6
+Vandalism,Rural,Evening,High,Station B,8,25
+Vandalism,Rural,Evening,High,Station C,7,36
+Assault,Rural,Afternoon,High,Station A,10,8
+Assault,Rural,Afternoon,High,Station B,8,25
+Assault,Rural,Afternoon,High,Station C,5,30
+Assault,Rural,Night,Low,Station A,9,9
+Assault,Rural,Night,Low,Station B,9,29
+Assault,Rural,Night,Low,Station C,6,33
+Fraud,Rural,Night,Low,Station A,12,3
+Fraud,Rural,Night,Low,Station B,7,29
+Fraud,Rural,Night,Low,Station C,9,34
+Robbery,Suburban,Afternoon,Medium,Station A,10,5
+Robbery,Suburban,Afternoon,Medium,Station B,9,24
+Robbery,Suburban,Afternoon,Medium,Station C,6,35
+Theft,Urban,Night,Medium,Station A,12,3
+Theft,Urban,Night,Medium,Station B,6,28
+Theft,Urban,Night,Medium,Station C,8,33
+Drug Offense,Suburban,Evening,Low,Station A,10,6
+Drug Offense,Suburban,Evening,Low,Station B,9,24
+Drug Offense,Suburban,Evening,Low,Station C,5,33
+Assault,Urban,Morning,Medium,Station A,8,3
+Assault,Urban,Morning,Medium,Station B,9,26
+Assault,Urban,Morning,Medium,Station C,8,30
+Fraud,Urban,Night,Medium,Station A,10,7
+Fraud,Urban,Night,Medium,Station B,9,24
+Fraud,Urban,Night,Medium,Station C,8,36
+Burglary,Suburban,Morning,Medium,Station A,9,4
+Burglary,Suburban,Morning,Medium,Station B,8,27
+Burglary,Suburban,Morning,Medium,Station C,8,30
+Vandalism,Urban,Morning,Medium,Station A,12,3
+Vandalism,Urban,Morning,Medium,Station B,10,27
+Vandalism,Urban,Morning,Medium,Station C,8,33
+Fraud,Urban,Evening,Medium,Station A,10,4
+Fraud,Urban,Evening,Medium,Station B,7,28
+Fraud,Urban,Evening,Medium,Station C,9,30
+Assault,Rural,Morning,High,Station A,9,3
+Assault,Rural,Morning,High,Station B,8,30
+Assault,Rural,Morning,High,Station C,5,33
+Vandalism,Urban,Evening,Low,Station A,12,5
+Vandalism,Urban,Evening,Low,Station B,7,29
+Vandalism,Urban,Evening,Low,Station C,9,30
+Fraud,Suburban,Night,Low,Station A,10,7
+Fraud,Suburban,Night,Low,Station B,7,25
+Fraud,Suburban,Night,Low,Station C,5,34
+Assault,Rural,Evening,High,Station A,8,6
+Assault,Rural,Evening,High,Station B,6,30
+Assault,Rural,Evening,High,Station C,9,31
+Vandalism,Rural,Night,Medium,Station A,10,7
+Vandalism,Rural,Night,Medium,Station B,6,24
+Vandalism,Rural,Night,Medium,Station C,9,31
+Fraud,Urban,Morning,High,Station A,8,8
+Fraud,Urban,Morning,High,Station B,7,26
+Fraud,Urban,Morning,High,Station C,8,35
+Vandalism,Suburban,Evening,High,Station A,10,9
+Vandalism,Suburban,Evening,High,Station B,9,28
+Vandalism,Suburban,Evening,High,Station C,7,36
+Drug Offense,Rural,Afternoon,Low,Station A,10,3
+Drug Offense,Rural,Afternoon,Low,Station B,8,24
+Drug Offense,Rural,Afternoon,Low,Station C,5,33
+Theft,Rural,Afternoon,Medium,Station A,9,9
+Theft,Rural,Afternoon,Medium,Station B,7,26
+Theft,Rural,Afternoon,Medium,Station C,8,32
+Fraud,Urban,Morning,Medium,Station A,11,7
+Fraud,Urban,Morning,Medium,Station B,9,27
+Fraud,Urban,Morning,Medium,Station C,6,34
+Fraud,Urban,Evening,Medium,Station A,12,6
+Fraud,Urban,Evening,Medium,Station B,6,25
+Fraud,Urban,Evening,Medium,Station C,7,35
+Burglary,Rural,Evening,Medium,Station A,12,8
+Burglary,Rural,Evening,Medium,Station B,7,24
+Burglary,Rural,Evening,Medium,Station C,5,36
+Assault,Suburban,Night,High,Station A,9,5
+Assault,Suburban,Night,High,Station B,10,27
+Assault,Suburban,Night,High,Station C,7,32
+Fraud,Rural,Evening,High,Station A,8,9
+Fraud,Rural,Evening,High,Station B,7,27
+Fraud,Rural,Evening,High,Station C,7,34
+Burglary,Rural,Afternoon,Medium,Station A,8,3
+Burglary,Rural,Afternoon,Medium,Station B,6,29
+Burglary,Rural,Afternoon,Medium,Station C,9,34
+Fraud,Rural,Evening,Medium,Station A,12,8
+Fraud,Rural,Evening,Medium,Station B,7,26
+Fraud,Rural,Evening,Medium,Station C,6,35
+Burglary,Urban,Morning,Medium,Station A,12,7
+Burglary,Urban,Morning,Medium,Station B,7,25
+Burglary,Urban,Morning,Medium,Station C,5,34
+Assault,Rural,Night,Low,Station A,9,6
+Assault,Rural,Night,Low,Station B,7,25
+Assault,Rural,Night,Low,Station C,8,36
+Drug Offense,Rural,Morning,Low,Station A,10,9
+Drug Offense,Rural,Morning,Low,Station B,8,24
+Drug Offense,Rural,Morning,Low,Station C,6,33
+Assault,Suburban,Morning,Medium,Station A,9,6
+Assault,Suburban,Morning,Medium,Station B,9,25
+Assault,Suburban,Morning,Medium,Station C,6,35
+Fraud,Urban,Evening,Low,Station A,10,3
+Fraud,Urban,Evening,Low,Station B,7,30
+Fraud,Urban,Evening,Low,Station C,8,35
+Burglary,Urban,Evening,Medium,Station A,9,3
+Burglary,Urban,Evening,Medium,Station B,6,28
+Burglary,Urban,Evening,Medium,Station C,9,35
+Burglary,Suburban,Night,Low,Station A,11,8
+Burglary,Suburban,Night,Low,Station B,7,24
+Burglary,Suburban,Night,Low,Station C,7,30
+Burglary,Suburban,Morning,High,Station A,8,7
+Burglary,Suburban,Morning,High,Station B,6,25
+Burglary,Suburban,Morning,High,Station C,6,33
+Theft,Urban,Afternoon,Low,Station A,9,7
+Theft,Urban,Afternoon,Low,Station B,6,27
+Theft,Urban,Afternoon,Low,Station C,6,36
+Fraud,Rural,Evening,Low,Station A,12,9
+Fraud,Rural,Evening,Low,Station B,9,25
+Fraud,Rural,Evening,Low,Station C,9,34
+Vandalism,Urban,Afternoon,Low,Station A,8,6
+Vandalism,Urban,Afternoon,Low,Station B,10,27
+Vandalism,Urban,Afternoon,Low,Station C,9,32
+Theft,Rural,Morning,Medium,Station A,8,7
+Theft,Rural,Morning,Medium,Station B,8,26
+Theft,Rural,Morning,Medium,Station C,9,36
+Robbery,Urban,Night,High,Station A,10,9
+Robbery,Urban,Night,High,Station B,9,27
+Robbery,Urban,Night,High,Station C,8,31
+Robbery,Suburban,Afternoon,Medium,Station A,8,9
+Robbery,Suburban,Afternoon,Medium,Station B,8,30
+Robbery,Suburban,Afternoon,Medium,Station C,7,35
+Robbery,Suburban,Evening,Medium,Station A,9,5
+Robbery,Suburban,Evening,Medium,Station B,7,25
+Robbery,Suburban,Evening,Medium,Station C,5,31
+Burglary,Urban,Afternoon,High,Station A,10,4
+Burglary,Urban,Afternoon,High,Station B,8,27
+Burglary,Urban,Afternoon,High,Station C,5,31
+Assault,Rural,Morning,High,Station A,11,6
+Assault,Rural,Morning,High,Station B,6,25
+Assault,Rural,Morning,High,Station C,8,30
+Drug Offense,Rural,Morning,High,Station A,9,6
+Drug Offense,Rural,Morning,High,Station B,10,26
+Drug Offense,Rural,Morning,High,Station C,7,33
+Robbery,Rural,Night,High,Station A,9,7
+Robbery,Rural,Night,High,Station B,8,24
+Robbery,Rural,Night,High,Station C,5,32
+Assault,Rural,Night,High,Station A,9,6
+Assault,Rural,Night,High,Station B,7,29
+Assault,Rural,Night,High,Station C,7,33
+Vandalism,Urban,Morning,Low,Station A,8,7
+Vandalism,Urban,Morning,Low,Station B,6,27
+Vandalism,Urban,Morning,Low,Station C,8,34
+Theft,Urban,Night,Medium,Station A,8,8
+Theft,Urban,Night,Medium,Station B,8,30
+Theft,Urban,Night,Medium,Station C,7,31
+Fraud,Urban,Morning,High,Station A,12,8
+Fraud,Urban,Morning,High,Station B,8,29
+Fraud,Urban,Morning,High,Station C,7,31
+Assault,Suburban,Morning,Low,Station A,8,8
+Assault,Suburban,Morning,Low,Station B,8,30
+Assault,Suburban,Morning,Low,Station C,5,30
+Assault,Rural,Night,High,Station A,8,9
+Assault,Rural,Night,High,Station B,9,30
+Assault,Rural,Night,High,Station C,7,35
+Robbery,Rural,Evening,Medium,Station A,8,4
+Robbery,Rural,Evening,Medium,Station B,10,27
+Robbery,Rural,Evening,Medium,Station C,6,33
+Theft,Rural,Night,Medium,Station A,10,6
+Theft,Rural,Night,Medium,Station B,10,28
+Theft,Rural,Night,Medium,Station C,6,31
+Vandalism,Rural,Afternoon,Medium,Station A,10,4
+Vandalism,Rural,Afternoon,Medium,Station B,10,24
+Vandalism,Rural,Afternoon,Medium,Station C,5,33
+Theft,Rural,Morning,Low,Station A,9,3
+Theft,Rural,Morning,Low,Station B,6,24
+Theft,Rural,Morning,Low,Station C,5,32
+Assault,Rural,Afternoon,Low,Station A,12,3
+Assault,Rural,Afternoon,Low,Station B,10,29
+Assault,Rural,Afternoon,Low,Station C,7,35
+Fraud,Suburban,Afternoon,High,Station A,8,4
+Fraud,Suburban,Afternoon,High,Station B,6,26
+Fraud,Suburban,Afternoon,High,Station C,5,33
+Theft,Suburban,Afternoon,Low,Station A,11,3
+Theft,Suburban,Afternoon,Low,Station B,7,29
+Theft,Suburban,Afternoon,Low,Station C,5,32
+Theft,Suburban,Night,High,Station A,11,7
+Theft,Suburban,Night,High,Station B,10,24
+Theft,Suburban,Night,High,Station C,9,34
+Drug Offense,Rural,Evening,Low,Station A,11,7
+Drug Offense,Rural,Evening,Low,Station B,8,24
+Drug Offense,Rural,Evening,Low,Station C,6,33
+Assault,Suburban,Afternoon,Low,Station A,10,3
+Assault,Suburban,Afternoon,Low,Station B,10,29
+Assault,Suburban,Afternoon,Low,Station C,5,33
+Theft,Urban,Night,High,Station A,11,6
+Theft,Urban,Night,High,Station B,9,28
+Theft,Urban,Night,High,Station C,7,32
+Theft,Rural,Night,High,Station A,10,8
+Theft,Rural,Night,High,Station B,6,27
+Theft,Rural,Night,High,Station C,7,33
+Vandalism,Urban,Afternoon,Medium,Station A,12,9
+Vandalism,Urban,Afternoon,Medium,Station B,10,26
+Vandalism,Urban,Afternoon,Medium,Station C,9,31
+Drug Offense,Rural,Morning,High,Station A,8,6
+Drug Offense,Rural,Morning,High,Station B,6,26
+Drug Offense,Rural,Morning,High,Station C,7,34
+Drug Offense,Suburban,Afternoon,Low,Station A,12,5
+Drug Offense,Suburban,Afternoon,Low,Station B,6,25
+Drug Offense,Suburban,Afternoon,Low,Station C,5,31
+Assault,Urban,Morning,Low,Station A,12,9
+Assault,Urban,Morning,Low,Station B,10,25
+Assault,Urban,Morning,Low,Station C,7,34
+Burglary,Urban,Evening,Medium,Station A,10,7
+Burglary,Urban,Evening,Medium,Station B,9,30
+Burglary,Urban,Evening,Medium,Station C,6,36
+Theft,Rural,Night,High,Station A,9,6
+Theft,Rural,Night,High,Station B,7,26
+Theft,Rural,Night,High,Station C,8,35
+Vandalism,Rural,Night,High,Station A,8,9
+Vandalism,Rural,Night,High,Station B,9,24
+Vandalism,Rural,Night,High,Station C,7,34
+Drug Offense,Suburban,Night,Low,Station A,8,6
+Drug Offense,Suburban,Night,Low,Station B,10,26
+Drug Offense,Suburban,Night,Low,Station C,7,36
+Robbery,Urban,Afternoon,High,Station A,10,8
+Robbery,Urban,Afternoon,High,Station B,8,28
+Robbery,Urban,Afternoon,High,Station C,8,32
+Burglary,Urban,Afternoon,Medium,Station A,9,4
+Burglary,Urban,Afternoon,Medium,Station B,8,28
+Burglary,Urban,Afternoon,Medium,Station C,8,36
+Assault,Rural,Evening,Low,Station A,8,4
+Assault,Rural,Evening,Low,Station B,7,25
+Assault,Rural,Evening,Low,Station C,8,35
+Assault,Suburban,Afternoon,Low,Station A,11,8
+Assault,Suburban,Afternoon,Low,Station B,8,28
+Assault,Suburban,Afternoon,Low,Station C,7,30
+Drug Offense,Suburban,Evening,High,Station A,9,3
+Drug Offense,Suburban,Evening,High,Station B,9,29
+Drug Offense,Suburban,Evening,High,Station C,9,30
+Burglary,Suburban,Morning,Medium,Station A,9,9
+Burglary,Suburban,Morning,Medium,Station B,8,24
+Burglary,Suburban,Morning,Medium,Station C,6,35
+Drug Offense,Urban,Morning,Medium,Station A,10,5
+Drug Offense,Urban,Morning,Medium,Station B,6,25
+Drug Offense,Urban,Morning,Medium,Station C,9,36
+Theft,Rural,Night,Low,Station A,10,6
+Theft,Rural,Night,Low,Station B,8,29
+Theft,Rural,Night,Low,Station C,5,30
+Robbery,Rural,Morning,High,Station A,9,3
+Robbery,Rural,Morning,High,Station B,8,26
+Robbery,Rural,Morning,High,Station C,9,31
+Robbery,Urban,Afternoon,Medium,Station A,9,5
+Robbery,Urban,Afternoon,Medium,Station B,7,27
+Robbery,Urban,Afternoon,Medium,Station C,9,34
+Vandalism,Urban,Evening,High,Station A,9,4
+Vandalism,Urban,Evening,High,Station B,10,24
+Vandalism,Urban,Evening,High,Station C,5,31
+Assault,Urban,Night,Low,Station A,10,5
+Assault,Urban,Night,Low,Station B,7,24
+Assault,Urban,Night,Low,Station C,9,36
+Drug Offense,Rural,Afternoon,Low,Station A,12,8
+Drug Offense,Rural,Afternoon,Low,Station B,6,24
+Drug Offense,Rural,Afternoon,Low,Station C,7,31
+Assault,Urban,Night,High,Station A,9,6
+Assault,Urban,Night,High,Station B,10,30
+Assault,Urban,Night,High,Station C,8,31
+Theft,Rural,Evening,High,Station A,8,7
+Theft,Rural,Evening,High,Station B,6,24
+Theft,Rural,Evening,High,Station C,6,30
+Vandalism,Rural,Afternoon,Low,Station A,9,8
+Vandalism,Rural,Afternoon,Low,Station B,7,25
+Vandalism,Rural,Afternoon,Low,Station C,7,31
+Vandalism,Rural,Afternoon,Medium,Station A,11,9
+Vandalism,Rural,Afternoon,Medium,Station B,7,27
+Vandalism,Rural,Afternoon,Medium,Station C,8,33
+Assault,Suburban,Morning,High,Station A,10,3
+Assault,Suburban,Morning,High,Station B,10,25
+Assault,Suburban,Morning,High,Station C,8,30
+Theft,Urban,Evening,High,Station A,10,3
+Theft,Urban,Evening,High,Station B,8,24
+Theft,Urban,Evening,High,Station C,7,34
+Theft,Urban,Evening,Medium,Station A,8,7
+Theft,Urban,Evening,Medium,Station B,9,25
+Theft,Urban,Evening,Medium,Station C,6,30
+Burglary,Urban,Afternoon,High,Station A,11,8
+Burglary,Urban,Afternoon,High,Station B,9,28
+Burglary,Urban,Afternoon,High,Station C,5,30
+Drug Offense,Suburban,Evening,Low,Station A,10,6
+Drug Offense,Suburban,Evening,Low,Station B,6,24
+Drug Offense,Suburban,Evening,Low,Station C,5,33
+Burglary,Rural,Afternoon,Low,Station A,9,6
+Burglary,Rural,Afternoon,Low,Station B,8,28
+Burglary,Rural,Afternoon,Low,Station C,8,34
+Burglary,Urban,Morning,High,Station A,8,6
+Burglary,Urban,Morning,High,Station B,10,29
+Burglary,Urban,Morning,High,Station C,5,36
+Theft,Rural,Evening,Medium,Station A,9,4
+Theft,Rural,Evening,Medium,Station B,8,28
+Theft,Rural,Evening,Medium,Station C,8,33
+Vandalism,Urban,Morning,High,Station A,11,7
+Vandalism,Urban,Morning,High,Station B,9,28
+Vandalism,Urban,Morning,High,Station C,9,33
+Vandalism,Urban,Night,Low,Station A,12,7
+Vandalism,Urban,Night,Low,Station B,6,27
+Vandalism,Urban,Night,Low,Station C,7,31
+Burglary,Rural,Evening,High,Station A,8,4
+Burglary,Rural,Evening,High,Station B,8,25
+Burglary,Rural,Evening,High,Station C,8,30
+Robbery,Urban,Night,Medium,Station A,8,3
+Robbery,Urban,Night,Medium,Station B,6,30
+Robbery,Urban,Night,Medium,Station C,9,33
+Drug Offense,Suburban,Morning,High,Station A,9,3
+Drug Offense,Suburban,Morning,High,Station B,7,29
+Drug Offense,Suburban,Morning,High,Station C,7,34
+Assault,Urban,Night,Low,Station A,8,8
+Assault,Urban,Night,Low,Station B,6,24
+Assault,Urban,Night,Low,Station C,8,35
+Robbery,Suburban,Night,Medium,Station A,10,8
+Robbery,Suburban,Night,Medium,Station B,7,29
+Robbery,Suburban,Night,Medium,Station C,8,35
+Robbery,Rural,Afternoon,High,Station A,11,3
+Robbery,Rural,Afternoon,High,Station B,8,29
+Robbery,Rural,Afternoon,High,Station C,5,31
+Vandalism,Urban,Afternoon,High,Station A,10,6
+Vandalism,Urban,Afternoon,High,Station B,10,24
+Vandalism,Urban,Afternoon,High,Station C,6,31
+Fraud,Rural,Morning,Medium,Station A,9,5
+Fraud,Rural,Morning,Medium,Station B,7,29
+Fraud,Rural,Morning,Medium,Station C,5,30
+Drug Offense,Rural,Morning,Low,Station A,9,3
+Drug Offense,Rural,Morning,Low,Station B,7,25
+Drug Offense,Rural,Morning,Low,Station C,8,31
+Assault,Rural,Afternoon,High,Station A,8,4
+Assault,Rural,Afternoon,High,Station B,6,28
+Assault,Rural,Afternoon,High,Station C,8,30
+Drug Offense,Suburban,Morning,High,Station A,8,6
+Drug Offense,Suburban,Morning,High,Station B,10,30
+Drug Offense,Suburban,Morning,High,Station C,9,34
+Theft,Rural,Night,Low,Station A,8,9
+Theft,Rural,Night,Low,Station B,7,25
+Theft,Rural,Night,Low,Station C,8,30
+Fraud,Suburban,Morning,Low,Station A,12,6
+Fraud,Suburban,Morning,Low,Station B,7,25
+Fraud,Suburban,Morning,Low,Station C,8,32
+Theft,Urban,Evening,High,Station A,10,7
+Theft,Urban,Evening,High,Station B,6,29
+Theft,Urban,Evening,High,Station C,5,33
+Drug Offense,Urban,Afternoon,High,Station A,9,4
+Drug Offense,Urban,Afternoon,High,Station B,10,28
+Drug Offense,Urban,Afternoon,High,Station C,7,31
+Theft,Urban,Evening,Low,Station A,12,5
+Theft,Urban,Evening,Low,Station B,6,27
+Theft,Urban,Evening,Low,Station C,5,34
+Theft,Rural,Night,Low,Station A,12,9
+Theft,Rural,Night,Low,Station B,9,24
+Theft,Rural,Night,Low,Station C,9,34
+Robbery,Rural,Morning,Medium,Station A,11,8
+Robbery,Rural,Morning,Medium,Station B,8,24
+Robbery,Rural,Morning,Medium,Station C,7,31
+Theft,Rural,Night,High,Station A,9,4
+Theft,Rural,Night,High,Station B,7,29
+Theft,Rural,Night,High,Station C,5,35
+Assault,Rural,Evening,Low,Station A,12,8
+Assault,Rural,Evening,Low,Station B,10,26
+Assault,Rural,Evening,Low,Station C,5,34
+Assault,Suburban,Morning,High,Station A,10,9
+Assault,Suburban,Morning,High,Station B,10,25
+Assault,Suburban,Morning,High,Station C,8,35
+Theft,Suburban,Afternoon,Medium,Station A,10,3
+Theft,Suburban,Afternoon,Medium,Station B,10,29
+Theft,Suburban,Afternoon,Medium,Station C,7,34
+Burglary,Suburban,Evening,Low,Station A,12,9
+Burglary,Suburban,Evening,Low,Station B,10,30
+Burglary,Suburban,Evening,Low,Station C,9,33
+Fraud,Suburban,Afternoon,Medium,Station A,12,7
+Fraud,Suburban,Afternoon,Medium,Station B,6,30
+Fraud,Suburban,Afternoon,Medium,Station C,5,31
+Drug Offense,Urban,Night,Low,Station A,11,5
+Drug Offense,Urban,Night,Low,Station B,8,24
+Drug Offense,Urban,Night,Low,Station C,9,30
+Fraud,Suburban,Morning,High,Station A,11,6
+Fraud,Suburban,Morning,High,Station B,7,28
+Fraud,Suburban,Morning,High,Station C,5,36
+Drug Offense,Suburban,Evening,High,Station A,10,6
+Drug Offense,Suburban,Evening,High,Station B,9,24
+Drug Offense,Suburban,Evening,High,Station C,9,36
+Assault,Suburban,Afternoon,Low,Station A,8,4
+Assault,Suburban,Afternoon,Low,Station B,8,26
+Assault,Suburban,Afternoon,Low,Station C,6,36
+Drug Offense,Rural,Evening,Medium,Station A,12,7
+Drug Offense,Rural,Evening,Medium,Station B,10,29
+Drug Offense,Rural,Evening,Medium,Station C,9,32
+Fraud,Rural,Morning,High,Station A,10,4
+Fraud,Rural,Morning,High,Station B,8,24
+Fraud,Rural,Morning,High,Station C,5,30
+Drug Offense,Rural,Evening,Low,Station A,10,4
+Drug Offense,Rural,Evening,Low,Station B,7,27
+Drug Offense,Rural,Evening,Low,Station C,5,35
+Fraud,Urban,Afternoon,High,Station A,10,5
+Fraud,Urban,Afternoon,High,Station B,6,26
+Fraud,Urban,Afternoon,High,Station C,7,35
+Robbery,Suburban,Morning,High,Station A,12,8
+Robbery,Suburban,Morning,High,Station B,6,27
+Robbery,Suburban,Morning,High,Station C,7,33
+Vandalism,Suburban,Morning,Low,Station A,12,5
+Vandalism,Suburban,Morning,Low,Station B,10,30
+Vandalism,Suburban,Morning,Low,Station C,5,33
+Robbery,Suburban,Afternoon,Medium,Station A,9,4
+Robbery,Suburban,Afternoon,Medium,Station B,10,27
+Robbery,Suburban,Afternoon,Medium,Station C,9,31
+Robbery,Rural,Morning,High,Station A,9,7
+Robbery,Rural,Morning,High,Station B,7,25
+Robbery,Rural,Morning,High,Station C,6,33
+Drug Offense,Suburban,Afternoon,Medium,Station A,9,7
+Drug Offense,Suburban,Afternoon,Medium,Station B,7,26
+Drug Offense,Suburban,Afternoon,Medium,Station C,6,31
+Burglary,Rural,Night,High,Station A,9,7
+Burglary,Rural,Night,High,Station B,10,30
+Burglary,Rural,Night,High,Station C,9,33
+Assault,Suburban,Morning,Medium,Station A,8,6
+Assault,Suburban,Morning,Medium,Station B,6,28
+Assault,Suburban,Morning,Medium,Station C,5,33
+Drug Offense,Urban,Afternoon,Low,Station A,12,3
+Drug Offense,Urban,Afternoon,Low,Station B,6,27
+Drug Offense,Urban,Afternoon,Low,Station C,7,32
+Assault,Suburban,Evening,Low,Station A,12,7
+Assault,Suburban,Evening,Low,Station B,6,29
+Assault,Suburban,Evening,Low,Station C,9,36
+Robbery,Rural,Morning,Low,Station A,8,6
+Robbery,Rural,Morning,Low,Station B,9,25
+Robbery,Rural,Morning,Low,Station C,7,32
+Assault,Urban,Afternoon,High,Station A,8,3
+Assault,Urban,Afternoon,High,Station B,9,29
+Assault,Urban,Afternoon,High,Station C,7,32
+Robbery,Suburban,Night,Low,Station A,9,5
+Robbery,Suburban,Night,Low,Station B,6,30
+Robbery,Suburban,Night,Low,Station C,8,34
+Vandalism,Suburban,Night,Low,Station A,11,6
+Vandalism,Suburban,Night,Low,Station B,8,24
+Vandalism,Suburban,Night,Low,Station C,5,36
+Fraud,Urban,Night,Low,Station A,10,4
+Fraud,Urban,Night,Low,Station B,10,30
+Fraud,Urban,Night,Low,Station C,9,30
+Drug Offense,Suburban,Morning,High,Station A,12,9
+Drug Offense,Suburban,Morning,High,Station B,10,28
+Drug Offense,Suburban,Morning,High,Station C,9,32
+Burglary,Rural,Afternoon,High,Station A,11,6
+Burglary,Rural,Afternoon,High,Station B,7,28
+Burglary,Rural,Afternoon,High,Station C,9,32
+Assault,Rural,Night,High,Station A,9,6
+Assault,Rural,Night,High,Station B,6,30
+Assault,Rural,Night,High,Station C,5,33
+Drug Offense,Urban,Afternoon,High,Station A,10,3
+Drug Offense,Urban,Afternoon,High,Station B,8,28
+Drug Offense,Urban,Afternoon,High,Station C,5,31
+Theft,Suburban,Morning,Medium,Station A,9,5
+Theft,Suburban,Morning,Medium,Station B,7,25
+Theft,Suburban,Morning,Medium,Station C,6,36
+Burglary,Rural,Morning,Low,Station A,11,9
+Burglary,Rural,Morning,Low,Station B,8,28
+Burglary,Rural,Morning,Low,Station C,7,31
+Theft,Rural,Evening,High,Station A,12,7
+Theft,Rural,Evening,High,Station B,10,26
+Theft,Rural,Evening,High,Station C,9,36
+Robbery,Rural,Evening,Medium,Station A,11,4
+Robbery,Rural,Evening,Medium,Station B,9,26
+Robbery,Rural,Evening,Medium,Station C,6,32
+Drug Offense,Rural,Evening,Medium,Station A,11,9
+Drug Offense,Rural,Evening,Medium,Station B,7,29
+Drug Offense,Rural,Evening,Medium,Station C,7,35
+Drug Offense,Rural,Evening,High,Station A,11,9
+Drug Offense,Rural,Evening,High,Station B,6,28
+Drug Offense,Rural,Evening,High,Station C,7,36
+Vandalism,Urban,Afternoon,Low,Station A,10,7
+Vandalism,Urban,Afternoon,Low,Station B,10,26
+Vandalism,Urban,Afternoon,Low,Station C,5,34
+Assault,Rural,Afternoon,Low,Station A,9,6
+Assault,Rural,Afternoon,Low,Station B,9,26
+Assault,Rural,Afternoon,Low,Station C,7,32
+Theft,Rural,Afternoon,High,Station A,8,5
+Theft,Rural,Afternoon,High,Station B,9,26
+Theft,Rural,Afternoon,High,Station C,6,30
+Burglary,Urban,Afternoon,Low,Station A,12,3
+Burglary,Urban,Afternoon,Low,Station B,8,27
+Burglary,Urban,Afternoon,Low,Station C,9,31
+Vandalism,Suburban,Afternoon,Medium,Station A,10,8
+Vandalism,Suburban,Afternoon,Medium,Station B,10,24
+Vandalism,Suburban,Afternoon,Medium,Station C,5,35
+Assault,Urban,Morning,Low,Station A,11,6
+Assault,Urban,Morning,Low,Station B,6,24
+Assault,Urban,Morning,Low,Station C,9,30
+Fraud,Suburban,Evening,High,Station A,8,8
+Fraud,Suburban,Evening,High,Station B,6,29
+Fraud,Suburban,Evening,High,Station C,7,36
+Fraud,Urban,Morning,Low,Station A,10,4
+Fraud,Urban,Morning,Low,Station B,6,29
+Fraud,Urban,Morning,Low,Station C,8,31
+Burglary,Suburban,Morning,Medium,Station A,8,5
+Burglary,Suburban,Morning,Medium,Station B,9,30
+Burglary,Suburban,Morning,Medium,Station C,5,33
+Assault,Rural,Morning,Medium,Station A,10,7
+Assault,Rural,Morning,Medium,Station B,6,27
+Assault,Rural,Morning,Medium,Station C,9,30
+Assault,Suburban,Afternoon,Low,Station A,10,4
+Assault,Suburban,Afternoon,Low,Station B,10,27
+Assault,Suburban,Afternoon,Low,Station C,7,33
+Fraud,Suburban,Afternoon,High,Station A,8,3
+Fraud,Suburban,Afternoon,High,Station B,9,27
+Fraud,Suburban,Afternoon,High,Station C,9,33
+Vandalism,Suburban,Afternoon,Medium,Station A,12,4
+Vandalism,Suburban,Afternoon,Medium,Station B,6,24
+Vandalism,Suburban,Afternoon,Medium,Station C,5,30
+Robbery,Rural,Evening,High,Station A,10,7
+Robbery,Rural,Evening,High,Station B,9,26
+Robbery,Rural,Evening,High,Station C,9,34
+Robbery,Suburban,Morning,Low,Station A,10,6
+Robbery,Suburban,Morning,Low,Station B,10,29
+Robbery,Suburban,Morning,Low,Station C,5,33
+Theft,Suburban,Afternoon,High,Station A,10,5
+Theft,Suburban,Afternoon,High,Station B,7,28
+Theft,Suburban,Afternoon,High,Station C,6,32
+Theft,Rural,Night,Low,Station A,12,8
+Theft,Rural,Night,Low,Station B,8,28
+Theft,Rural,Night,Low,Station C,6,31
+Assault,Urban,Afternoon,Medium,Station A,11,7
+Assault,Urban,Afternoon,Medium,Station B,9,27
+Assault,Urban,Afternoon,Medium,Station C,5,32
+Burglary,Rural,Evening,Medium,Station A,12,6
+Burglary,Rural,Evening,Medium,Station B,6,28
+Burglary,Rural,Evening,Medium,Station C,8,33
+Assault,Rural,Morning,Low,Station A,8,6
+Assault,Rural,Morning,Low,Station B,7,26
+Assault,Rural,Morning,Low,Station C,6,33
+Vandalism,Rural,Evening,Low,Station A,9,7
+Vandalism,Rural,Evening,Low,Station B,8,24
+Vandalism,Rural,Evening,Low,Station C,7,36
+Assault,Suburban,Morning,Medium,Station A,9,8
+Assault,Suburban,Morning,Medium,Station B,6,26
+Assault,Suburban,Morning,Medium,Station C,8,31
+Drug Offense,Urban,Night,High,Station A,8,4
+Drug Offense,Urban,Night,High,Station B,8,26
+Drug Offense,Urban,Night,High,Station C,7,35
+Assault,Suburban,Night,Medium,Station A,8,6
+Assault,Suburban,Night,Medium,Station B,10,27
+Assault,Suburban,Night,Medium,Station C,8,33
+Fraud,Urban,Morning,Low,Station A,12,3
+Fraud,Urban,Morning,Low,Station B,7,26
+Fraud,Urban,Morning,Low,Station C,6,30
+Burglary,Rural,Night,Low,Station A,8,9
+Burglary,Rural,Night,Low,Station B,7,29
+Burglary,Rural,Night,Low,Station C,6,34
+Assault,Suburban,Afternoon,High,Station A,8,7
+Assault,Suburban,Afternoon,High,Station B,8,25
+Assault,Suburban,Afternoon,High,Station C,5,35
+Assault,Rural,Evening,High,Station A,10,9
+Assault,Rural,Evening,High,Station B,8,28
+Assault,Rural,Evening,High,Station C,9,36
+Robbery,Rural,Night,Low,Station A,10,4
+Robbery,Rural,Night,Low,Station B,6,30
+Robbery,Rural,Night,Low,Station C,8,34
+Robbery,Rural,Evening,Low,Station A,11,5
+Robbery,Rural,Evening,Low,Station B,9,24
+Robbery,Rural,Evening,Low,Station C,6,35
+Assault,Urban,Morning,Low,Station A,11,6
+Assault,Urban,Morning,Low,Station B,10,27
+Assault,Urban,Morning,Low,Station C,6,35
+Drug Offense,Rural,Afternoon,Low,Station A,10,9
+Drug Offense,Rural,Afternoon,Low,Station B,7,26
+Drug Offense,Rural,Afternoon,Low,Station C,5,34
+Robbery,Urban,Morning,Low,Station A,8,7
+Robbery,Urban,Morning,Low,Station B,7,25
+Robbery,Urban,Morning,Low,Station C,5,31
+Theft,Suburban,Night,High,Station A,8,4
+Theft,Suburban,Night,High,Station B,8,27
+Theft,Suburban,Night,High,Station C,7,30
+Burglary,Suburban,Afternoon,High,Station A,8,8
+Burglary,Suburban,Afternoon,High,Station B,9,25
+Burglary,Suburban,Afternoon,High,Station C,9,35
+Drug Offense,Rural,Evening,High,Station A,11,4
+Drug Offense,Rural,Evening,High,Station B,7,28
+Drug Offense,Rural,Evening,High,Station C,6,34
+Burglary,Suburban,Night,Medium,Station A,9,3
+Burglary,Suburban,Night,Medium,Station B,8,29
+Burglary,Suburban,Night,Medium,Station C,5,33
+Burglary,Urban,Morning,Low,Station A,11,9
+Burglary,Urban,Morning,Low,Station B,7,25
+Burglary,Urban,Morning,Low,Station C,5,36
+Robbery,Urban,Morning,Medium,Station A,11,7
+Robbery,Urban,Morning,Medium,Station B,6,27
+Robbery,Urban,Morning,Medium,Station C,9,36
+Burglary,Rural,Evening,High,Station A,8,5
+Burglary,Rural,Evening,High,Station B,8,26
+Burglary,Rural,Evening,High,Station C,6,31
+Robbery,Urban,Night,High,Station A,12,8
+Robbery,Urban,Night,High,Station B,10,24
+Robbery,Urban,Night,High,Station C,8,30
+Robbery,Rural,Morning,Medium,Station A,8,6
+Robbery,Rural,Morning,Medium,Station B,7,29
+Robbery,Rural,Morning,Medium,Station C,5,32
+Assault,Urban,Evening,High,Station A,8,5
+Assault,Urban,Evening,High,Station B,9,29
+Assault,Urban,Evening,High,Station C,7,36
+Burglary,Suburban,Morning,High,Station A,11,3
+Burglary,Suburban,Morning,High,Station B,9,30
+Burglary,Suburban,Morning,High,Station C,7,33
+Theft,Suburban,Evening,High,Station A,8,5
+Theft,Suburban,Evening,High,Station B,7,28
+Theft,Suburban,Evening,High,Station C,7,36
+Robbery,Rural,Night,High,Station A,9,4
+Robbery,Rural,Night,High,Station B,8,29
+Robbery,Rural,Night,High,Station C,5,33
+Drug Offense,Suburban,Night,High,Station A,9,8
+Drug Offense,Suburban,Night,High,Station B,8,28
+Drug Offense,Suburban,Night,High,Station C,8,34
+Assault,Rural,Evening,Low,Station A,10,4
+Assault,Rural,Evening,Low,Station B,10,25
+Assault,Rural,Evening,Low,Station C,6,31
+Assault,Rural,Morning,Medium,Station A,8,7
+Assault,Rural,Morning,Medium,Station B,9,26
+Assault,Rural,Morning,Medium,Station C,7,36
+Fraud,Suburban,Evening,Medium,Station A,10,9
+Fraud,Suburban,Evening,Medium,Station B,9,27
+Fraud,Suburban,Evening,Medium,Station C,7,30
+Fraud,Urban,Afternoon,High,Station A,12,3
+Fraud,Urban,Afternoon,High,Station B,7,27
+Fraud,Urban,Afternoon,High,Station C,5,35
+Vandalism,Urban,Night,Low,Station A,9,6
+Vandalism,Urban,Night,Low,Station B,9,29
+Vandalism,Urban,Night,Low,Station C,8,31
+Theft,Suburban,Evening,Medium,Station A,9,5
+Theft,Suburban,Evening,Medium,Station B,8,28
+Theft,Suburban,Evening,Medium,Station C,6,30
+Fraud,Urban,Morning,High,Station A,12,6
+Fraud,Urban,Morning,High,Station B,9,25
+Fraud,Urban,Morning,High,Station C,8,32
+Vandalism,Rural,Evening,Low,Station A,11,9
+Vandalism,Rural,Evening,Low,Station B,10,30
+Vandalism,Rural,Evening,Low,Station C,8,31
+Robbery,Urban,Night,Low,Station A,12,3
+Robbery,Urban,Night,Low,Station B,7,30
+Robbery,Urban,Night,Low,Station C,5,36
+Theft,Suburban,Morning,High,Station A,12,3
+Theft,Suburban,Morning,High,Station B,10,30
+Theft,Suburban,Morning,High,Station C,6,31
+Theft,Urban,Night,Medium,Station A,12,6
+Theft,Urban,Night,Medium,Station B,8,26
+Theft,Urban,Night,Medium,Station C,9,34
+Burglary,Urban,Morning,High,Station A,11,9
+Burglary,Urban,Morning,High,Station B,8,29
+Burglary,Urban,Morning,High,Station C,6,32
+Burglary,Suburban,Evening,Low,Station A,11,8
+Burglary,Suburban,Evening,Low,Station B,8,28
+Burglary,Suburban,Evening,Low,Station C,6,33
+Theft,Urban,Morning,Low,Station A,9,7
+Theft,Urban,Morning,Low,Station B,9,25
+Theft,Urban,Morning,Low,Station C,9,36
+Fraud,Suburban,Morning,High,Station A,12,4
+Fraud,Suburban,Morning,High,Station B,10,25
+Fraud,Suburban,Morning,High,Station C,6,31
+Vandalism,Rural,Afternoon,Medium,Station A,9,3
+Vandalism,Rural,Afternoon,Medium,Station B,10,27
+Vandalism,Rural,Afternoon,Medium,Station C,7,32
+Burglary,Urban,Afternoon,Low,Station A,12,3
+Burglary,Urban,Afternoon,Low,Station B,7,30
+Burglary,Urban,Afternoon,Low,Station C,8,35
+Vandalism,Urban,Afternoon,Medium,Station A,11,7
+Vandalism,Urban,Afternoon,Medium,Station B,9,24
+Vandalism,Urban,Afternoon,Medium,Station C,8,35
+Fraud,Urban,Evening,Low,Station A,12,4
+Fraud,Urban,Evening,Low,Station B,8,28
+Fraud,Urban,Evening,Low,Station C,8,31
+Drug Offense,Rural,Night,Medium,Station A,9,3
+Drug Offense,Rural,Night,Medium,Station B,8,24
+Drug Offense,Rural,Night,Medium,Station C,9,35
+Burglary,Urban,Evening,High,Station A,12,7
+Burglary,Urban,Evening,High,Station B,6,27
+Burglary,Urban,Evening,High,Station C,5,33
+Vandalism,Rural,Night,Medium,Station A,10,8
+Vandalism,Rural,Night,Medium,Station B,8,24
+Vandalism,Rural,Night,Medium,Station C,5,32
+Robbery,Rural,Afternoon,Medium,Station A,11,8
+Robbery,Rural,Afternoon,Medium,Station B,8,24
+Robbery,Rural,Afternoon,Medium,Station C,9,33
+Assault,Suburban,Night,High,Station A,9,8
+Assault,Suburban,Night,High,Station B,10,26
+Assault,Suburban,Night,High,Station C,5,33
+Robbery,Rural,Morning,High,Station A,8,6
+Robbery,Rural,Morning,High,Station B,6,27
+Robbery,Rural,Morning,High,Station C,9,34
+Vandalism,Rural,Night,Low,Station A,10,9
+Vandalism,Rural,Night,Low,Station B,10,25
+Vandalism,Rural,Night,Low,Station C,7,33
+Assault,Suburban,Evening,High,Station A,10,4
+Assault,Suburban,Evening,High,Station B,6,30
+Assault,Suburban,Evening,High,Station C,6,30
+Robbery,Urban,Evening,Medium,Station A,10,3
+Robbery,Urban,Evening,Medium,Station B,9,30
+Robbery,Urban,Evening,Medium,Station C,8,31
+Theft,Suburban,Evening,Low,Station A,9,9
+Theft,Suburban,Evening,Low,Station B,8,26
+Theft,Suburban,Evening,Low,Station C,6,30
+Assault,Urban,Night,Medium,Station A,9,7
+Assault,Urban,Night,Medium,Station B,8,26
+Assault,Urban,Night,Medium,Station C,8,33
+Assault,Urban,Night,High,Station A,8,3
+Assault,Urban,Night,High,Station B,10,26
+Assault,Urban,Night,High,Station C,9,30
+Assault,Suburban,Night,High,Station A,12,3
+Assault,Suburban,Night,High,Station B,6,30
+Assault,Suburban,Night,High,Station C,7,32
+Burglary,Rural,Afternoon,Medium,Station A,12,6
+Burglary,Rural,Afternoon,Medium,Station B,6,26
+Burglary,Rural,Afternoon,Medium,Station C,7,35
+Robbery,Suburban,Evening,High,Station A,9,6
+Robbery,Suburban,Evening,High,Station B,9,24
+Robbery,Suburban,Evening,High,Station C,5,32
+Vandalism,Rural,Night,Low,Station A,8,9
+Vandalism,Rural,Night,Low,Station B,7,28
+Vandalism,Rural,Night,Low,Station C,9,32
+Burglary,Urban,Night,Low,Station A,9,7
+Burglary,Urban,Night,Low,Station B,10,30
+Burglary,Urban,Night,Low,Station C,6,36
+Robbery,Rural,Morning,High,Station A,9,6
+Robbery,Rural,Morning,High,Station B,9,30
+Robbery,Rural,Morning,High,Station C,9,32
+Vandalism,Urban,Night,High,Station A,8,9
+Vandalism,Urban,Night,High,Station B,10,24
+Vandalism,Urban,Night,High,Station C,9,33
+Assault,Urban,Morning,Medium,Station A,9,6
+Assault,Urban,Morning,Medium,Station B,8,28
+Assault,Urban,Morning,Medium,Station C,5,34
+Assault,Suburban,Night,Medium,Station A,8,6
+Assault,Suburban,Night,Medium,Station B,6,30
+Assault,Suburban,Night,Medium,Station C,5,30
+Theft,Suburban,Night,Medium,Station A,11,3
+Theft,Suburban,Night,Medium,Station B,6,27
+Theft,Suburban,Night,Medium,Station C,7,33
+Vandalism,Urban,Morning,Low,Station A,9,6
+Vandalism,Urban,Morning,Low,Station B,10,28
+Vandalism,Urban,Morning,Low,Station C,9,34
+Robbery,Suburban,Afternoon,High,Station A,8,6
+Robbery,Suburban,Afternoon,High,Station B,6,24
+Robbery,Suburban,Afternoon,High,Station C,9,31
+Robbery,Rural,Morning,Low,Station A,10,3
+Robbery,Rural,Morning,Low,Station B,7,28
+Robbery,Rural,Morning,Low,Station C,7,30
+Fraud,Urban,Afternoon,Medium,Station A,9,8
+Fraud,Urban,Afternoon,Medium,Station B,10,27
+Fraud,Urban,Afternoon,Medium,Station C,7,35
+Fraud,Rural,Afternoon,Low,Station A,10,3
+Fraud,Rural,Afternoon,Low,Station B,7,28
+Fraud,Rural,Afternoon,Low,Station C,5,33
+Assault,Urban,Morning,Low,Station A,12,7
+Assault,Urban,Morning,Low,Station B,9,27
+Assault,Urban,Morning,Low,Station C,6,31
+Assault,Urban,Night,Low,Station A,8,9
+Assault,Urban,Night,Low,Station B,6,25
+Assault,Urban,Night,Low,Station C,5,31
+Drug Offense,Rural,Evening,Medium,Station A,11,6
+Drug Offense,Rural,Evening,Medium,Station B,9,29
+Drug Offense,Rural,Evening,Medium,Station C,9,31
+Robbery,Urban,Evening,Medium,Station A,12,5
+Robbery,Urban,Evening,Medium,Station B,7,30
+Robbery,Urban,Evening,Medium,Station C,5,33
+Drug Offense,Rural,Afternoon,Medium,Station A,12,9
+Drug Offense,Rural,Afternoon,Medium,Station B,10,28
+Drug Offense,Rural,Afternoon,Medium,Station C,7,32
+Assault,Suburban,Afternoon,High,Station A,11,3
+Assault,Suburban,Afternoon,High,Station B,7,27
+Assault,Suburban,Afternoon,High,Station C,6,34
+Vandalism,Suburban,Night,High,Station A,10,8
+Vandalism,Suburban,Night,High,Station B,9,28
+Vandalism,Suburban,Night,High,Station C,6,35
+Robbery,Suburban,Afternoon,Low,Station A,12,8
+Robbery,Suburban,Afternoon,Low,Station B,7,29
+Robbery,Suburban,Afternoon,Low,Station C,8,33
+Theft,Suburban,Evening,Medium,Station A,9,8
+Theft,Suburban,Evening,Medium,Station B,7,27
+Theft,Suburban,Evening,Medium,Station C,5,32
+Burglary,Urban,Evening,Medium,Station A,12,4
+Burglary,Urban,Evening,Medium,Station B,8,24
+Burglary,Urban,Evening,Medium,Station C,8,34
+Fraud,Urban,Evening,High,Station A,9,9
+Fraud,Urban,Evening,High,Station B,7,24
+Fraud,Urban,Evening,High,Station C,6,34
+Burglary,Suburban,Morning,Medium,Station A,9,7
+Burglary,Suburban,Morning,Medium,Station B,7,24
+Burglary,Suburban,Morning,Medium,Station C,7,32
+Assault,Rural,Morning,High,Station A,8,7
+Assault,Rural,Morning,High,Station B,7,28
+Assault,Rural,Morning,High,Station C,9,34
+Vandalism,Rural,Night,High,Station A,10,3
+Vandalism,Rural,Night,High,Station B,9,28
+Vandalism,Rural,Night,High,Station C,7,30
+Drug Offense,Urban,Morning,Low,Station A,11,8
+Drug Offense,Urban,Morning,Low,Station B,10,27
+Drug Offense,Urban,Morning,Low,Station C,9,34
+Burglary,Urban,Morning,Medium,Station A,10,4
+Burglary,Urban,Morning,Medium,Station B,10,26
+Burglary,Urban,Morning,Medium,Station C,8,33
+Vandalism,Rural,Evening,High,Station A,8,3
+Vandalism,Rural,Evening,High,Station B,9,25
+Vandalism,Rural,Evening,High,Station C,9,30
+Burglary,Rural,Evening,High,Station A,8,4
+Burglary,Rural,Evening,High,Station B,7,27
+Burglary,Rural,Evening,High,Station C,5,36
+Robbery,Rural,Morning,Low,Station A,9,5
+Robbery,Rural,Morning,Low,Station B,8,30
+Robbery,Rural,Morning,Low,Station C,7,33
+Drug Offense,Suburban,Afternoon,High,Station A,9,8
+Drug Offense,Suburban,Afternoon,High,Station B,7,25
+Drug Offense,Suburban,Afternoon,High,Station C,6,33
+Fraud,Urban,Evening,Low,Station A,12,3
+Fraud,Urban,Evening,Low,Station B,10,25
+Fraud,Urban,Evening,Low,Station C,5,36
+Burglary,Urban,Night,High,Station A,11,8
+Burglary,Urban,Night,High,Station B,8,24
+Burglary,Urban,Night,High,Station C,7,34
+Fraud,Rural,Evening,Medium,Station A,9,4
+Fraud,Rural,Evening,Medium,Station B,10,28
+Fraud,Rural,Evening,Medium,Station C,6,35
+Burglary,Rural,Evening,Low,Station A,8,6
+Burglary,Rural,Evening,Low,Station B,10,27
+Burglary,Rural,Evening,Low,Station C,5,34
+Vandalism,Rural,Afternoon,Medium,Station A,12,6
+Vandalism,Rural,Afternoon,Medium,Station B,9,28
+Vandalism,Rural,Afternoon,Medium,Station C,5,34
+Fraud,Suburban,Night,Low,Station A,9,6
+Fraud,Suburban,Night,Low,Station B,7,30
+Fraud,Suburban,Night,Low,Station C,7,30
+Robbery,Urban,Night,Medium,Station A,11,7
+Robbery,Urban,Night,Medium,Station B,6,30
+Robbery,Urban,Night,Medium,Station C,9,33
+Burglary,Rural,Night,Medium,Station A,12,8
+Burglary,Rural,Night,Medium,Station B,9,27
+Burglary,Rural,Night,Medium,Station C,8,35
+Burglary,Suburban,Night,Medium,Station A,8,5
+Burglary,Suburban,Night,Medium,Station B,8,25
+Burglary,Suburban,Night,Medium,Station C,9,36
+Theft,Suburban,Morning,Medium,Station A,10,8
+Theft,Suburban,Morning,Medium,Station B,10,28
+Theft,Suburban,Morning,Medium,Station C,5,30
+Assault,Rural,Night,High,Station A,10,3
+Assault,Rural,Night,High,Station B,9,24
+Assault,Rural,Night,High,Station C,8,31
+Fraud,Suburban,Night,High,Station A,10,7
+Fraud,Suburban,Night,High,Station B,8,24
+Fraud,Suburban,Night,High,Station C,7,31
+Burglary,Urban,Morning,Low,Station A,10,6
+Burglary,Urban,Morning,Low,Station B,10,24
+Burglary,Urban,Morning,Low,Station C,5,36
+Theft,Suburban,Morning,Low,Station A,9,6
+Theft,Suburban,Morning,Low,Station B,9,26
+Theft,Suburban,Morning,Low,Station C,7,34
+Theft,Rural,Afternoon,Low,Station A,10,9
+Theft,Rural,Afternoon,Low,Station B,6,27
+Theft,Rural,Afternoon,Low,Station C,9,36
+Theft,Rural,Night,High,Station A,12,4
+Theft,Rural,Night,High,Station B,10,24
+Theft,Rural,Night,High,Station C,6,31
+Robbery,Urban,Afternoon,Medium,Station A,11,3
+Robbery,Urban,Afternoon,Medium,Station B,9,25
+Robbery,Urban,Afternoon,Medium,Station C,6,31
+Fraud,Rural,Night,Low,Station A,12,7
+Fraud,Rural,Night,Low,Station B,7,26
+Fraud,Rural,Night,Low,Station C,9,33
+Drug Offense,Urban,Morning,Low,Station A,10,4
+Drug Offense,Urban,Morning,Low,Station B,9,30
+Drug Offense,Urban,Morning,Low,Station C,6,31
+Fraud,Suburban,Night,Low,Station A,12,6
+Fraud,Suburban,Night,Low,Station B,7,30
+Fraud,Suburban,Night,Low,Station C,8,35
+Robbery,Urban,Morning,Low,Station A,8,9
+Robbery,Urban,Morning,Low,Station B,6,27
+Robbery,Urban,Morning,Low,Station C,8,35
+Drug Offense,Rural,Night,Medium,Station A,10,7
+Drug Offense,Rural,Night,Medium,Station B,6,25
+Drug Offense,Rural,Night,Medium,Station C,6,30
+Vandalism,Suburban,Morning,Low,Station A,10,6
+Vandalism,Suburban,Morning,Low,Station B,7,27
+Vandalism,Suburban,Morning,Low,Station C,8,31
+Fraud,Suburban,Afternoon,Medium,Station A,10,6
+Fraud,Suburban,Afternoon,Medium,Station B,6,24
+Fraud,Suburban,Afternoon,Medium,Station C,8,30
+Assault,Rural,Evening,High,Station A,8,4
+Assault,Rural,Evening,High,Station B,10,29
+Assault,Rural,Evening,High,Station C,5,31
+Burglary,Urban,Morning,Medium,Station A,11,3
+Burglary,Urban,Morning,Medium,Station B,8,25
+Burglary,Urban,Morning,Medium,Station C,6,30
+Drug Offense,Rural,Evening,Low,Station A,10,5
+Drug Offense,Rural,Evening,Low,Station B,7,24
+Drug Offense,Rural,Evening,Low,Station C,6,30
+Vandalism,Rural,Afternoon,Low,Station A,11,4
+Vandalism,Rural,Afternoon,Low,Station B,10,30
+Vandalism,Rural,Afternoon,Low,Station C,6,35
+Assault,Suburban,Afternoon,High,Station A,11,3
+Assault,Suburban,Afternoon,High,Station B,6,28
+Assault,Suburban,Afternoon,High,Station C,9,33
+Robbery,Suburban,Morning,Medium,Station A,10,7
+Robbery,Suburban,Morning,Medium,Station B,6,27
+Robbery,Suburban,Morning,Medium,Station C,8,36
+Fraud,Suburban,Evening,Low,Station A,11,4
+Fraud,Suburban,Evening,Low,Station B,7,27
+Fraud,Suburban,Evening,Low,Station C,7,32
+Fraud,Rural,Night,Low,Station A,8,7
+Fraud,Rural,Night,Low,Station B,7,29
+Fraud,Rural,Night,Low,Station C,7,30
+Robbery,Urban,Afternoon,Medium,Station A,11,5
+Robbery,Urban,Afternoon,Medium,Station B,7,30
+Robbery,Urban,Afternoon,Medium,Station C,9,31
+Vandalism,Suburban,Afternoon,Low,Station A,12,3
+Vandalism,Suburban,Afternoon,Low,Station B,6,27
+Vandalism,Suburban,Afternoon,Low,Station C,7,36
+Burglary,Urban,Morning,High,Station A,8,7
+Burglary,Urban,Morning,High,Station B,8,27
+Burglary,Urban,Morning,High,Station C,6,34
+Robbery,Urban,Morning,Low,Station A,11,8
+Robbery,Urban,Morning,Low,Station B,8,24
+Robbery,Urban,Morning,Low,Station C,9,35
+Assault,Urban,Morning,Medium,Station A,12,4
+Assault,Urban,Morning,Medium,Station B,7,24
+Assault,Urban,Morning,Medium,Station C,7,36
+Vandalism,Suburban,Evening,Medium,Station A,11,5
+Vandalism,Suburban,Evening,Medium,Station B,6,29
+Vandalism,Suburban,Evening,Medium,Station C,7,30
+Theft,Rural,Evening,Low,Station A,8,7
+Theft,Rural,Evening,Low,Station B,6,25
+Theft,Rural,Evening,Low,Station C,9,30
+Burglary,Rural,Morning,High,Station A,8,8
+Burglary,Rural,Morning,High,Station B,9,24
+Burglary,Rural,Morning,High,Station C,8,35
+Drug Offense,Rural,Morning,Medium,Station A,8,6
+Drug Offense,Rural,Morning,Medium,Station B,6,29
+Drug Offense,Rural,Morning,Medium,Station C,6,30
+Fraud,Rural,Morning,High,Station A,11,4
+Fraud,Rural,Morning,High,Station B,7,28
+Fraud,Rural,Morning,High,Station C,7,34
+Assault,Rural,Afternoon,High,Station A,12,3
+Assault,Rural,Afternoon,High,Station B,8,30
+Assault,Rural,Afternoon,High,Station C,9,32
+Theft,Rural,Evening,High,Station A,9,8
+Theft,Rural,Evening,High,Station B,9,25
+Theft,Rural,Evening,High,Station C,6,35
+Assault,Urban,Morning,Low,Station A,11,9
+Assault,Urban,Morning,Low,Station B,9,25
+Assault,Urban,Morning,Low,Station C,9,34
+Burglary,Suburban,Afternoon,Low,Station A,10,8
+Burglary,Suburban,Afternoon,Low,Station B,7,28
+Burglary,Suburban,Afternoon,Low,Station C,9,32
+Theft,Urban,Evening,Medium,Station A,9,3
+Theft,Urban,Evening,Medium,Station B,9,25
+Theft,Urban,Evening,Medium,Station C,8,36
+Burglary,Rural,Afternoon,Low,Station A,12,7
+Burglary,Rural,Afternoon,Low,Station B,8,25
+Burglary,Rural,Afternoon,Low,Station C,9,33
+Vandalism,Suburban,Evening,High,Station A,9,3
+Vandalism,Suburban,Evening,High,Station B,8,28
+Vandalism,Suburban,Evening,High,Station C,8,31
+Fraud,Rural,Evening,Medium,Station A,11,7
+Fraud,Rural,Evening,Medium,Station B,7,30
+Fraud,Rural,Evening,Medium,Station C,7,36
+Vandalism,Urban,Night,Low,Station A,10,8
+Vandalism,Urban,Night,Low,Station B,9,24
+Vandalism,Urban,Night,Low,Station C,7,30
+Vandalism,Suburban,Night,Low,Station A,12,3
+Vandalism,Suburban,Night,Low,Station B,8,24
+Vandalism,Suburban,Night,Low,Station C,9,35
+Theft,Suburban,Night,Low,Station A,10,7
+Theft,Suburban,Night,Low,Station B,9,27
+Theft,Suburban,Night,Low,Station C,6,31
+Vandalism,Urban,Morning,High,Station A,12,3
+Vandalism,Urban,Morning,High,Station B,6,25
+Vandalism,Urban,Morning,High,Station C,5,36
+Theft,Rural,Night,Medium,Station A,8,9
+Theft,Rural,Night,Medium,Station B,10,30
+Theft,Rural,Night,Medium,Station C,8,33
+Burglary,Rural,Evening,High,Station A,12,4
+Burglary,Rural,Evening,High,Station B,6,25
+Burglary,Rural,Evening,High,Station C,8,31
+Fraud,Urban,Morning,Medium,Station A,8,7
+Fraud,Urban,Morning,Medium,Station B,10,28
+Fraud,Urban,Morning,Medium,Station C,7,36
+Vandalism,Urban,Morning,Medium,Station A,8,9
+Vandalism,Urban,Morning,Medium,Station B,9,25
+Vandalism,Urban,Morning,Medium,Station C,7,34
+Drug Offense,Suburban,Afternoon,High,Station A,9,3
+Drug Offense,Suburban,Afternoon,High,Station B,10,28
+Drug Offense,Suburban,Afternoon,High,Station C,9,31
+Burglary,Suburban,Afternoon,Low,Station A,11,8
+Burglary,Suburban,Afternoon,Low,Station B,8,25
+Burglary,Suburban,Afternoon,Low,Station C,6,31
+Burglary,Suburban,Afternoon,High,Station A,12,3
+Burglary,Suburban,Afternoon,High,Station B,10,24
+Burglary,Suburban,Afternoon,High,Station C,6,32
+Robbery,Rural,Night,Low,Station A,11,7
+Robbery,Rural,Night,Low,Station B,10,29
+Robbery,Rural,Night,Low,Station C,6,36
+Robbery,Urban,Evening,Low,Station A,11,6
+Robbery,Urban,Evening,Low,Station B,8,26
+Robbery,Urban,Evening,Low,Station C,6,32
+Assault,Urban,Afternoon,Low,Station A,12,3
+Assault,Urban,Afternoon,Low,Station B,7,26
+Assault,Urban,Afternoon,Low,Station C,6,35
+Robbery,Suburban,Night,High,Station A,9,7
+Robbery,Suburban,Night,High,Station B,6,26
+Robbery,Suburban,Night,High,Station C,7,36
+Theft,Rural,Night,Low,Station A,10,6
+Theft,Rural,Night,Low,Station B,9,25
+Theft,Rural,Night,Low,Station C,5,31
+Fraud,Urban,Night,High,Station A,9,3
+Fraud,Urban,Night,High,Station B,8,29
+Fraud,Urban,Night,High,Station C,8,34
+Burglary,Urban,Night,Medium,Station A,10,7
+Burglary,Urban,Night,Medium,Station B,7,27
+Burglary,Urban,Night,Medium,Station C,5,30
+Vandalism,Rural,Evening,High,Station A,12,8
+Vandalism,Rural,Evening,High,Station B,6,26
+Vandalism,Rural,Evening,High,Station C,7,33
+Robbery,Rural,Night,Medium,Station A,11,3
+Robbery,Rural,Night,Medium,Station B,7,26
+Robbery,Rural,Night,Medium,Station C,5,32
+Assault,Urban,Morning,Medium,Station A,9,6
+Assault,Urban,Morning,Medium,Station B,10,26
+Assault,Urban,Morning,Medium,Station C,8,35
+Drug Offense,Urban,Evening,High,Station A,8,3
+Drug Offense,Urban,Evening,High,Station B,9,29
+Drug Offense,Urban,Evening,High,Station C,5,31
+Assault,Urban,Afternoon,Low,Station A,11,7
+Assault,Urban,Afternoon,Low,Station B,6,24
+Assault,Urban,Afternoon,Low,Station C,5,36
+Robbery,Suburban,Afternoon,Medium,Station A,11,9
+Robbery,Suburban,Afternoon,Medium,Station B,10,27
+Robbery,Suburban,Afternoon,Medium,Station C,7,34
+Vandalism,Urban,Evening,High,Station A,9,3
+Vandalism,Urban,Evening,High,Station B,6,28
+Vandalism,Urban,Evening,High,Station C,5,35
+Theft,Suburban,Afternoon,Medium,Station A,11,4
+Theft,Suburban,Afternoon,Medium,Station B,6,24
+Theft,Suburban,Afternoon,Medium,Station C,6,36
+Fraud,Urban,Morning,High,Station A,8,7
+Fraud,Urban,Morning,High,Station B,9,29
+Fraud,Urban,Morning,High,Station C,5,30
+Assault,Suburban,Morning,High,Station A,12,8
+Assault,Suburban,Morning,High,Station B,9,26
+Assault,Suburban,Morning,High,Station C,7,35
+Theft,Rural,Night,Medium,Station A,9,9
+Theft,Rural,Night,Medium,Station B,8,30
+Theft,Rural,Night,Medium,Station C,6,35
+Drug Offense,Suburban,Afternoon,High,Station A,8,5
+Drug Offense,Suburban,Afternoon,High,Station B,7,29
+Drug Offense,Suburban,Afternoon,High,Station C,6,34
+Theft,Urban,Night,High,Station A,12,7
+Theft,Urban,Night,High,Station B,6,25
+Theft,Urban,Night,High,Station C,5,30
+Robbery,Rural,Evening,Medium,Station A,9,8
+Robbery,Rural,Evening,Medium,Station B,9,28
+Robbery,Rural,Evening,Medium,Station C,9,33
+Fraud,Suburban,Night,High,Station A,10,8
+Fraud,Suburban,Night,High,Station B,8,24
+Fraud,Suburban,Night,High,Station C,9,32
+Theft,Suburban,Morning,High,Station A,11,6
+Theft,Suburban,Morning,High,Station B,8,28
+Theft,Suburban,Morning,High,Station C,8,33
+Burglary,Rural,Morning,High,Station A,10,9
+Burglary,Rural,Morning,High,Station B,6,25
+Burglary,Rural,Morning,High,Station C,8,35
+Robbery,Rural,Afternoon,Medium,Station A,10,5
+Robbery,Rural,Afternoon,Medium,Station B,10,24
+Robbery,Rural,Afternoon,Medium,Station C,7,34
+Fraud,Rural,Evening,High,Station A,9,5
+Fraud,Rural,Evening,High,Station B,9,28
+Fraud,Rural,Evening,High,Station C,5,35
+Drug Offense,Suburban,Afternoon,Medium,Station A,8,9
+Drug Offense,Suburban,Afternoon,Medium,Station B,10,26
+Drug Offense,Suburban,Afternoon,Medium,Station C,8,33
+Fraud,Suburban,Afternoon,Low,Station A,10,6
+Fraud,Suburban,Afternoon,Low,Station B,8,30
+Fraud,Suburban,Afternoon,Low,Station C,7,30
+Assault,Rural,Afternoon,Low,Station A,10,8
+Assault,Rural,Afternoon,Low,Station B,9,25
+Assault,Rural,Afternoon,Low,Station C,8,33
+Assault,Urban,Night,High,Station A,10,3
+Assault,Urban,Night,High,Station B,7,26
+Assault,Urban,Night,High,Station C,7,36
+Drug Offense,Rural,Morning,Medium,Station A,10,5
+Drug Offense,Rural,Morning,Medium,Station B,7,25
+Drug Offense,Rural,Morning,Medium,Station C,6,31
+Robbery,Urban,Afternoon,Low,Station A,12,5
+Robbery,Urban,Afternoon,Low,Station B,8,26
+Robbery,Urban,Afternoon,Low,Station C,7,35
+Burglary,Rural,Afternoon,Low,Station A,12,6
+Burglary,Rural,Afternoon,Low,Station B,8,29
+Burglary,Rural,Afternoon,Low,Station C,7,36
+Drug Offense,Suburban,Night,Low,Station A,12,4
+Drug Offense,Suburban,Night,Low,Station B,7,29
+Drug Offense,Suburban,Night,Low,Station C,6,36
+Drug Offense,Suburban,Afternoon,High,Station A,9,3
+Drug Offense,Suburban,Afternoon,High,Station B,10,24
+Drug Offense,Suburban,Afternoon,High,Station C,8,32
+Burglary,Suburban,Night,Medium,Station A,10,4
+Burglary,Suburban,Night,Medium,Station B,9,30
+Burglary,Suburban,Night,Medium,Station C,7,33
+Vandalism,Rural,Night,High,Station A,10,5
+Vandalism,Rural,Night,High,Station B,9,25
+Vandalism,Rural,Night,High,Station C,5,35
+Burglary,Rural,Afternoon,High,Station A,12,8
+Burglary,Rural,Afternoon,High,Station B,8,30
+Burglary,Rural,Afternoon,High,Station C,9,36
+Assault,Suburban,Evening,High,Station A,12,7
+Assault,Suburban,Evening,High,Station B,10,30
+Assault,Suburban,Evening,High,Station C,8,31
+Drug Offense,Suburban,Afternoon,Medium,Station A,8,5
+Drug Offense,Suburban,Afternoon,Medium,Station B,8,27
+Drug Offense,Suburban,Afternoon,Medium,Station C,5,33
+Theft,Suburban,Evening,High,Station A,9,6
+Theft,Suburban,Evening,High,Station B,10,27
+Theft,Suburban,Evening,High,Station C,6,34
+Vandalism,Urban,Morning,Medium,Station A,10,6
+Vandalism,Urban,Morning,Medium,Station B,10,29
+Vandalism,Urban,Morning,Medium,Station C,8,30
+Vandalism,Urban,Night,Low,Station A,12,8
+Vandalism,Urban,Night,Low,Station B,10,30
+Vandalism,Urban,Night,Low,Station C,6,33
+Drug Offense,Suburban,Morning,Low,Station A,10,9
+Drug Offense,Suburban,Morning,Low,Station B,6,27
+Drug Offense,Suburban,Morning,Low,Station C,6,36
+Burglary,Suburban,Afternoon,High,Station A,12,8
+Burglary,Suburban,Afternoon,High,Station B,9,24
+Burglary,Suburban,Afternoon,High,Station C,6,36
+Fraud,Suburban,Evening,Medium,Station A,9,4
+Fraud,Suburban,Evening,Medium,Station B,9,29
+Fraud,Suburban,Evening,Medium,Station C,8,30
+Assault,Suburban,Evening,High,Station A,11,4
+Assault,Suburban,Evening,High,Station B,7,26
+Assault,Suburban,Evening,High,Station C,8,34
+Robbery,Rural,Evening,High,Station A,9,9
+Robbery,Rural,Evening,High,Station B,8,29
+Robbery,Rural,Evening,High,Station C,8,32
+Theft,Urban,Afternoon,High,Station A,10,3
+Theft,Urban,Afternoon,High,Station B,7,28
+Theft,Urban,Afternoon,High,Station C,7,32
+Theft,Urban,Morning,Medium,Station A,8,8
+Theft,Urban,Morning,Medium,Station B,8,27
+Theft,Urban,Morning,Medium,Station C,8,31
+Robbery,Rural,Morning,Medium,Station A,9,7
+Robbery,Rural,Morning,Medium,Station B,9,28
+Robbery,Rural,Morning,Medium,Station C,8,30
+Drug Offense,Urban,Night,Medium,Station A,8,5
+Drug Offense,Urban,Night,Medium,Station B,9,26
+Drug Offense,Urban,Night,Medium,Station C,7,33
+Theft,Rural,Evening,Medium,Station A,10,9
+Theft,Rural,Evening,Medium,Station B,6,28
+Theft,Rural,Evening,Medium,Station C,9,31
+Burglary,Urban,Afternoon,Low,Station A,10,3
+Burglary,Urban,Afternoon,Low,Station B,6,30
+Burglary,Urban,Afternoon,Low,Station C,8,33
+Burglary,Urban,Morning,Low,Station A,12,6
+Burglary,Urban,Morning,Low,Station B,9,28
+Burglary,Urban,Morning,Low,Station C,6,33
+Assault,Suburban,Afternoon,Medium,Station A,8,3
+Assault,Suburban,Afternoon,Medium,Station B,9,29
+Assault,Suburban,Afternoon,Medium,Station C,8,36
+Robbery,Rural,Afternoon,High,Station A,12,3
+Robbery,Rural,Afternoon,High,Station B,9,28
+Robbery,Rural,Afternoon,High,Station C,7,36
+Fraud,Urban,Evening,Medium,Station A,9,6
+Fraud,Urban,Evening,Medium,Station B,9,27
+Fraud,Urban,Evening,Medium,Station C,7,30
+Assault,Suburban,Night,High,Station A,8,5
+Assault,Suburban,Night,High,Station B,8,24
+Assault,Suburban,Night,High,Station C,7,35
+Assault,Urban,Afternoon,Low,Station A,9,5
+Assault,Urban,Afternoon,Low,Station B,7,27
+Assault,Urban,Afternoon,Low,Station C,7,36
+Robbery,Rural,Night,Low,Station A,11,7
+Robbery,Rural,Night,Low,Station B,8,28
+Robbery,Rural,Night,Low,Station C,5,32
+Drug Offense,Rural,Evening,High,Station A,11,8
+Drug Offense,Rural,Evening,High,Station B,6,25
+Drug Offense,Rural,Evening,High,Station C,6,32
+Drug Offense,Urban,Night,Low,Station A,10,5
+Drug Offense,Urban,Night,Low,Station B,10,25
+Drug Offense,Urban,Night,Low,Station C,6,36
+Burglary,Urban,Afternoon,High,Station A,11,7
+Burglary,Urban,Afternoon,High,Station B,7,30
+Burglary,Urban,Afternoon,High,Station C,5,30
+Vandalism,Urban,Afternoon,Medium,Station A,10,8
+Vandalism,Urban,Afternoon,Medium,Station B,8,28
+Vandalism,Urban,Afternoon,Medium,Station C,5,34
+Drug Offense,Rural,Evening,Low,Station A,12,4
+Drug Offense,Rural,Evening,Low,Station B,7,25
+Drug Offense,Rural,Evening,Low,Station C,9,35
+Robbery,Suburban,Night,High,Station A,8,7
+Robbery,Suburban,Night,High,Station B,10,26
+Robbery,Suburban,Night,High,Station C,5,34
+Drug Offense,Rural,Evening,Medium,Station A,9,8
+Drug Offense,Rural,Evening,Medium,Station B,7,25
+Drug Offense,Rural,Evening,Medium,Station C,7,36
+Theft,Rural,Morning,Medium,Station A,9,8
+Theft,Rural,Morning,Medium,Station B,7,27
+Theft,Rural,Morning,Medium,Station C,5,32
+Burglary,Urban,Morning,High,Station A,9,5
+Burglary,Urban,Morning,High,Station B,7,25
+Burglary,Urban,Morning,High,Station C,5,36
+Burglary,Rural,Morning,High,Station A,9,4
+Burglary,Rural,Morning,High,Station B,9,27
+Burglary,Rural,Morning,High,Station C,7,32
+Drug Offense,Rural,Morning,Medium,Station A,8,7
+Drug Offense,Rural,Morning,Medium,Station B,7,28
+Drug Offense,Rural,Morning,Medium,Station C,5,32
+Fraud,Suburban,Morning,Medium,Station A,9,7
+Fraud,Suburban,Morning,Medium,Station B,10,26
+Fraud,Suburban,Morning,Medium,Station C,9,32
+Theft,Urban,Night,High,Station A,12,9
+Theft,Urban,Night,High,Station B,6,28
+Theft,Urban,Night,High,Station C,8,33

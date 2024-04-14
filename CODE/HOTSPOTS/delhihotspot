@@ -1,0 +1,42 @@
+import pandas as pd
+import numpy as np
+from sklearn.cluster import KMeans
+import folium
+
+# Load the dummy crime data
+crime_data = pd.read_csv('dummy_crime_data.csv')
+
+# Feature selection
+features = ['latitude', 'longitude', 'population_density', 'median_income', 'education_level', 
+            'unemployment_rate', 'proximity_to_transport', 'proximity_to_parks', 'proximity_to_schools', 
+            'proximity_to_bars', 'historical_crime_data', 'poverty_rate', 'housing_density', 
+            'police_stations', 'patrol_routes', 'response_time']
+
+X = crime_data[features]
+
+# Define the latitude and longitude boundaries of Tamil Nadu
+tamilnadu_bounds = (8.0, 13.5, 76.0, 80.5)  # (min_lat, max_lat, min_lon, max_lon)
+
+# Filter data points in Tamil Nadu
+tamilnadu_data = crime_data[(crime_data['latitude'] >= tamilnadu_bounds[0]) & 
+                            (crime_data['latitude'] <= tamilnadu_bounds[1]) &
+                            (crime_data['longitude'] >= tamilnadu_bounds[2]) &
+                            (crime_data['longitude'] <= tamilnadu_bounds[3])]
+
+if not tamilnadu_data.empty:
+    # Perform K-means clustering
+    k = 10  # Adjust the number of clusters as needed
+    kmeans = KMeans(n_clusters=k, random_state=42)
+    tamilnadu_data['cluster'] = kmeans.fit_predict(tamilnadu_data[['latitude', 'longitude']])
+
+    # Create a Folium map centered around Tamil Nadu
+    tamilnadu_map = folium.Map(location=[11.0, 78.5], zoom_start=7, tiles='OpenStreetMap')
+
+    # Mark crime hotspots (cluster centroids) in Tamil Nadu on the map
+    for centroid in kmeans.cluster_centers_:
+        folium.Marker(location=[centroid[0], centroid[1]], popup='Cluster Center').add_to(tamilnadu_map)
+
+    # Save the map as an HTML file
+    tamilnadu_map.save('tamilnadu_crime_hotspots_map.html')
+else:
+    print("No data points found within the specified boundaries for Tamil Nadu.")

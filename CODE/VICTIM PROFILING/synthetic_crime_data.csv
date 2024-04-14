@@ -1,0 +1,1001 @@
+victim_age,victim_gender,victim_race,crime_type,location,outcome
+19,Male,White,Fraud,Suburban,Arrest
+52,Male,White,Fraud,Urban,Warning
+74,Male,Black,Vandalism,Urban,Warning
+71,Female,White,Assault,Suburban,Arrest
+34,Male,Hispanic,Drug Offense,Rural,No Action
+35,Female,White,Drug Offense,Rural,Warning
+64,Male,Hispanic,Vandalism,Rural,Warning
+62,Male,White,Vandalism,Urban,No Action
+76,Female,White,Robbery,Suburban,Arrest
+44,Male,Asian,Robbery,Suburban,Warning
+46,Female,Black,Vandalism,Urban,No Action
+52,Female,Hispanic,Drug Offense,Suburban,Arrest
+40,Male,Hispanic,Theft,Suburban,Arrest
+37,Male,Hispanic,Burglary,Suburban,Warning
+69,Male,White,Robbery,Rural,No Action
+36,Male,Black,Drug Offense,Urban,Arrest
+66,Female,Hispanic,Fraud,Suburban,No Action
+45,Female,Black,Assault,Suburban,Warning
+35,Male,Hispanic,Assault,Urban,No Action
+60,Female,White,Theft,Rural,No Action
+79,Female,White,Drug Offense,Urban,Warning
+20,Female,White,Assault,Suburban,Warning
+69,Female,Hispanic,Robbery,Urban,Warning
+52,Male,Hispanic,Assault,Suburban,No Action
+75,Female,White,Fraud,Rural,Warning
+33,Female,Black,Assault,Urban,No Action
+23,Female,Black,Fraud,Suburban,Warning
+32,Female,Hispanic,Fraud,Urban,No Action
+18,Male,Black,Theft,Rural,Arrest
+58,Female,Asian,Drug Offense,Rural,No Action
+20,Male,Hispanic,Burglary,Suburban,No Action
+58,Male,White,Assault,Suburban,Warning
+57,Female,White,Drug Offense,Suburban,Arrest
+43,Female,Asian,Fraud,Urban,Arrest
+65,Female,Asian,Vandalism,Rural,Arrest
+61,Female,Hispanic,Drug Offense,Suburban,No Action
+52,Female,Hispanic,Assault,Rural,Warning
+60,Male,Black,Theft,Rural,Arrest
+29,Male,White,Drug Offense,Urban,No Action
+68,Female,Hispanic,Fraud,Urban,Warning
+78,Female,Asian,Robbery,Suburban,Warning
+76,Male,White,Theft,Suburban,No Action
+75,Female,Hispanic,Robbery,Urban,No Action
+74,Female,Black,Drug Offense,Rural,Warning
+27,Female,Hispanic,Drug Offense,Suburban,Warning
+64,Female,Black,Vandalism,Rural,Arrest
+39,Female,Black,Robbery,Suburban,Warning
+21,Male,Hispanic,Drug Offense,Urban,Arrest
+67,Male,White,Burglary,Suburban,Warning
+33,Male,Black,Vandalism,Urban,Arrest
+45,Male,Black,Robbery,Suburban,No Action
+23,Female,Hispanic,Theft,Suburban,Arrest
+55,Female,Asian,Burglary,Urban,No Action
+65,Female,Asian,Fraud,Suburban,Warning
+33,Male,Black,Robbery,Rural,Warning
+43,Female,White,Fraud,Urban,Warning
+26,Male,Asian,Drug Offense,Urban,No Action
+67,Male,Asian,Assault,Suburban,No Action
+69,Female,Asian,Burglary,Urban,Warning
+51,Female,Hispanic,Fraud,Suburban,Warning
+26,Male,Asian,Fraud,Rural,No Action
+27,Female,Black,Fraud,Urban,Warning
+39,Female,Black,Robbery,Suburban,Warning
+55,Male,Hispanic,Assault,Suburban,Warning
+40,Male,White,Drug Offense,Rural,Arrest
+58,Male,White,Drug Offense,Urban,No Action
+25,Male,Black,Drug Offense,Suburban,No Action
+56,Female,White,Fraud,Suburban,Warning
+51,Female,Asian,Theft,Rural,Warning
+63,Male,Black,Robbery,Suburban,No Action
+42,Female,White,Fraud,Suburban,Warning
+55,Female,Black,Drug Offense,Suburban,No Action
+70,Male,Asian,Theft,Urban,Warning
+68,Female,Black,Assault,Rural,No Action
+31,Female,Black,Vandalism,Rural,No Action
+63,Male,White,Robbery,Rural,Warning
+25,Female,Asian,Assault,Rural,No Action
+45,Female,Asian,Vandalism,Suburban,Arrest
+34,Female,Asian,Burglary,Suburban,Arrest
+36,Female,White,Vandalism,Rural,No Action
+68,Male,Asian,Robbery,Rural,Warning
+55,Male,Black,Drug Offense,Rural,Warning
+41,Female,White,Robbery,Suburban,Arrest
+34,Female,Hispanic,Drug Offense,Suburban,Arrest
+35,Female,White,Robbery,Urban,No Action
+54,Female,White,Fraud,Urban,No Action
+25,Female,White,Vandalism,Suburban,Arrest
+40,Male,Hispanic,Burglary,Suburban,Warning
+77,Male,Black,Theft,Urban,Warning
+44,Male,Black,Vandalism,Urban,No Action
+49,Female,White,Drug Offense,Suburban,No Action
+28,Female,Hispanic,Assault,Suburban,No Action
+68,Female,Black,Burglary,Suburban,No Action
+52,Male,White,Drug Offense,Suburban,No Action
+53,Male,Asian,Fraud,Rural,No Action
+35,Male,Hispanic,Burglary,Rural,Warning
+30,Female,Black,Burglary,Suburban,No Action
+28,Male,Hispanic,Assault,Rural,Warning
+21,Male,Asian,Robbery,Suburban,Warning
+73,Male,Asian,Burglary,Rural,Warning
+21,Female,Black,Robbery,Suburban,Warning
+52,Female,White,Fraud,Urban,No Action
+56,Female,Black,Robbery,Rural,Arrest
+41,Male,Asian,Burglary,Suburban,No Action
+63,Female,Hispanic,Fraud,Suburban,Warning
+61,Male,White,Drug Offense,Suburban,No Action
+54,Male,White,Fraud,Suburban,No Action
+58,Female,Hispanic,Assault,Suburban,No Action
+27,Male,White,Theft,Urban,Arrest
+31,Male,Asian,Theft,Rural,Warning
+72,Female,White,Theft,Urban,Warning
+55,Female,Black,Robbery,Urban,Warning
+33,Male,White,Vandalism,Suburban,Arrest
+59,Female,Black,Theft,Rural,Arrest
+21,Female,Asian,Burglary,Rural,No Action
+51,Female,Black,Assault,Suburban,No Action
+47,Male,Black,Drug Offense,Rural,Warning
+79,Male,Asian,Fraud,Suburban,No Action
+30,Male,Asian,Burglary,Suburban,Arrest
+70,Female,White,Fraud,Rural,Arrest
+68,Female,Asian,Theft,Rural,Warning
+78,Male,Hispanic,Fraud,Rural,Warning
+60,Male,White,Fraud,Rural,Arrest
+67,Female,Black,Assault,Rural,Arrest
+43,Male,White,Assault,Rural,No Action
+65,Male,Black,Drug Offense,Urban,No Action
+51,Male,White,Drug Offense,Suburban,Arrest
+24,Male,Asian,Burglary,Rural,No Action
+62,Female,White,Drug Offense,Rural,Arrest
+74,Female,Hispanic,Robbery,Urban,Arrest
+43,Male,Black,Drug Offense,Rural,Arrest
+31,Female,White,Fraud,Suburban,Warning
+64,Female,Asian,Theft,Rural,Warning
+25,Male,Black,Assault,Suburban,No Action
+78,Female,Hispanic,Assault,Rural,Arrest
+74,Female,Asian,Robbery,Suburban,Warning
+33,Female,White,Assault,Urban,Arrest
+27,Female,Asian,Fraud,Suburban,Arrest
+32,Female,Hispanic,Fraud,Urban,No Action
+49,Male,White,Assault,Urban,Warning
+33,Male,Asian,Theft,Suburban,Arrest
+75,Female,White,Drug Offense,Rural,Warning
+70,Female,Asian,Assault,Suburban,Warning
+59,Male,Asian,Assault,Suburban,Warning
+79,Male,Black,Fraud,Rural,Warning
+32,Female,Black,Burglary,Urban,Arrest
+56,Male,Hispanic,Assault,Rural,Warning
+27,Female,Asian,Robbery,Urban,Arrest
+36,Female,Black,Burglary,Rural,Warning
+19,Male,Hispanic,Drug Offense,Suburban,Warning
+68,Male,Black,Theft,Rural,Arrest
+27,Female,Asian,Assault,Rural,Warning
+26,Male,Black,Robbery,Rural,Arrest
+50,Male,Asian,Robbery,Suburban,Arrest
+56,Female,Black,Robbery,Urban,No Action
+24,Male,Black,Vandalism,Urban,Arrest
+46,Female,Black,Assault,Suburban,Arrest
+28,Male,Black,Robbery,Urban,No Action
+61,Male,Black,Robbery,Rural,Warning
+73,Female,Hispanic,Vandalism,Urban,No Action
+19,Male,White,Assault,Urban,Warning
+35,Male,Hispanic,Burglary,Rural,Arrest
+56,Male,Black,Drug Offense,Urban,Arrest
+77,Female,Black,Fraud,Suburban,Arrest
+55,Female,Hispanic,Vandalism,Rural,No Action
+66,Female,Black,Robbery,Rural,Arrest
+19,Female,Black,Robbery,Suburban,Warning
+21,Female,White,Theft,Rural,No Action
+25,Male,Hispanic,Theft,Suburban,Warning
+45,Male,Black,Vandalism,Urban,Arrest
+20,Male,Asian,Drug Offense,Rural,Arrest
+32,Male,White,Vandalism,Rural,Warning
+29,Male,Asian,Robbery,Suburban,Arrest
+23,Male,Black,Vandalism,Rural,No Action
+25,Female,Hispanic,Theft,Urban,Arrest
+62,Female,Black,Assault,Urban,Warning
+61,Male,Asian,Robbery,Urban,No Action
+66,Male,Hispanic,Fraud,Suburban,Warning
+25,Male,Asian,Burglary,Rural,Warning
+27,Female,Asian,Burglary,Rural,No Action
+71,Female,Black,Burglary,Urban,No Action
+48,Male,Black,Burglary,Urban,Warning
+21,Female,White,Burglary,Suburban,Arrest
+68,Female,White,Fraud,Rural,Arrest
+69,Male,White,Vandalism,Urban,Warning
+72,Male,Asian,Vandalism,Urban,Arrest
+69,Male,Hispanic,Fraud,Suburban,Warning
+77,Female,Black,Theft,Suburban,No Action
+35,Male,Black,Burglary,Urban,No Action
+49,Male,White,Assault,Urban,Warning
+57,Female,White,Fraud,Rural,No Action
+71,Male,Asian,Theft,Urban,Warning
+26,Male,Asian,Burglary,Suburban,Arrest
+29,Male,Black,Fraud,Rural,Arrest
+24,Female,Asian,Drug Offense,Urban,Warning
+41,Male,Black,Burglary,Rural,Warning
+38,Male,Asian,Fraud,Rural,Arrest
+67,Female,Asian,Assault,Urban,Warning
+21,Male,White,Burglary,Suburban,Arrest
+35,Male,Hispanic,Robbery,Urban,No Action
+42,Male,Black,Theft,Suburban,Warning
+66,Female,Black,Theft,Urban,Warning
+49,Male,Black,Drug Offense,Rural,Warning
+52,Female,Black,Assault,Urban,Warning
+52,Male,White,Drug Offense,Suburban,Arrest
+74,Male,White,Theft,Rural,No Action
+45,Male,Hispanic,Robbery,Suburban,No Action
+62,Female,Hispanic,Robbery,Rural,Warning
+58,Female,Asian,Assault,Rural,No Action
+40,Female,White,Vandalism,Suburban,Warning
+24,Female,Black,Assault,Rural,Warning
+43,Female,Hispanic,Drug Offense,Rural,Warning
+24,Male,Asian,Burglary,Rural,Arrest
+25,Male,Hispanic,Fraud,Suburban,No Action
+44,Female,Asian,Burglary,Suburban,Warning
+22,Female,Asian,Assault,Urban,Warning
+27,Female,White,Drug Offense,Urban,Arrest
+34,Male,Black,Fraud,Urban,Warning
+35,Female,White,Assault,Urban,Warning
+21,Male,White,Assault,Rural,No Action
+39,Male,Black,Robbery,Rural,No Action
+50,Female,Asian,Vandalism,Urban,Warning
+24,Female,Asian,Drug Offense,Suburban,Arrest
+43,Male,White,Drug Offense,Suburban,Warning
+38,Female,Hispanic,Burglary,Rural,Arrest
+79,Male,Hispanic,Vandalism,Suburban,Arrest
+69,Male,White,Assault,Rural,Arrest
+70,Male,White,Assault,Urban,Arrest
+39,Male,White,Fraud,Suburban,Warning
+35,Male,Asian,Robbery,Rural,Warning
+28,Male,Asian,Assault,Rural,Arrest
+74,Male,Black,Assault,Rural,Arrest
+70,Female,Black,Theft,Rural,No Action
+20,Female,Black,Robbery,Suburban,No Action
+38,Female,Hispanic,Theft,Suburban,No Action
+50,Female,Black,Fraud,Suburban,No Action
+19,Female,Black,Burglary,Urban,Arrest
+76,Female,Black,Burglary,Rural,Warning
+67,Female,Black,Fraud,Suburban,Arrest
+65,Female,Asian,Theft,Rural,No Action
+22,Male,White,Fraud,Urban,Arrest
+48,Male,White,Vandalism,Suburban,No Action
+29,Male,Black,Assault,Urban,Warning
+35,Female,Asian,Vandalism,Rural,Arrest
+38,Male,Asian,Theft,Suburban,No Action
+68,Female,Hispanic,Theft,Rural,Arrest
+75,Female,Hispanic,Burglary,Rural,Arrest
+46,Female,White,Theft,Urban,No Action
+77,Female,Black,Theft,Rural,Warning
+38,Male,Asian,Burglary,Urban,Arrest
+64,Female,Hispanic,Robbery,Rural,Warning
+72,Male,Asian,Robbery,Urban,Warning
+34,Female,Hispanic,Assault,Rural,Arrest
+76,Male,White,Assault,Rural,Warning
+55,Female,Black,Assault,Suburban,Arrest
+49,Male,Hispanic,Assault,Rural,Arrest
+20,Male,White,Burglary,Suburban,Warning
+47,Female,Hispanic,Drug Offense,Rural,No Action
+27,Female,Asian,Fraud,Suburban,No Action
+72,Female,White,Robbery,Suburban,No Action
+66,Female,Asian,Burglary,Suburban,Arrest
+74,Male,Hispanic,Assault,Rural,Arrest
+53,Male,White,Assault,Suburban,Arrest
+20,Female,White,Fraud,Rural,No Action
+63,Male,Hispanic,Robbery,Rural,No Action
+40,Female,Asian,Fraud,Urban,Warning
+67,Male,Hispanic,Vandalism,Rural,No Action
+36,Male,White,Robbery,Urban,No Action
+26,Male,Hispanic,Vandalism,Urban,Arrest
+63,Male,Hispanic,Vandalism,Rural,No Action
+50,Female,Black,Assault,Rural,No Action
+67,Female,Black,Theft,Rural,Arrest
+38,Male,Asian,Assault,Urban,No Action
+35,Male,Asian,Drug Offense,Suburban,No Action
+60,Female,White,Drug Offense,Rural,Arrest
+49,Male,Asian,Assault,Suburban,No Action
+43,Male,Asian,Assault,Urban,No Action
+47,Male,Asian,Theft,Suburban,No Action
+78,Female,Hispanic,Fraud,Rural,Warning
+41,Female,Black,Burglary,Rural,Arrest
+19,Female,Hispanic,Theft,Rural,Warning
+47,Male,Black,Theft,Suburban,No Action
+76,Female,Asian,Theft,Urban,Warning
+18,Female,Black,Vandalism,Suburban,No Action
+33,Female,Hispanic,Robbery,Suburban,Warning
+58,Male,Hispanic,Burglary,Suburban,No Action
+44,Male,Black,Theft,Rural,No Action
+58,Female,Hispanic,Assault,Suburban,Arrest
+27,Male,Asian,Theft,Urban,Warning
+32,Female,White,Theft,Urban,Arrest
+44,Male,Asian,Burglary,Suburban,Warning
+55,Male,White,Assault,Rural,Arrest
+45,Female,Asian,Theft,Rural,Warning
+26,Female,Asian,Fraud,Rural,Warning
+26,Female,White,Theft,Urban,Warning
+55,Male,Black,Drug Offense,Urban,Arrest
+51,Male,Asian,Burglary,Suburban,Arrest
+75,Female,Black,Fraud,Rural,Arrest
+60,Female,Asian,Fraud,Rural,Arrest
+25,Female,Hispanic,Robbery,Suburban,Arrest
+62,Female,White,Vandalism,Urban,Warning
+32,Female,White,Theft,Rural,Warning
+76,Female,Asian,Robbery,Rural,No Action
+67,Female,Hispanic,Fraud,Suburban,Arrest
+27,Female,White,Fraud,Suburban,No Action
+46,Male,White,Robbery,Urban,Warning
+57,Male,Hispanic,Robbery,Suburban,Warning
+34,Female,Black,Drug Offense,Suburban,No Action
+50,Female,Hispanic,Vandalism,Urban,Arrest
+37,Female,Asian,Assault,Rural,Warning
+31,Female,Black,Assault,Rural,Warning
+31,Male,White,Theft,Rural,No Action
+57,Female,Black,Theft,Urban,No Action
+49,Female,White,Vandalism,Urban,Arrest
+32,Male,Asian,Assault,Urban,Warning
+55,Male,Black,Assault,Urban,No Action
+62,Male,White,Theft,Rural,No Action
+23,Male,Hispanic,Robbery,Suburban,Warning
+72,Male,Black,Drug Offense,Rural,Warning
+27,Male,White,Burglary,Suburban,Warning
+58,Female,Black,Robbery,Urban,No Action
+63,Female,White,Drug Offense,Urban,Arrest
+55,Female,White,Vandalism,Suburban,No Action
+69,Male,Asian,Assault,Urban,Warning
+60,Male,Asian,Assault,Rural,Warning
+68,Female,Black,Assault,Urban,No Action
+55,Female,Asian,Vandalism,Rural,No Action
+48,Female,Hispanic,Burglary,Urban,Warning
+59,Female,Black,Theft,Urban,No Action
+18,Male,White,Assault,Rural,No Action
+39,Female,White,Theft,Urban,Warning
+42,Female,Black,Theft,Urban,Warning
+32,Male,White,Robbery,Suburban,Arrest
+31,Male,Black,Robbery,Rural,Warning
+58,Male,Black,Vandalism,Suburban,Warning
+33,Female,Black,Vandalism,Rural,Warning
+57,Female,White,Robbery,Urban,No Action
+18,Female,Asian,Theft,Rural,Warning
+47,Female,Hispanic,Drug Offense,Rural,No Action
+50,Female,White,Assault,Suburban,Warning
+33,Male,Black,Burglary,Rural,No Action
+57,Male,Black,Vandalism,Urban,No Action
+47,Female,Asian,Assault,Rural,Warning
+42,Male,Asian,Robbery,Suburban,Warning
+26,Male,Hispanic,Drug Offense,Suburban,Warning
+29,Female,Hispanic,Vandalism,Rural,Warning
+18,Male,Black,Burglary,Rural,Warning
+24,Male,Hispanic,Theft,Suburban,Warning
+18,Female,Asian,Assault,Urban,Arrest
+25,Male,Hispanic,Drug Offense,Urban,No Action
+52,Male,White,Theft,Urban,Arrest
+69,Male,White,Assault,Urban,Arrest
+59,Female,Asian,Drug Offense,Suburban,Warning
+26,Female,Asian,Fraud,Rural,No Action
+76,Female,Black,Burglary,Urban,No Action
+35,Male,Asian,Assault,Suburban,No Action
+22,Male,Hispanic,Fraud,Rural,Arrest
+35,Male,White,Vandalism,Urban,Warning
+31,Male,White,Drug Offense,Suburban,Warning
+41,Male,Black,Robbery,Suburban,Warning
+38,Female,Black,Theft,Urban,Arrest
+19,Male,Hispanic,Fraud,Urban,Warning
+28,Male,White,Robbery,Suburban,No Action
+26,Male,Black,Burglary,Suburban,No Action
+34,Male,White,Robbery,Urban,Warning
+38,Female,Black,Vandalism,Suburban,No Action
+58,Female,White,Assault,Urban,Warning
+31,Female,Hispanic,Burglary,Rural,No Action
+21,Male,Hispanic,Drug Offense,Rural,Arrest
+30,Female,Black,Theft,Rural,Arrest
+49,Female,Black,Drug Offense,Rural,No Action
+69,Male,Hispanic,Vandalism,Rural,No Action
+19,Male,Hispanic,Theft,Suburban,Arrest
+24,Female,Black,Vandalism,Rural,No Action
+66,Male,Black,Robbery,Suburban,Arrest
+59,Male,Hispanic,Drug Offense,Rural,Warning
+79,Female,Black,Vandalism,Urban,Warning
+58,Female,Black,Fraud,Rural,Warning
+78,Male,White,Drug Offense,Rural,No Action
+78,Female,White,Robbery,Rural,No Action
+79,Male,White,Burglary,Suburban,Arrest
+20,Female,Hispanic,Burglary,Rural,Warning
+26,Male,White,Burglary,Suburban,Arrest
+50,Female,Asian,Fraud,Suburban,No Action
+41,Female,Hispanic,Vandalism,Suburban,No Action
+50,Male,Black,Fraud,Urban,Arrest
+32,Male,White,Fraud,Suburban,Arrest
+30,Male,Asian,Vandalism,Suburban,Warning
+41,Female,Black,Robbery,Suburban,No Action
+45,Female,Hispanic,Robbery,Rural,No Action
+72,Female,White,Theft,Rural,Arrest
+58,Female,Asian,Theft,Rural,Arrest
+34,Female,Black,Drug Offense,Rural,Arrest
+26,Male,White,Assault,Suburban,No Action
+58,Female,Black,Robbery,Rural,Arrest
+77,Female,Black,Assault,Urban,Warning
+32,Female,Black,Drug Offense,Rural,Warning
+48,Male,Hispanic,Burglary,Suburban,Arrest
+41,Male,Hispanic,Robbery,Urban,Arrest
+46,Male,Asian,Theft,Urban,Arrest
+77,Male,Asian,Fraud,Urban,No Action
+48,Male,Hispanic,Fraud,Rural,Warning
+58,Male,Hispanic,Drug Offense,Urban,No Action
+47,Female,White,Vandalism,Urban,No Action
+18,Female,Asian,Assault,Urban,Arrest
+66,Male,Black,Theft,Urban,Arrest
+56,Male,Hispanic,Theft,Urban,Warning
+42,Male,White,Burglary,Urban,Warning
+25,Male,Black,Burglary,Urban,No Action
+58,Male,White,Assault,Urban,No Action
+34,Female,Asian,Vandalism,Suburban,Arrest
+69,Female,White,Assault,Rural,Arrest
+62,Male,White,Theft,Urban,Warning
+53,Female,Hispanic,Assault,Suburban,Arrest
+77,Male,Asian,Assault,Suburban,Arrest
+53,Female,White,Robbery,Urban,Arrest
+78,Female,Asian,Theft,Suburban,No Action
+18,Female,Hispanic,Burglary,Rural,Arrest
+58,Female,Hispanic,Robbery,Urban,Warning
+77,Male,White,Robbery,Suburban,No Action
+71,Male,Black,Vandalism,Urban,Warning
+76,Female,Hispanic,Assault,Urban,No Action
+57,Male,Asian,Robbery,Rural,Warning
+25,Female,White,Theft,Urban,Arrest
+65,Female,Hispanic,Fraud,Suburban,Warning
+24,Female,Black,Robbery,Urban,Arrest
+70,Male,Black,Assault,Urban,No Action
+30,Male,Black,Assault,Urban,Warning
+72,Male,White,Assault,Rural,No Action
+22,Female,White,Assault,Rural,Arrest
+61,Male,White,Burglary,Suburban,Warning
+72,Female,Black,Fraud,Urban,Warning
+30,Female,Black,Burglary,Rural,No Action
+58,Female,White,Theft,Rural,Warning
+53,Male,Hispanic,Fraud,Suburban,Warning
+26,Female,Asian,Fraud,Rural,Warning
+32,Male,Asian,Burglary,Rural,Arrest
+58,Female,Asian,Burglary,Rural,Arrest
+74,Male,Hispanic,Theft,Rural,Warning
+65,Male,White,Drug Offense,Suburban,No Action
+35,Female,Asian,Robbery,Rural,No Action
+26,Male,White,Vandalism,Suburban,Arrest
+57,Female,White,Fraud,Rural,Warning
+63,Male,White,Drug Offense,Rural,Arrest
+39,Male,Asian,Robbery,Urban,Arrest
+76,Female,Black,Drug Offense,Urban,No Action
+60,Male,Asian,Robbery,Rural,No Action
+38,Female,Black,Drug Offense,Rural,Warning
+56,Male,Hispanic,Drug Offense,Suburban,Arrest
+45,Female,White,Drug Offense,Urban,Warning
+40,Female,White,Burglary,Urban,No Action
+57,Male,Black,Theft,Rural,Arrest
+69,Female,Asian,Vandalism,Rural,Warning
+62,Male,Black,Drug Offense,Suburban,Warning
+61,Female,White,Robbery,Urban,Warning
+51,Male,Black,Burglary,Suburban,Warning
+59,Female,White,Vandalism,Suburban,No Action
+78,Female,Hispanic,Fraud,Rural,No Action
+74,Female,White,Fraud,Urban,Warning
+21,Female,White,Assault,Urban,Arrest
+41,Male,White,Vandalism,Urban,Arrest
+43,Male,Hispanic,Robbery,Urban,No Action
+77,Male,White,Fraud,Rural,Arrest
+28,Male,White,Vandalism,Suburban,No Action
+78,Male,Asian,Fraud,Urban,Warning
+28,Female,Black,Burglary,Urban,Warning
+61,Male,White,Fraud,Suburban,Arrest
+18,Male,Black,Drug Offense,Suburban,No Action
+68,Male,Asian,Drug Offense,Rural,No Action
+29,Female,Hispanic,Theft,Suburban,Warning
+28,Male,Asian,Theft,Urban,No Action
+37,Male,White,Theft,Suburban,Warning
+68,Male,Black,Robbery,Urban,Arrest
+50,Male,White,Theft,Urban,Arrest
+34,Female,Hispanic,Robbery,Suburban,Warning
+34,Female,Asian,Drug Offense,Urban,Warning
+46,Female,Asian,Assault,Suburban,No Action
+62,Male,Black,Robbery,Suburban,Warning
+26,Male,Hispanic,Fraud,Urban,Arrest
+71,Male,Asian,Burglary,Suburban,No Action
+29,Female,Asian,Drug Offense,Suburban,Arrest
+21,Female,White,Drug Offense,Rural,Arrest
+64,Female,Black,Theft,Rural,Warning
+46,Female,Asian,Vandalism,Urban,No Action
+63,Female,Asian,Fraud,Rural,Arrest
+18,Female,Black,Burglary,Suburban,Warning
+79,Female,White,Burglary,Urban,No Action
+42,Female,Hispanic,Fraud,Urban,Warning
+40,Male,Hispanic,Fraud,Rural,Warning
+24,Male,Hispanic,Drug Offense,Rural,No Action
+74,Female,White,Drug Offense,Suburban,No Action
+54,Female,White,Fraud,Urban,Arrest
+35,Male,Asian,Robbery,Urban,Arrest
+48,Male,Asian,Fraud,Urban,Arrest
+30,Female,Black,Fraud,Suburban,No Action
+76,Male,Black,Burglary,Rural,Arrest
+66,Female,Black,Robbery,Suburban,No Action
+44,Male,Asian,Assault,Rural,Arrest
+38,Female,Black,Drug Offense,Suburban,Arrest
+65,Female,Asian,Robbery,Rural,No Action
+31,Male,Asian,Theft,Suburban,Warning
+21,Female,Asian,Drug Offense,Suburban,Warning
+19,Male,Black,Burglary,Rural,Arrest
+20,Male,Black,Robbery,Suburban,Arrest
+79,Female,White,Theft,Rural,No Action
+51,Female,White,Fraud,Suburban,Arrest
+58,Male,Asian,Vandalism,Suburban,Arrest
+37,Female,White,Fraud,Urban,Warning
+59,Male,Black,Drug Offense,Suburban,No Action
+25,Male,White,Vandalism,Urban,Arrest
+77,Male,Hispanic,Burglary,Suburban,No Action
+18,Male,Hispanic,Theft,Urban,Warning
+73,Female,Hispanic,Drug Offense,Rural,Arrest
+55,Female,Hispanic,Theft,Suburban,No Action
+53,Female,Asian,Fraud,Rural,Arrest
+68,Female,White,Theft,Suburban,No Action
+53,Female,White,Fraud,Urban,Warning
+66,Female,Black,Vandalism,Urban,No Action
+79,Male,Black,Theft,Rural,No Action
+66,Male,Hispanic,Robbery,Urban,Arrest
+63,Male,Black,Vandalism,Urban,Warning
+33,Male,Black,Theft,Suburban,Warning
+69,Female,White,Assault,Suburban,No Action
+59,Male,Black,Robbery,Suburban,No Action
+43,Female,White,Assault,Suburban,No Action
+19,Female,Asian,Drug Offense,Suburban,Warning
+35,Male,Black,Theft,Suburban,No Action
+30,Female,Hispanic,Theft,Suburban,Arrest
+56,Female,Black,Theft,Suburban,Arrest
+72,Male,Black,Assault,Suburban,Warning
+22,Male,Black,Vandalism,Rural,No Action
+68,Female,Asian,Assault,Suburban,Arrest
+50,Male,Asian,Fraud,Suburban,No Action
+36,Male,Hispanic,Assault,Rural,No Action
+58,Male,Hispanic,Drug Offense,Suburban,Warning
+75,Male,Black,Assault,Rural,Warning
+29,Female,Black,Drug Offense,Rural,No Action
+35,Male,Hispanic,Robbery,Urban,No Action
+60,Male,Asian,Vandalism,Suburban,Warning
+55,Male,Hispanic,Robbery,Urban,Warning
+43,Male,White,Robbery,Rural,Arrest
+18,Male,Black,Drug Offense,Urban,Warning
+49,Male,White,Robbery,Suburban,Warning
+37,Female,Hispanic,Drug Offense,Suburban,No Action
+20,Male,Hispanic,Burglary,Rural,No Action
+69,Male,Black,Drug Offense,Urban,Warning
+28,Female,Black,Burglary,Rural,No Action
+61,Male,Hispanic,Fraud,Suburban,Arrest
+28,Female,White,Fraud,Urban,Warning
+36,Female,Hispanic,Theft,Urban,Arrest
+26,Female,Asian,Drug Offense,Rural,Arrest
+74,Female,White,Drug Offense,Rural,No Action
+28,Male,Hispanic,Fraud,Rural,No Action
+58,Male,Hispanic,Fraud,Urban,No Action
+27,Male,White,Theft,Rural,No Action
+72,Female,Hispanic,Assault,Suburban,Arrest
+62,Male,Hispanic,Fraud,Suburban,Warning
+29,Female,Hispanic,Drug Offense,Suburban,Arrest
+54,Female,Black,Burglary,Suburban,No Action
+49,Male,Asian,Fraud,Rural,No Action
+48,Male,Asian,Fraud,Rural,Warning
+24,Male,White,Drug Offense,Rural,Arrest
+75,Female,Hispanic,Robbery,Rural,Arrest
+46,Female,White,Fraud,Rural,Warning
+72,Male,Asian,Theft,Rural,No Action
+73,Male,White,Theft,Urban,Arrest
+24,Female,Hispanic,Theft,Rural,Warning
+71,Male,Asian,Drug Offense,Suburban,Warning
+53,Female,Asian,Burglary,Rural,No Action
+48,Female,White,Burglary,Rural,Warning
+66,Male,White,Fraud,Rural,No Action
+47,Female,Hispanic,Vandalism,Rural,Arrest
+59,Female,Black,Vandalism,Urban,Arrest
+36,Female,White,Robbery,Suburban,Warning
+68,Male,White,Fraud,Suburban,Arrest
+75,Female,Black,Drug Offense,Suburban,Warning
+18,Male,Black,Vandalism,Suburban,No Action
+35,Female,White,Burglary,Suburban,No Action
+47,Female,Hispanic,Assault,Suburban,Warning
+57,Female,Black,Assault,Suburban,No Action
+41,Female,Hispanic,Vandalism,Rural,Arrest
+78,Female,Hispanic,Assault,Rural,Arrest
+79,Male,Asian,Burglary,Rural,No Action
+24,Male,Hispanic,Theft,Suburban,No Action
+25,Female,Black,Burglary,Urban,Arrest
+35,Female,Hispanic,Drug Offense,Urban,Warning
+36,Male,Asian,Drug Offense,Rural,No Action
+37,Male,White,Assault,Urban,Warning
+58,Female,Black,Robbery,Rural,Warning
+25,Male,Hispanic,Theft,Urban,No Action
+79,Female,White,Fraud,Urban,Warning
+64,Male,White,Theft,Suburban,Arrest
+44,Male,Asian,Robbery,Urban,No Action
+71,Female,Asian,Vandalism,Rural,No Action
+79,Male,Black,Burglary,Rural,Warning
+28,Female,Black,Fraud,Urban,Warning
+37,Female,White,Burglary,Rural,No Action
+74,Male,Hispanic,Burglary,Suburban,No Action
+39,Male,Asian,Fraud,Urban,Warning
+57,Male,Asian,Burglary,Suburban,No Action
+33,Male,Black,Fraud,Urban,No Action
+22,Female,Hispanic,Fraud,Rural,Warning
+35,Female,Asian,Theft,Rural,Arrest
+38,Female,Asian,Vandalism,Rural,Arrest
+73,Female,Black,Fraud,Urban,Warning
+65,Male,Black,Drug Offense,Rural,Arrest
+25,Female,Hispanic,Theft,Rural,Arrest
+47,Female,Hispanic,Assault,Urban,Warning
+18,Female,Black,Robbery,Urban,Warning
+25,Female,Black,Robbery,Suburban,No Action
+72,Female,Asian,Burglary,Rural,No Action
+54,Male,Asian,Burglary,Rural,Arrest
+63,Male,Black,Fraud,Rural,Arrest
+65,Male,White,Robbery,Rural,No Action
+18,Female,White,Drug Offense,Suburban,Arrest
+54,Female,Hispanic,Fraud,Rural,Warning
+75,Female,Black,Robbery,Rural,Arrest
+61,Female,White,Fraud,Suburban,No Action
+46,Male,White,Vandalism,Rural,No Action
+28,Male,Black,Vandalism,Suburban,No Action
+62,Female,Hispanic,Burglary,Urban,Arrest
+55,Female,Hispanic,Burglary,Urban,Warning
+31,Female,Hispanic,Drug Offense,Rural,Arrest
+22,Female,Asian,Drug Offense,Rural,No Action
+71,Female,Hispanic,Assault,Urban,Warning
+71,Female,Hispanic,Vandalism,Urban,Warning
+63,Male,White,Drug Offense,Rural,Arrest
+45,Male,White,Fraud,Rural,No Action
+32,Male,Black,Vandalism,Urban,No Action
+50,Female,Asian,Assault,Suburban,Arrest
+55,Male,Hispanic,Fraud,Urban,Arrest
+26,Female,Hispanic,Assault,Suburban,Arrest
+55,Female,White,Robbery,Urban,Arrest
+58,Male,Hispanic,Robbery,Suburban,No Action
+24,Male,Hispanic,Robbery,Rural,Warning
+78,Male,Hispanic,Fraud,Rural,Warning
+52,Male,Asian,Burglary,Rural,Warning
+70,Male,Hispanic,Vandalism,Rural,No Action
+62,Male,Black,Burglary,Rural,No Action
+38,Female,Asian,Burglary,Rural,Warning
+51,Female,Asian,Vandalism,Urban,No Action
+47,Female,White,Fraud,Rural,Arrest
+76,Female,White,Fraud,Urban,No Action
+26,Female,Black,Vandalism,Rural,Warning
+48,Male,White,Robbery,Urban,Arrest
+51,Female,Hispanic,Assault,Rural,Arrest
+70,Female,Black,Assault,Rural,No Action
+41,Female,Asian,Vandalism,Urban,Arrest
+44,Male,White,Robbery,Urban,Arrest
+57,Female,Black,Fraud,Rural,Warning
+60,Male,Asian,Assault,Rural,No Action
+37,Female,Asian,Burglary,Rural,No Action
+27,Male,Asian,Theft,Urban,No Action
+22,Male,White,Burglary,Urban,No Action
+74,Female,White,Robbery,Urban,Warning
+49,Male,Asian,Robbery,Rural,Arrest
+70,Male,Asian,Burglary,Suburban,Arrest
+44,Male,Hispanic,Vandalism,Suburban,Warning
+72,Male,Black,Theft,Urban,Arrest
+70,Male,Hispanic,Fraud,Suburban,Warning
+19,Female,Black,Theft,Urban,Warning
+62,Female,Black,Vandalism,Urban,Arrest
+78,Female,White,Robbery,Rural,Warning
+58,Male,Asian,Vandalism,Rural,Arrest
+35,Male,Hispanic,Drug Offense,Suburban,Arrest
+54,Female,Asian,Burglary,Urban,Arrest
+30,Female,Asian,Burglary,Rural,Warning
+38,Female,Hispanic,Vandalism,Urban,No Action
+51,Male,White,Fraud,Urban,Warning
+25,Female,Black,Vandalism,Suburban,No Action
+21,Female,Asian,Drug Offense,Urban,Arrest
+18,Female,Black,Theft,Rural,Warning
+25,Female,Black,Drug Offense,Rural,Warning
+36,Female,Black,Robbery,Suburban,Arrest
+78,Male,Asian,Theft,Urban,No Action
+26,Male,Asian,Drug Offense,Suburban,No Action
+75,Male,Hispanic,Theft,Suburban,No Action
+35,Male,Black,Assault,Urban,Warning
+69,Female,Hispanic,Assault,Rural,Arrest
+51,Female,Hispanic,Assault,Rural,Arrest
+33,Male,Asian,Robbery,Suburban,No Action
+47,Female,Black,Vandalism,Urban,No Action
+31,Male,Black,Fraud,Rural,No Action
+68,Male,White,Vandalism,Rural,No Action
+27,Female,Black,Fraud,Urban,No Action
+72,Male,Asian,Burglary,Rural,Warning
+63,Female,Asian,Drug Offense,Suburban,Warning
+53,Female,Asian,Vandalism,Urban,Arrest
+57,Female,Hispanic,Vandalism,Rural,No Action
+22,Male,Hispanic,Drug Offense,Suburban,Warning
+19,Female,Asian,Fraud,Rural,No Action
+65,Female,Asian,Fraud,Suburban,Arrest
+18,Male,White,Fraud,Suburban,No Action
+75,Female,Asian,Drug Offense,Urban,Arrest
+23,Male,White,Theft,Suburban,Arrest
+34,Male,Hispanic,Robbery,Rural,Arrest
+37,Female,Black,Robbery,Urban,No Action
+77,Male,Hispanic,Fraud,Urban,Arrest
+50,Female,Hispanic,Vandalism,Rural,Warning
+76,Male,Hispanic,Robbery,Rural,No Action
+47,Male,Asian,Assault,Rural,Warning
+32,Male,Black,Assault,Urban,Arrest
+20,Male,Black,Burglary,Urban,Warning
+57,Male,Black,Theft,Rural,Arrest
+26,Male,Asian,Fraud,Suburban,Warning
+61,Male,Hispanic,Burglary,Rural,Arrest
+41,Female,Asian,Burglary,Suburban,No Action
+70,Male,Asian,Fraud,Urban,Arrest
+28,Female,Hispanic,Theft,Suburban,Arrest
+18,Male,White,Theft,Suburban,No Action
+72,Female,Black,Assault,Rural,No Action
+21,Female,White,Theft,Urban,Warning
+44,Male,Black,Fraud,Rural,No Action
+50,Male,Asian,Vandalism,Urban,Arrest
+73,Male,White,Theft,Rural,Warning
+57,Female,White,Robbery,Rural,Warning
+19,Male,Asian,Theft,Urban,Arrest
+56,Male,Asian,Assault,Urban,No Action
+34,Male,Black,Robbery,Urban,Warning
+40,Male,Hispanic,Fraud,Rural,Arrest
+32,Male,White,Theft,Rural,Warning
+21,Male,Asian,Drug Offense,Suburban,Arrest
+70,Female,Hispanic,Vandalism,Urban,No Action
+78,Female,Asian,Robbery,Suburban,No Action
+72,Male,Black,Drug Offense,Rural,Warning
+36,Male,Asian,Theft,Rural,Warning
+54,Female,Asian,Theft,Suburban,Warning
+50,Male,Asian,Fraud,Suburban,Warning
+33,Male,White,Burglary,Urban,Arrest
+35,Male,Black,Vandalism,Rural,Arrest
+70,Female,Hispanic,Burglary,Suburban,Arrest
+50,Male,Hispanic,Burglary,Urban,Warning
+44,Female,Hispanic,Burglary,Urban,Arrest
+22,Female,Asian,Vandalism,Rural,Arrest
+44,Female,White,Vandalism,Urban,Arrest
+71,Male,White,Fraud,Urban,Warning
+60,Female,Hispanic,Theft,Suburban,No Action
+57,Female,Asian,Robbery,Rural,Warning
+55,Male,Hispanic,Robbery,Urban,Arrest
+72,Female,Black,Vandalism,Urban,Warning
+72,Female,Asian,Fraud,Urban,Warning
+40,Female,White,Burglary,Rural,Warning
+19,Female,Black,Vandalism,Rural,Arrest
+75,Male,Hispanic,Theft,Urban,Arrest
+45,Female,Hispanic,Theft,Suburban,Arrest
+54,Male,Hispanic,Fraud,Suburban,Arrest
+30,Male,Black,Fraud,Urban,No Action
+28,Male,Asian,Vandalism,Urban,No Action
+78,Male,White,Robbery,Suburban,Warning
+20,Male,Hispanic,Vandalism,Suburban,Arrest
+77,Male,White,Theft,Suburban,Warning
+65,Female,White,Robbery,Urban,Warning
+47,Male,Hispanic,Fraud,Urban,No Action
+47,Female,Hispanic,Vandalism,Urban,No Action
+47,Male,Black,Robbery,Suburban,Arrest
+74,Male,Black,Theft,Urban,Arrest
+77,Male,Asian,Robbery,Rural,No Action
+68,Male,Black,Burglary,Suburban,No Action
+39,Male,Black,Theft,Rural,No Action
+28,Female,White,Vandalism,Rural,Arrest
+47,Female,White,Theft,Suburban,Arrest
+56,Female,Hispanic,Vandalism,Rural,Warning
+24,Male,Asian,Theft,Urban,Warning
+45,Female,White,Theft,Urban,Arrest
+60,Male,Black,Fraud,Suburban,No Action
+48,Male,Black,Fraud,Suburban,Arrest
+24,Male,Hispanic,Theft,Urban,Arrest
+39,Male,Asian,Assault,Urban,Warning
+79,Female,White,Theft,Urban,Warning
+67,Female,White,Robbery,Rural,Arrest
+44,Male,White,Fraud,Suburban,Arrest
+60,Female,Asian,Assault,Rural,Warning
+79,Female,Asian,Fraud,Suburban,Arrest
+32,Male,Black,Fraud,Suburban,Warning
+29,Male,Asian,Vandalism,Suburban,Arrest
+75,Male,Black,Drug Offense,Urban,Warning
+53,Male,White,Fraud,Urban,Arrest
+23,Male,Hispanic,Robbery,Suburban,Arrest
+52,Female,White,Theft,Rural,No Action
+65,Male,Black,Drug Offense,Urban,Warning
+32,Female,Asian,Robbery,Urban,Arrest
+51,Male,Hispanic,Theft,Rural,Warning
+75,Male,Hispanic,Robbery,Urban,Arrest
+53,Female,Black,Drug Offense,Rural,Warning
+62,Female,Black,Burglary,Rural,Arrest
+66,Male,Hispanic,Drug Offense,Urban,No Action
+52,Female,Asian,Assault,Rural,Warning
+68,Female,Black,Drug Offense,Rural,No Action
+76,Female,Hispanic,Drug Offense,Rural,No Action
+55,Female,White,Robbery,Urban,No Action
+64,Female,Asian,Drug Offense,Rural,No Action
+28,Female,Black,Robbery,Suburban,Arrest
+44,Female,Black,Vandalism,Suburban,No Action
+30,Male,White,Vandalism,Rural,Arrest
+43,Male,Asian,Robbery,Suburban,Warning
+34,Female,Black,Robbery,Rural,Arrest
+44,Female,Hispanic,Fraud,Rural,Warning
+66,Female,Black,Robbery,Suburban,Arrest
+38,Male,Hispanic,Theft,Urban,No Action
+28,Female,Asian,Vandalism,Suburban,Warning
+52,Male,Hispanic,Theft,Rural,No Action
+51,Male,Black,Robbery,Rural,Arrest
+46,Female,Black,Assault,Rural,Arrest
+39,Female,Asian,Burglary,Urban,Arrest
+35,Female,Asian,Vandalism,Rural,Warning
+30,Male,Asian,Burglary,Rural,Warning
+79,Male,Asian,Robbery,Urban,Arrest
+66,Female,Asian,Vandalism,Suburban,Arrest
+56,Male,Hispanic,Theft,Rural,Warning
+38,Male,Hispanic,Vandalism,Urban,Warning
+30,Female,White,Drug Offense,Urban,Arrest
+53,Female,Hispanic,Burglary,Suburban,No Action
+48,Female,White,Drug Offense,Suburban,Arrest
+47,Female,Asian,Theft,Urban,Arrest
+70,Female,Black,Assault,Suburban,No Action
+70,Female,Black,Drug Offense,Rural,Arrest
+22,Female,Asian,Burglary,Rural,Arrest
+21,Male,Black,Drug Offense,Urban,Warning
+78,Female,Black,Burglary,Suburban,No Action
+34,Male,White,Assault,Rural,No Action
+45,Female,White,Burglary,Suburban,Warning
+39,Female,Asian,Robbery,Suburban,Warning
+68,Female,White,Theft,Suburban,No Action
+73,Female,Asian,Burglary,Rural,No Action
+77,Male,Black,Burglary,Rural,Arrest
+48,Male,Black,Vandalism,Suburban,Warning
+62,Female,Asian,Burglary,Suburban,No Action
+22,Female,White,Burglary,Rural,No Action
+78,Male,Hispanic,Drug Offense,Suburban,No Action
+24,Female,Asian,Theft,Rural,Warning
+34,Male,White,Drug Offense,Suburban,Warning
+48,Male,White,Burglary,Urban,Warning
+69,Male,Black,Drug Offense,Suburban,Arrest
+71,Female,Hispanic,Burglary,Rural,Arrest
+28,Female,Asian,Vandalism,Suburban,No Action
+56,Female,White,Robbery,Urban,Arrest
+18,Female,White,Assault,Urban,Arrest
+33,Female,White,Assault,Urban,Warning
+31,Male,Asian,Drug Offense,Rural,No Action
+38,Male,Black,Burglary,Suburban,Warning
+46,Female,Black,Fraud,Rural,Arrest
+35,Male,Asian,Theft,Rural,No Action
+68,Female,White,Burglary,Rural,No Action
+57,Male,Black,Drug Offense,Rural,No Action
+27,Male,Asian,Burglary,Rural,Warning
+36,Female,Black,Theft,Suburban,Arrest
+34,Female,White,Assault,Urban,No Action
+33,Male,Black,Assault,Suburban,Arrest
+42,Female,Hispanic,Assault,Urban,Warning
+53,Male,Asian,Burglary,Suburban,Warning
+42,Female,Asian,Fraud,Suburban,No Action
+28,Male,Black,Assault,Rural,No Action
+52,Male,Hispanic,Assault,Rural,Warning
+51,Female,Asian,Fraud,Rural,Warning
+74,Female,Asian,Drug Offense,Rural,Arrest
+49,Male,White,Assault,Suburban,No Action
+53,Female,White,Drug Offense,Urban,No Action
+67,Male,White,Burglary,Rural,Arrest
+71,Female,White,Assault,Urban,Warning
+27,Female,Asian,Vandalism,Rural,Arrest
+33,Male,Asian,Burglary,Suburban,Arrest
+68,Male,Asian,Robbery,Suburban,Arrest
+53,Female,Black,Robbery,Rural,Arrest
+65,Female,White,Vandalism,Suburban,Arrest
+67,Female,Hispanic,Vandalism,Suburban,No Action
+71,Female,White,Assault,Urban,Warning
+36,Male,Black,Robbery,Suburban,Arrest
+71,Male,Hispanic,Assault,Rural,Arrest
+20,Female,Asian,Theft,Urban,Warning
+73,Male,Asian,Assault,Rural,Warning
+43,Male,Hispanic,Burglary,Suburban,No Action
+23,Male,Asian,Burglary,Suburban,Arrest
+36,Female,Asian,Assault,Rural,Arrest
+54,Male,White,Drug Offense,Urban,Arrest
+48,Male,Black,Robbery,Suburban,No Action
+42,Female,Hispanic,Theft,Rural,Arrest
+73,Male,White,Theft,Suburban,No Action
+46,Female,White,Theft,Suburban,No Action
+43,Male,White,Assault,Suburban,Arrest
+39,Male,Black,Theft,Rural,Warning
+45,Male,White,Theft,Rural,Arrest
+58,Male,White,Burglary,Urban,Arrest
+23,Male,Black,Burglary,Rural,Warning
+19,Female,White,Robbery,Urban,Arrest
+69,Male,Asian,Robbery,Urban,Warning
+67,Female,Black,Fraud,Urban,No Action
+41,Female,White,Burglary,Urban,Arrest
+45,Female,Black,Assault,Rural,Warning
+47,Male,Asian,Assault,Urban,Warning
+58,Female,White,Drug Offense,Urban,Arrest
+63,Female,White,Fraud,Urban,Warning
+65,Male,White,Vandalism,Urban,No Action
+73,Male,Asian,Theft,Suburban,Warning
+29,Female,Asian,Theft,Urban,Warning
+57,Male,White,Theft,Rural,Arrest
+67,Female,Asian,Assault,Suburban,Arrest
+30,Male,White,Theft,Rural,Arrest
+34,Male,Black,Fraud,Suburban,No Action
+30,Female,Asian,Assault,Suburban,No Action
+66,Male,Hispanic,Theft,Suburban,Warning
+70,Female,Black,Burglary,Urban,Warning
+51,Male,White,Theft,Suburban,Arrest
+45,Female,Asian,Drug Offense,Urban,Arrest
+53,Male,Black,Fraud,Suburban,Warning
+23,Female,Hispanic,Robbery,Urban,No Action
+62,Female,Asian,Burglary,Urban,No Action
+19,Female,Hispanic,Vandalism,Rural,Arrest
+51,Male,Hispanic,Assault,Rural,Arrest
+34,Male,Black,Vandalism,Suburban,Arrest
+36,Female,Black,Drug Offense,Urban,Warning
+63,Female,White,Drug Offense,Suburban,Warning
+25,Female,Black,Vandalism,Rural,Arrest
+79,Female,Hispanic,Vandalism,Suburban,No Action
+18,Female,White,Vandalism,Suburban,Warning
+53,Male,Hispanic,Theft,Suburban,Arrest
+51,Female,Hispanic,Burglary,Suburban,Warning
+77,Male,White,Drug Offense,Rural,Warning
+37,Male,Asian,Vandalism,Suburban,Warning
+21,Male,White,Fraud,Rural,Arrest
+36,Male,White,Vandalism,Suburban,Warning
+43,Male,White,Theft,Rural,No Action
+24,Male,Hispanic,Fraud,Suburban,Arrest
+38,Male,Black,Burglary,Rural,Warning
+75,Female,White,Drug Offense,Suburban,Warning
+49,Male,Asian,Theft,Rural,Arrest
+73,Male,Hispanic,Vandalism,Suburban,Warning
+60,Male,Hispanic,Fraud,Rural,No Action
+59,Female,Hispanic,Burglary,Suburban,No Action
+63,Female,Black,Burglary,Suburban,No Action
+25,Female,Black,Fraud,Rural,No Action
+51,Male,Black,Vandalism,Urban,Arrest
+56,Male,White,Fraud,Suburban,Warning
+27,Male,Black,Drug Offense,Urban,No Action
+47,Male,White,Vandalism,Suburban,Warning
+66,Female,White,Drug Offense,Urban,Warning
+55,Female,Hispanic,Burglary,Suburban,Arrest
+53,Male,Hispanic,Burglary,Rural,Arrest
+58,Male,Asian,Vandalism,Rural,No Action
+23,Male,Asian,Fraud,Urban,No Action
+42,Female,White,Vandalism,Rural,Arrest
+59,Female,White,Vandalism,Suburban,Arrest
+78,Male,White,Assault,Suburban,No Action
+43,Female,Black,Drug Offense,Suburban,Warning
+19,Female,White,Vandalism,Suburban,Arrest
+34,Male,Hispanic,Burglary,Suburban,Warning
+50,Male,White,Vandalism,Urban,Arrest
+34,Male,Hispanic,Theft,Rural,Arrest
+47,Female,Hispanic,Vandalism,Rural,Warning
+29,Female,Hispanic,Drug Offense,Suburban,Warning
+61,Male,Black,Vandalism,Urban,Arrest
+64,Male,Hispanic,Theft,Urban,Arrest
+78,Male,Hispanic,Vandalism,Rural,No Action
+67,Female,Hispanic,Theft,Rural,Arrest
+20,Male,White,Vandalism,Urban,No Action
+75,Female,Black,Fraud,Urban,Warning
+44,Male,White,Vandalism,Urban,Warning
+71,Female,Asian,Robbery,Urban,Warning
+37,Female,Hispanic,Vandalism,Suburban,No Action
+52,Male,Black,Fraud,Suburban,No Action
+23,Female,Asian,Drug Offense,Urban,Warning
+42,Male,Asian,Vandalism,Rural,No Action
+64,Male,White,Burglary,Rural,Warning
+48,Female,Asian,Theft,Urban,Warning
+69,Female,Hispanic,Fraud,Suburban,Warning
+53,Male,Asian,Vandalism,Urban,Arrest
+31,Female,Hispanic,Vandalism,Urban,No Action
+68,Female,Hispanic,Drug Offense,Rural,Warning
+25,Male,Black,Drug Offense,Rural,No Action
+71,Male,White,Drug Offense,Rural,Warning
+56,Male,Black,Robbery,Rural,No Action
+52,Female,Hispanic,Burglary,Rural,No Action
+65,Male,Hispanic,Vandalism,Suburban,No Action
+25,Female,White,Theft,Suburban,No Action
+71,Male,White,Theft,Rural,Warning
+32,Male,Hispanic,Burglary,Suburban,Warning
+59,Female,White,Assault,Rural,Warning
+68,Female,Hispanic,Drug Offense,Urban,No Action
+75,Male,Asian,Vandalism,Rural,No Action
+30,Male,Black,Fraud,Rural,No Action
+77,Male,Asian,Vandalism,Rural,Warning
+19,Male,Black,Robbery,Urban,Warning
+21,Male,Asian,Assault,Suburban,Arrest
+23,Male,Black,Theft,Suburban,No Action
+28,Male,Hispanic,Assault,Rural,No Action
+78,Male,Black,Drug Offense,Suburban,Warning
+32,Male,Black,Robbery,Rural,Warning
+23,Female,Hispanic,Robbery,Urban,No Action
+26,Female,Black,Theft,Urban,Warning
+22,Male,Asian,Theft,Rural,Warning
+22,Female,White,Burglary,Rural,Arrest
+36,Female,White,Assault,Urban,Warning
+30,Male,Black,Burglary,Urban,Warning
+50,Female,White,Assault,Suburban,No Action
+37,Male,Asian,Burglary,Rural,No Action
+22,Female,Hispanic,Robbery,Rural,No Action
+77,Male,White,Assault,Urban,Warning
+24,Male,Hispanic,Assault,Urban,Arrest
+72,Male,White,Robbery,Urban,Arrest
+32,Female,White,Fraud,Rural,Arrest
+59,Male,Hispanic,Vandalism,Rural,Arrest
